@@ -1,0 +1,1411 @@
+Track Name,Artist,Genres,Energy,Acousticness,Danceability,Valence,Loudness,Instrumentalness,Speechiness,Liveness,Tempo
+Mañana,Abraxas,,0.778,0.0434,0.476,0.784,-6.842,0.137,0.044,0.254,89.989
+Mon autre,Juniore,"french indie pop,french indietronica,french psychedelic",0.907,0.00398,0.576,0.624,-6.403,0.915,0.0423,0.106,164.948
+Tocame el culo,Rebe,,0.249,0.822,0.585,0.148,-18.981,0.156,0.035,0.0916,153.308
+Bier & Gold,gome,,0.788,0.00954,0.908,0.498,-9.546,6.48e-06,0.14,0.0949,127.011
+Lejanía,Lisandro Meza,"cumbia,folclor colombiano,musica andina colombiana,musica popular colombiana,tropical",0.674,0.544,0.601,0.919,-5.446,0,0.0876,0.0798,91.808
+Mixed Feelings,NENDA,,0.702,0.136,0.917,0.61,-9.64,0.00345,0.277,0.104,100.077
+Ausländer,Rammstein,"alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte",0.912,0.000757,0.681,0.479,-4.159,0.00136,0.0912,0.359,125.031
+Piazza Grande,Lucio Dalla,"canzone d'autore,classic italian pop,italian adult pop",0.539,0.767,0.564,0.522,-6.832,5.78e-05,0.0343,0.209,131.37
+A hora é essa,Celia,psicodelia brasileira,0.638,0.633,0.761,0.683,-10.197,0.00184,0.127,0.141,113.437
+Cody Was A Tank,DATSKO,,0.493,0.463,0.893,0.817,-14.468,0.036,0.304,0.0764,127.998
+Heaven Knows I'm Miserable Now - 2011 Remaster,The Smiths,"madchester,new wave,permanent wave,rock,uk post-punk",0.759,0.028,0.609,0.774,-4.862,0,0.0276,0.183,114.045
+Aguila ft. Cumbiafrica,HUGEL,"deep house,edm,pop dance",0.816,0.00304,0.812,0.211,-5.584,0.000128,0.0432,0.112,125.001
+BREAK MY SOUL,Beyoncé,"dance pop,pop,r&b",0.887,0.0575,0.687,0.853,-5.04,2.21e-06,0.0826,0.27,114.941
+Baila Conmigo,Tiësto,"big room,brostep,dance pop,dutch edm,edm,house,pop,pop dance,slap house,trance,tropical house",0.855,0.00658,0.652,0.0834,-6.411,0.409,0.0775,0.341,127.964
+Wasting My Time (Remastered 2019),Klaus Nomi,"dark cabaret,experimental vocal",0.379,0.292,0.821,0.586,-13.57,0.00707,0.07,0.225,113.666
+Ojalá me Olvides,Laura Itandehui,nuevo folklore mexicano,0.0738,0.953,0.362,0.16,-15.487,1.67e-06,0.0475,0.0952,81.889
+Yesterdays,Luiz Bonfá,"bossa nova,brazilian jazz,jazz guitar,samba-jazz,violao",0.24,0.978,0.426,0.274,-19.137,0.871,0.0388,0.113,82.572
+$copie,Die Antwoord,"african rock,south african alternative,south african hip hop",0.456,0.25,0.962,0.726,-9.988,2.3e-05,0.282,0.102,129.98
+Vendetta,Young Miko,"trap latino,urbano latino",0.642,0.532,0.854,0.502,-6.393,0,0.214,0.0888,121.912
+La Luna en tu Mirada,Los Zafiros,musica tradicional cubana,0.323,0.776,0.497,0.515,-7.62,1e-06,0.0377,0.0901,73.893
+Yo no Necesito de Mucho,Laura Itandehui,nuevo folklore mexicano,0.0777,0.889,0.888,0.771,-18.506,0,0.353,0.061,122.747
+This Mess We're In,PJ Harvey,"alternative rock,art pop,art rock,chamber psych,indie rock,melancholia,permanent wave,piano rock,rock,singer-songwriter",0.595,0.0282,0.541,0.311,-9.657,0.226,0.028,0.0947,126.327
+Flores No Mar (Radio Edit),Populous,"indie electronica,italian electronica,latintronica,pop electronico,puglia indie",0.548,0.0592,0.817,0.56,-9.161,0.59,0.0582,0.09,126.028
+Eine Nacht,Belah,"german hip hop,turkish trap pop",0.586,0.182,0.607,0.484,-6.24,0,0.0685,0.0846,99.903
+Freak,Doja Cat,"dance pop,pop",0.716,0.0969,0.688,0.373,-5.702,0,0.0385,0.0989,116.912
+Where Is My Mind? - Remastered,Pixies,"alternative rock,boston rock,modern rock,permanent wave,rock",0.441,0.0204,0.519,0.25,-14.178,0.000453,0.0353,0.076,81.334
+"If You See Her, Say Hello",Bob Dylan,"classic rock,country rock,folk,folk rock,mellow gold,rock,roots rock,singer-songwriter",0.224,0.768,0.383,0.466,-16.99,0,0.0274,0.087,102.94
+Fantasias,Rauw Alejandro,"puerto rican pop,trap latino,urbano latino",0.703,0.143,0.879,0.788,-4.219,0,0.0701,0.0569,94.004
+In Da Getto,J Balvin,"reggaeton,reggaeton colombiano,urbano latino",0.72,0.025,0.915,0.631,-3.126,1.42e-05,0.0459,0.0942,126.986
+Milano,Calcutta ,"italian indie pop,rome indie",0.289,0.521,0.384,0.0851,-9.746,9.01e-05,0.0358,0.102,133.839
+Chau,No Te Va Gustar,"latin alternative,latin rock,reggae uruguayo,rock en espanol,rock uruguayo",0.387,0.136,0.795,0.908,-9.22,0.000746,0.0503,0.664,95.984
+El Loco,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.387,0.203,0.687,0.602,-9.842,0.000335,0.0273,0.0913,112.722
+I'll Be Around,The Growlers,"garage rock revival,indie garage rock,indie surf",0.904,0.000775,0.485,0.898,-3.48,0,0.0465,0.182,92.067
+El Destino,Francisca y Los Exploradores,"argentine indie,latin rock",0.333,0.552,0.538,0.308,-11.342,0.000801,0.0322,0.109,139.703
+Better Now,Post Malone,"dfw rap,melodic rap,rap",0.578,0.331,0.68,0.341,-5.804,0,0.04,0.135,145.038
+Nuts,David Bowie,"art rock,classic rock,glam rock,permanent wave,rock",0.596,0.00149,0.584,0.533,-17.849,0.832,0.0657,0.48,159.999
+Vanille fraise,L'Impératrice,"french indie pop,french indietronica,french synthpop,new french touch",0.547,0.0399,0.767,0.66,-11.458,0.485,0.0474,0.0949,103.03
+Deliver Us,Ofra Haza,"classic israeli pop,israeli singer-songwriter,mizrahi,world",0.178,0.728,0.217,0.0925,-16.679,0.0113,0.0383,0.133,73.059
+The End of the World,Sharon Van Etten,"art pop,chamber pop,chamber psych,dream pop,indie folk,indie pop,indie rock,melancholia,new jersey indie",0.234,0.793,0.332,0.256,-11.823,0.00375,0.0277,0.187,93.992
+41 Mosquitoes Flying In Formation,Tame Impala,"australian psych,neo-psychedelic",0.861,0.447,0.525,0.36,-6.884,0.0304,0.0493,0.107,128.046
+La Musica Italiana,Giorgio Poi,"italian indie pop,rome indie",0.44,0.35,0.471,0.31,-6.077,0,0.0379,0.126,169.906
+Asesina - Remix,Brytiago,"latin hip hop,reggaeton,reggaeton flow,trap latino,urbano latino",0.69,0.589,0.825,0.516,-4.252,0,0.226,0.413,94.194
+Dile al Amor,Aventura,"bachata,bachata dominicana,latin hip hop,latin pop,tropical,urbano latino",0.605,0.0764,0.825,0.944,-9.71,0,0.0376,0.314,124.005
+Deusa Do Amor,Moreno Veloso,"bossa nova,mpb,nova mpb",0.188,0.82,0.476,0.602,-16.233,0.0118,0.0428,0.136,159.323
+Dettagli - Detalhes,Ornella Vanoni,"classic italian pop,italian adult pop",0.243,0.811,0.468,0.396,-14.554,1.71e-06,0.034,0.198,95.151
+Una brava ragazza,Luigi Tenco,"canzone d'autore,classic italian pop,italian adult pop,italian alternative",0.176,0.836,0.519,0.364,-16.151,0,0.0555,0.342,62.279
+Ragazza sola,Stefano Rosso,"canzone d'autore,classic italian pop",0.282,0.764,0.529,0.555,-11.923,0,0.232,0.0945,155.535
+Onda Su Onda,Bruno Lauzi,"canzone d'autore,canzone genovese,classic italian pop,italian lounge,musica per bambini",0.469,0.491,0.414,0.419,-9.794,0,0.0532,0.599,138.246
+Addio a Napoli / Ma come fanno i marinai,Francesco De Gregori,"canzone d'autore,classic italian pop,folk rock italiano,italian adult pop",0.443,0.582,0.396,0.472,-15.151,0,0.0861,0.79,129.329
+Per Te,Jovanotti,"classic italian pop,italian adult pop,italian pop",0.228,0.893,0.376,0.54,-12.553,0.00136,0.0408,0.118,88.77
+C'Era Una Volta E Ancora C'E',Stefano Rosso,"canzone d'autore,classic italian pop",0.486,0.494,0.603,0.68,-11.926,0,0.053,0.418,83.54
+Gli amanti di Roma,Gianmaria Testa,canzone d'autore,0.155,0.907,0.423,0.316,-17.167,0.00118,0.0366,0.113,100.093
+Giovanna d'arco,Fabrizio De André,"canzone d'autore,canzone genovese,classic italian pop,folk rock italiano,italian adult pop,musica sarda",0.174,0.913,0.441,0.248,-14.899,0.000741,0.035,0.116,133.397
+Non trattare,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.495,0.785,0.477,0.308,-9.681,0.0208,0.0433,0.0752,125.9
+Brucia troia,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.725,0.0403,0.366,0.483,-7.234,0,0.0596,0.348,123.56
+Dalla parte di Spessotto,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.496,0.212,0.785,0.773,-7.075,0,0.247,0.111,112.501
+Moska valza,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.905,0.00827,0.701,0.58,-5.478,0.0257,0.0455,0.275,90.997
+Al Colosseo,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.938,0.483,0.407,0.0381,-9.966,0.00142,0.353,0.707,138.141
+L'uomo vivo (Inno al gioia),Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.848,0.863,0.406,0.626,-6.246,0.022,0.0762,0.324,138.294
+Medusa cha cha cha,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.605,0.596,0.639,0.942,-9.238,2.44e-05,0.206,0.0957,161.714
+Nel blu,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.402,0.789,0.324,0.129,-9.988,0.0011,0.057,0.505,133.216
+Dove siamo rimasti a terra Nutless,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.256,0.93,0.467,0.281,-11.261,0.00144,0.0343,0.0881,132.488
+Pena de l'alma,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.195,0.897,0.487,0.352,-12.429,0,0.0462,0.265,148.692
+Lanterne rosse,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.0855,0.875,0.431,0.268,-18.835,0.000291,0.042,0.158,118.973
+S.S. dei naufragati,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.319,0.769,0.257,0.199,-15.632,0.000153,0.11,0.283,82.916
+Ovunque proteggi,Vinicio Capossela,"canzone d'autore,folk rock italiano,italian adult pop,italian alternative",0.327,0.764,0.642,0.37,-11.728,0.00255,0.0349,0.119,107.11
+Mystère Dans Le Brouillard,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.739,0.333,0.58,0.531,-8.89,0.0318,0.0476,0.171,168.152
+Los Niños Del Parque,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.981,0.349,0.901,0.629,-5.363,0.15,0.0937,0.111,114.585
+Etre Assis Ou Danser,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.96,0.102,0.712,0.97,-5.952,0.52,0.0617,0.057,177.191
+Aperitif De La Mort,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.322,0.163,0.449,0.137,-16.507,0.539,0.175,0.088,117.996
+Kess Kill Fé Show,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.736,0.0403,0.947,0.864,-9.203,0.0773,0.0356,0.0874,120.592
+Peut Être ... Pas,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.918,0.0884,0.862,0.836,-6.851,0.868,0.0522,0.0557,124.853
+Avant-Après Mars,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.943,0.0237,0.71,0.692,-7.736,0.661,0.057,0.0822,111.391
+El Macho Y La Nena,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.943,0.18,0.794,0.841,-8.485,0.68,0.0572,0.088,111.987
+Dupont,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.62,0.349,0.626,0.323,-14.378,0.931,0.0496,0.252,136.12
+Liaisons Dangereuses,Liaisons Dangereuses,"dusseldorf electronic,ebm,minimal wave,neue deutsche welle",0.564,0.537,0.552,0.555,-10.271,0.458,0.0333,0.527,179.576
+Moliendo Cafe',Los Galanes,,0.34,0.233,0.747,0.382,-15.147,0.0244,0.0696,0.109,109.789
+Ma Mujer de Antonio,Los Galanes,,0.334,0.119,0.685,0.309,-14.703,0.00142,0.0811,0.115,100.571
+Hasta Siempre Comandante,Los Galanes,,0.266,0.229,0.846,0.577,-15.375,0.00343,0.0374,0.106,109.191
+Merecumbe,Los Galanes,,0.293,0.203,0.668,0.566,-17.272,0.00865,0.164,0.143,93.246
+Yolanda,Los Galanes,,0.253,0.0741,0.814,0.691,-15.751,0.00104,0.0469,0.0816,118.897
+Guantanamera,Los Galanes,,0.286,0.159,0.813,0.735,-15.752,0.0267,0.0442,0.101,115.009
+El Bodeguero,Los Galanes,,0.301,0.177,0.927,0.847,-14.658,0.000757,0.0793,0.0963,115.633
+Cachita,Los Galanes,,0.364,0.102,0.743,0.444,-15.011,0.00142,0.1,0.122,104.825
+Besame Mucho,Los Galanes,,0.194,0.138,0.661,0.211,-18.774,0.056,0.0505,0.109,93.295
+Son de la Loma,Los Galanes,,0.324,0.339,0.718,0.62,-16.112,0.002,0.0617,0.12,97.752
+Chan Chan,Los Galanes,,0.352,0.139,0.676,0.323,-14.66,0.169,0.0997,0.129,165.068
+Gaetano,Calcutta ,"italian indie pop,rome indie",0.483,0.752,0.609,0.254,-7.778,3.96e-06,0.0287,0.264,139.908
+Intermezzo 2,Calcutta ,"italian indie pop,rome indie",0.138,0.801,0.16,0.177,-18.614,0.284,0.0473,0.644,171.717
+Limonata,Calcutta ,"italian indie pop,rome indie",0.166,0.941,0.561,0.32,-11.29,0,0.117,0.177,63.359
+Frosinone,Calcutta ,"italian indie pop,rome indie",0.555,0.153,0.576,0.543,-5.803,0,0.0281,0.343,145.869
+Intermezzo 1,Calcutta ,"italian indie pop,rome indie",0.125,0.836,0.513,0.179,-27.885,0.982,0.31,0.218,109.514
+Del verde,Calcutta ,"italian indie pop,rome indie",0.21,0.807,0.529,0.13,-9.372,7.16e-05,0.0302,0.164,73.028
+Dal verme (feat. Mai Mai Mai),Calcutta ,"italian indie pop,rome indie",0.458,0.0649,0.466,0.038,-13.365,0.369,0.0282,0.268,89.946
+Le barche,Calcutta ,"italian indie pop,rome indie",0.233,0.735,0.62,0.491,-10.036,0,0.0427,0.111,124.215
+Albero,Calcutta ,"italian indie pop,rome indie",0.41,0.321,0.5,0.134,-9.35,1.12e-05,0.0315,0.176,130.186
+Ese Hombre,LA INDIA,"salsa,salsa puertorriquena,tropical",0.72,0.72,0.604,0.664,-9.071,0.000153,0.0818,0.0463,88.228
+Vivir Lo Nuestro,LA INDIA,"salsa,salsa puertorriquena,tropical",0.666,0.593,0.61,0.784,-6.661,0,0.0436,0.896,90.803
+Dicen Que Soy,LA INDIA,"salsa,salsa puertorriquena,tropical",0.748,0.749,0.659,0.7,-8.864,0.000114,0.0467,0.102,168.751
+Si Tú Eres Mi Hombre,LA INDIA,"salsa,salsa puertorriquena,tropical",0.715,0.504,0.415,0.802,-7.043,4.49e-05,0.0377,0.12,89.684
+Llego La India,LA INDIA,"salsa,salsa puertorriquena,tropical",0.59,0.61,0.762,0.857,-9.709,0.0831,0.0375,0.0261,148.662
+Nunca Voy A Olvidarte,LA INDIA,"salsa,salsa puertorriquena,tropical",0.625,0.649,0.546,0.703,-10.259,0.011,0.0421,0.0767,173.79
+Que Ganas De No Verte Nunca Más,LA INDIA,"salsa,salsa puertorriquena,tropical",0.771,0.751,0.651,0.743,-9.194,0.0667,0.0469,0.13,160.432
+O Ella O Yo,LA INDIA,"salsa,salsa puertorriquena,tropical",0.745,0.833,0.692,0.874,-8.709,8.25e-06,0.0372,0.0663,159.95
+Hielo,LA INDIA,"salsa,salsa puertorriquena,tropical",0.845,0.607,0.42,0.685,-5.836,2.69e-05,0.0683,0.0707,178.981
+Fever,Tito Puente & His Latin Ensemble,latin jazz,0.552,0.371,0.638,0.69,-12.354,0.000236,0.0645,0.133,131.494
+Descarga Sonora,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.514,0.555,0.595,0.8,-10.575,0.85,0.0432,0.0701,91.777
+El Que Usted Conoce No Soy Yo,Rey Caney,musica tradicional cubana,0.875,0.989,0.527,0.901,-3.227,0.609,0.0583,0.258,110.515
+La Engañadora,Vicentico Valdés,"bolero,bolero cubano,musica tradicional cubana",0.409,0.764,0.657,0.78,-5.942,1.27e-05,0.0394,0.323,104.76
+Las Muchachas (feat. Carlos Argentino),La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.81,0.671,0.527,0.968,-2.971,0,0.19,0.0855,113.996
+En El Bajio (feat. Celia Cruz),La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.3,0.25,0.631,0.803,-10.928,9.27e-05,0.0527,0.0695,150.577
+Mi Son Tropical,Vicentico Valdés,"bolero,bolero cubano,musica tradicional cubana",0.176,0.986,0.777,0.833,-15.682,0.000227,0.0541,0.194,110.231
+Loca (feat. Sonora Matancera),Myrta Silva,musica tradicional cubana,0.665,0.794,0.707,0.971,-8.69,0.342,0.0627,0.0687,110.482
+La Esquina Del Movimiento,Nelson Pinedo,musica tradicional cubana,0.576,0.443,0.544,0.965,-8.551,3.99e-05,0.0969,0.075,197.167
+Besame Morenita (feat. Sonora Matancera),Nelson Pinedo,musica tradicional cubana,0.385,0.46,0.737,0.928,-11.826,5.21e-05,0.0755,0.102,106.054
+Se Me Fue Maria,Billo's,"classic venezuelan pop,cumbia,jazz venezolano,salsa,tropical",0.639,0.697,0.525,0.942,-6.357,0.132,0.125,0.261,185.692
+Sopita En Botella,Celia Cruz,"cha-cha-cha,cuban rumba,mambo,musica tradicional cubana,salsa,tropical",0.59,0.607,0.642,0.921,-12.646,0.00283,0.0383,0.421,99.675
+Ta Bueno Pa Baila,Tito Puente Y Sus Amigos,,0.603,0.835,0.622,0.916,-17.066,0.113,0.144,0.0605,108.937
+Cuban Mambo,Tito Puente,"afro-cuban percussion,jazz puertorriqueno,latin jazz,mambo,salsa",0.503,0.8,0.683,0.77,-16.921,0.789,0.0802,0.104,109.083
+Arrollando,Tito Puente,"afro-cuban percussion,jazz puertorriqueno,latin jazz,mambo,salsa",0.886,0.426,0.56,0.785,-5.724,1.53e-06,0.138,0.108,117.022
+Guaguanco Tropicana,Tito Puente,"afro-cuban percussion,jazz puertorriqueno,latin jazz,mambo,salsa",0.215,0.641,0.68,0.778,-24.256,0,0.0578,0.137,91.205
+Margarita (feat. Sonora Matancera),Tony Alvarez,,0.499,0.623,0.68,0.959,-7.649,0,0.047,0.0753,129.477
+Ataca Vicente,Vicentico Valdés,"bolero,bolero cubano,musica tradicional cubana",0.742,0.789,0.796,0.897,-4.678,0.000238,0.0432,0.0832,93.397
+No Quiero Nada (feat. Sonora Matancera),Victor Piñero,,0.608,0.796,0.737,0.908,-6.396,0.0177,0.0608,0.0534,103.756
+Vive La Vida Hoy,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.461,0.902,0.583,0.826,-11.008,0.0599,0.0321,0.0635,154.932
+Noche De Farra (feat. Sonora Matancera),Wuelfo,,0.478,0.774,0.621,0.963,-11.436,4.11e-05,0.0492,0.0797,141.36
+Mambo No. 8,Pérez Prado,"mambo,space age pop",0.809,0.446,0.54,0.841,-6.35,0.00196,0.113,0.281,142.57
+Mambo No. 5,Pérez Prado,"mambo,space age pop",0.695,0.572,0.78,0.849,-7.635,0.196,0.259,0.0301,92.615
+Que Rico El Mambo,Pérez Prado,"mambo,space age pop",0.66,0.724,0.735,0.663,-8.501,0.107,0.107,0.185,106.956
+Mambo A La Kenton,Pérez Prado,"mambo,space age pop",0.699,0.846,0.408,0.923,-10.426,0.943,0.127,0.118,154.143
+La Nina Popof,Pérez Prado,"mambo,space age pop",0.876,0.126,0.555,0.892,-5.617,0.443,0.067,0.275,144.882
+Patricia,Pérez Prado,"mambo,space age pop",0.483,0.435,0.727,0.752,-6.815,0.864,0.0372,0.0708,122.948
+Norma De Guadalajara,Pérez Prado,"mambo,space age pop",0.575,0.356,0.326,0.67,-5.421,0.752,0.0661,0.377,197.116
+El Taconazo,Pérez Prado,"mambo,space age pop",0.824,0.243,0.664,0.871,-6.772,0.0299,0.0462,0.349,128.33
+Mambo Del Amor,Pérez Prado,"mambo,space age pop",0.652,0.823,0.251,0.589,-5.854,0.807,0.0772,0.16,191.763
+Te Comtoneas,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.342,0.818,0.702,0.605,-8.114,0.00975,0.0424,0.0767,127.197
+Los Aretes De La Luna,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.332,0.982,0.586,0.815,-9.793,0.08,0.0482,0.262,98.731
+Sabor A Ti,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.265,0.962,0.576,0.537,-10.105,0.0139,0.0301,0.218,98.792
+Tu Hablas De Mi,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.376,0.897,0.552,0.676,-8.529,0.00928,0.0272,0.382,99.596
+Quemame Los Ojos,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.376,0.511,0.543,0.602,-9.748,4.92e-06,0.0825,0.313,113.536
+Las Muchachas,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.503,0.489,0.563,0.961,-8.718,0,0.0768,0.144,111.283
+Micaela,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.386,0.563,0.751,0.955,-11.625,0.047,0.0397,0.0834,110.642
+Un Poquito De Carino,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.312,0.567,0.533,0.805,-10.008,1.09e-05,0.0432,0.0602,139.198
+En La Orilla Del Mar,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.26,0.756,0.458,0.632,-11.897,0.281,0.0384,0.306,112.296
+Bonifacio,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.609,0.881,0.672,0.962,-7.525,0.000286,0.0416,0.307,86.778
+Por Un Caprichito,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.303,0.931,0.622,0.691,-10.826,0.657,0.034,0.124,107.096
+Estas Como Mango,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.59,0.893,0.644,0.813,-8.79,0.316,0.0853,0.09,147.213
+Tu Precio,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.382,0.844,0.593,0.75,-8.396,0.0126,0.0271,0.318,98.164
+Guanaco En La Timba,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.577,0.85,0.633,0.907,-8.87,0.0606,0.0486,0.0451,103.929
+Sun Sun,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.449,0.952,0.761,0.912,-8.942,0.0521,0.0508,0.296,121.708
+Silbando Mambo,Pérez Prado,"mambo,space age pop",0.518,0.455,0.8,0.712,-7.128,0.658,0.0348,0.0333,113.356
+Lupita,Pérez Prado,"mambo,space age pop",0.759,0.574,0.883,0.584,-8.712,0.432,0.0829,0.099,106.228
+Cerezo Rosa,Pérez Prado,"mambo,space age pop",0.5,0.727,0.507,0.563,-8.613,0.878,0.0312,0.131,105.949
+Mambo Ni Hablar,Pérez Prado,"mambo,space age pop",0.938,0.0675,0.837,0.544,-5.11,0.00149,0.208,0.769,106.466
+Maria Bonita,Pérez Prado,"mambo,space age pop",0.593,0.455,0.697,0.629,-6.09,0.89,0.037,0.36,106.845
+El Ruletero,Pérez Prado,"mambo,space age pop",0.762,0.252,0.827,0.787,-6.013,0.0177,0.0661,0.339,121.413
+Borro Cassette,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.701,0.132,0.73,0.785,-5.885,0,0.106,0.151,175.95
+¿Dónde Estás? (feat. Farruko),Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.75,0.0817,0.733,0.898,-3.571,1.46e-05,0.0774,0.446,172.025
+El Perdedor,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.73,0.425,0.702,0.879,-5.173,1.25e-06,0.099,0.148,173.967
+Me Gustas,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.772,0.258,0.637,0.711,-5.358,6.61e-05,0.0849,0.182,179.968
+Sin Contrato,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.866,0.111,0.748,0.839,-3.41,0,0.057,0.0727,96.037
+Una Aventura (feat. Alexis & Fido),Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.73,0.225,0.831,0.492,-3.714,0,0.0573,0.0679,94.009
+Tengo un Amor (feat. Leslie Grace),Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.824,0.556,0.67,0.915,-4.544,0,0.0493,0.312,134.022
+Pretextos (feat. Cosculluela),Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.712,0.253,0.829,0.644,-4.959,0,0.135,0.168,86.979
+Ya No Es Niña,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.667,0.191,0.686,0.834,-6.457,0,0.0675,0.11,173.969
+Solos (feat. El Micha),Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.67,0.131,0.527,0.732,-5.923,0,0.311,0.277,169.702
+Tu Cariño (feat. Arcángel),Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.679,0.365,0.748,0.718,-3.629,2.37e-05,0.205,0.11,176.021
+Recuérdame,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.718,0.0793,0.713,0.661,-3.66,0,0.0518,0.06,174.057
+La Misma Moneda,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.693,0.239,0.698,0.775,-5.569,0,0.0983,0.0665,179.994
+Vuelo Hacia el Olvido,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.351,0.888,0.396,0.475,-10.688,1.15e-05,0.0494,0.313,81.661
+El Tiki,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.829,0.00809,0.819,0.717,-3.416,0.000424,0.0603,0.144,91.993
+Carnaval,Maluma,"reggaeton,reggaeton colombiano,urbano latino",0.89,0.0553,0.75,0.783,-4.0,0,0.0585,0.112,130.017
+Maracaibo Oriental,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.862,0.67,0.502,0.843,-5.501,4.56e-05,0.0496,0.762,107.906
+Soy Campesino,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.831,0.805,0.42,0.777,-6.102,0,0.0404,0.867,136.06
+No Hay Tierra Como La Mia,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.776,0.916,0.339,0.783,-6.339,1.4e-05,0.0448,0.582,85.485
+Buscando Melodia,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.552,0.975,0.425,0.58,-6.681,0.0209,0.0521,0.128,115.311
+Soy Del Monte,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.865,0.918,0.548,0.843,-5.856,0,0.106,0.894,91.399
+Como Esta Mi Conuco,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.494,0.97,0.674,0.942,-7.448,0,0.142,0.101,140.915
+Guajiro,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.553,0.931,0.695,0.897,-9.39,0.522,0.184,0.0771,123.854
+A Romper Coco,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.706,0.959,0.613,0.601,-9.404,0.681,0.116,0.122,97.127
+Me Gusta Mas El Son,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.664,0.896,0.446,0.66,-6.715,0,0.0463,0.215,84.409
+Compa Y Jose,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.689,0.94,0.487,0.896,-6.133,0.012,0.0487,0.446,80.625
+Batanga No. 2,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.553,0.989,0.391,0.829,-10.939,0.818,0.0519,0.205,130.885
+Mata Siguaraya,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.613,0.794,0.476,0.667,-9.165,0.833,0.0326,0.647,105.924
+Rabo Y Oreja,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.591,0.982,0.396,0.728,-10.924,0.905,0.0415,0.181,116.874
+La Sopa En Botella,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.49,0.846,0.58,0.872,-7.574,0.164,0.057,0.317,88.378
+Ipso Calipso,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.551,0.812,0.563,0.961,-7.769,0.00498,0.0488,0.162,144.041
+"Ay, Que Rico Amor",La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.461,0.898,0.581,0.963,-8.837,0.00119,0.0535,0.276,104.205
+Cruel Indiferencia,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.338,0.901,0.471,0.749,-10.404,0.00454,0.0324,0.222,100.895
+Y No Me Enganes Mas,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.371,0.879,0.434,0.743,-9.443,0.00107,0.0296,0.227,96.16
+Guaguanco,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.448,0.792,0.453,0.883,-11.313,0.315,0.128,0.232,172.831
+Conoci A Tu Papa,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.477,0.849,0.722,0.948,-9.685,0.00251,0.0548,0.0988,105.355
+Hablame Claro,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.362,0.912,0.467,0.671,-10.45,0.00107,0.0339,0.227,118.293
+Ayer Y Hoy,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.252,0.971,0.43,0.506,-11.819,0.00762,0.0312,0.305,101.633
+El Novio Celoso,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.42,0.888,0.527,0.975,-9.801,2.85e-05,0.0637,0.204,97.106
+Consuelame,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.273,0.97,0.471,0.492,-11.907,0.132,0.0301,0.178,100.116
+Queridos Padres,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.297,0.961,0.522,0.664,-11.552,0.00909,0.0362,0.203,112.943
+Estas Como Mango,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.596,0.886,0.649,0.831,-8.798,0.272,0.0796,0.0867,147.248
+Tu Precio,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.39,0.85,0.588,0.73,-8.37,0.00935,0.0265,0.443,98.254
+Guaguanco En La Tumba,La Sonora Matancera,"bolero,cumbia,latin jazz,mambo,musica tradicional cubana,salsa,tropical",0.565,0.862,0.641,0.925,-8.859,0.0279,0.049,0.0435,103.916
+Tresero De Manigua,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.765,0.609,0.481,0.599,-6.706,0,0.0453,0.143,150.056
+Donde Estabas Tu,Beny Moré,"bolero,bolero cubano,latin jazz,mambo,musica tradicional cubana",0.641,0.932,0.755,0.602,-8.559,3.49e-05,0.166,0.422,116.006
+"Turandot, SC 91 / Act III: ""Nessun dorma!""",Giacomo Puccini,"classical,italian opera,italian romanticism,post-romantic era",0.303,0.964,0.209,0.0965,-12.049,0.00261,0.0381,0.105,58.462
+La traviata / Act 1: Libiamo ne'lieti calici,Giuseppe Verdi,"classical,italian opera,italian romanticism,late romantic era",0.242,0.963,0.421,0.259,-16.538,5e-06,0.0642,0.255,110.273
+'O sole mio (Arr. Chiaramello),Eduardo di Capua,"canzone napoletana,post-romantic era",0.27,0.948,0.265,0.278,-13.995,0.126,0.0371,0.148,73.309
+"Rigoletto: ""La donna è mobile""",Giuseppe Verdi,"classical,italian opera,italian romanticism,late romantic era",0.188,0.963,0.419,0.368,-13.722,9.53e-06,0.0401,0.0923,112.679
+Volare,Domenico Modugno,"classic italian pop,italian adult pop",0.22,0.967,0.33,0.351,-15.294,1.83e-05,0.0479,0.286,132.667
+"Panis Angelicus, Op.12/V",César Franck,"classical,french romanticism,late romantic era",0.215,0.986,0.205,0.0662,-14.305,0.00391,0.039,0.0773,133.263
+Caruso,Lucio Dalla,"canzone d'autore,classic italian pop,italian adult pop",0.229,0.823,0.269,0.201,-12.257,5.49e-05,0.0362,0.0964,80.871
+Non ti scordar di me (Arr. Mancini),Ernesto de Curtis,canzone napoletana,0.337,0.948,0.284,0.345,-11.548,1.05e-05,0.0355,0.273,88.697
+Torna a Surriento (Arr. Chiaramello),Ernesto de Curtis,canzone napoletana,0.239,0.969,0.19,0.142,-14.341,0.0251,0.0404,0.178,82.435
+"Funiculì, funiculà",Luigi Denza,"canzone napoletana,italian romanticism,post-romantic era",0.295,0.975,0.527,0.375,-13.202,0.0992,0.0673,0.0743,63.745
+"L'elisir d'amore / Act II: ""Una furtiva lagrima""",Gaetano Donizetti,"early romantic era,italian opera,italian romanticism",0.0922,0.984,0.169,0.0707,-17.977,0.000229,0.0454,0.111,77.71
+"Ave Maria, D. 839 (Arr. Gamley)",Franz Schubert,"classical,classical era,early romantic era",0.277,0.943,0.179,0.0993,-16.371,0.00015,0.041,0.114,88.928
+Granada,Agustín Lara,"bolero,bolero mexicano",0.398,0.92,0.396,0.431,-11.633,6.43e-06,0.0469,0.696,99.599
+Core 'ngrato (Arr. Chiaramello),Salvatore Cardillo,,0.331,0.948,0.251,0.166,-12.842,0.00108,0.0414,0.363,85.179
+"La bohème, SC 67: ""Che gelida manina""",Giacomo Puccini,"classical,italian opera,italian romanticism,post-romantic era",0.332,0.976,0.169,0.0548,-12.564,0.0128,0.0465,0.114,66.544
+Mamma (Arr. Mancini),Cesare Andrea Bixio,,0.344,0.913,0.31,0.529,-10.529,7.62e-05,0.0424,0.426,81.179
+Santa Lucia,Traditional,"puirt-a-beul,sleep",0.241,0.95,0.219,0.44,-17.886,0,0.052,0.224,86.199
+Mattinata (Orch. Faris),Ruggero Leoncavallo,"classical,italian opera,italian romanticism",0.303,0.912,0.316,0.199,-14.468,0.00182,0.0408,0.168,132.343
+"Tosca / Act 3: ""E lucevan le stelle""",Giacomo Puccini,"classical,italian opera,italian romanticism,post-romantic era",0.121,0.987,0.118,0.0447,-16.123,0.0607,0.0427,0.0897,73.861
+"Aida / Act 1: ""Se quel guerrier io fossi!..Celeste Aida""",Giuseppe Verdi,"classical,italian opera,italian romanticism,late romantic era",0.258,0.964,0.204,0.207,-14.333,2.59e-05,0.0477,0.116,172.653
+Live Like Horses - Studio Version,Elton John,"glam rock,mellow gold,piano rock",0.414,0.565,0.388,0.187,-9.91,0.000465,0.0315,0.141,128.088
+Nota de Amor (feat. Daddy Yankee),Wisin,"latin hip hop,reggaeton,urbano latino",0.933,0.233,0.797,0.615,-3.058,0,0.128,0.062,98.017
+Se Preparó,Ozuna,"puerto rican pop,reggaeton,trap latino,urbano latino",0.821,0.222,0.739,0.693,-4.233,9.6e-06,0.0852,0.311,171.077
+Danza de Gardenias (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.52,0.625,0.666,0.733,-7.047,0,0.0439,0.243,88.934
+Alma Mía (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.126,0.978,0.458,0.3,-15.615,0.000692,0.0546,0.0936,170.845
+Hoy Mi Día Uno (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.422,0.854,0.722,0.606,-9.828,0,0.0329,0.103,106.978
+Tus Ojitos (Vals de la Guardia Vieja) (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.551,0.796,0.708,0.762,-7.791,9.34e-06,0.0561,0.299,150.031
+Duerme Negrito (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.324,0.86,0.864,0.61,-12.915,0.00697,0.0417,0.0961,111.996
+Luz de Luna (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.361,0.913,0.687,0.701,-9.642,1.12e-06,0.0445,0.105,141.12
+Derecho de Nacimiento (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.441,0.689,0.622,0.57,-9.674,0.000646,0.0797,0.111,173.858
+Eclipse (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.169,0.932,0.586,0.278,-17.524,1.22e-05,0.0359,0.337,100.032
+"Desdeñosa (En Mano de Los Macorinos) (feat. Los Macorinos, Omara Portuondo & Eugenia León)",Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.297,0.903,0.676,0.58,-9.651,0.000117,0.0304,0.111,129.801
+Te Sigo (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.574,0.792,0.592,0.645,-8.548,4.17e-06,0.0432,0.312,90.106
+Humanidad (feat. Los Macorinos),Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.122,0.948,0.604,0.316,-16.529,0.000448,0.0375,0.115,94.649
+Gavota (feat. Los Macorinos) - Versión Instrumental,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.148,0.982,0.498,0.147,-15.459,0.857,0.0511,0.1,78.629
+Ese Hombre,LA INDIA,"salsa,salsa puertorriquena,tropical",0.821,0.725,0.616,0.613,-5.636,7.16e-05,0.0901,0.0529,86.692
+"Saint-Saëns: Le carnaval des animaux, R 125: I. (a) Introduction",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.332,0.975,0.333,0.149,-20.911,0.807,0.0433,0.178,101.688
+"Saint-Saëns: Le carnaval des animaux, R 125: II. Poules et coqs",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.121,0.961,0.353,0.117,-24.378,0.912,0.0443,0.0665,98.826
+"Saint-Saëns: Le carnaval des animaux, R 125: III. Hémiones",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.172,0.987,0.315,0.665,-24.106,0.852,0.0402,0.131,123.85
+"Saint-Saëns: Le carnaval des animaux, R 125: IV. Tortues",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.00926,0.957,0.218,0.0887,-36.249,0.958,0.0371,0.0822,66.716
+"Saint-Saëns: Le carnaval des animaux, R 125: V. L'éléphant",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.00447,0.985,0.396,0.231,-33.979,0.906,0.0375,0.102,121.134
+"Saint-Saëns: Le carnaval des animaux, R 125: VII. Aquarium",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.0119,0.974,0.212,0.0423,-35.609,0.737,0.0384,0.127,91.46
+"Saint-Saëns: Le carnaval des animaux, R 125: VIII. Personnages à longues oreilles",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.0219,0.992,0.279,0.226,-26.449,0,0.0594,0.05,163.298
+"Saint-Saëns: Le carnaval des animaux, R 125: IX. Le coucou au fond des bois",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.00123,0.974,0.392,0.0337,-44.712,0.0121,0.0442,0.112,63.481
+"Saint-Saëns: Le carnaval des animaux, R 125: X. Volière",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.0654,0.89,0.322,0.58,-34.866,0.369,0.0407,0.441,132.846
+"Saint-Saëns: Le carnaval des animaux, R 125: XI. Pianistes",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.072,0.989,0.335,0.481,-23.828,0.781,0.0411,0.123,89.391
+"Saint-Saëns: Le carnaval des animaux, R 125: XII. Fossiles",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.226,0.908,0.546,0.693,-17.451,0.06,0.0332,0.116,115.766
+"Saint-Saëns: Le carnaval des animaux, R 125: XIII. Le cygne",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.0135,0.971,0.0813,0.0394,-36.2,0.919,0.048,0.0748,175.321
+"Prokofiev: Peter and the Wolf, Op. 67",Sergei Prokofiev,"classical,early modern classical,neoclassicism,russian modern classical",0.0479,0.937,0.325,0.0647,-24.409,0.0188,0.0757,0.348,74.334
+"Saint-Saëns: Le carnaval des animaux, R 125: I. (b) Marche royale du lion",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.228,0.982,0.477,0.134,-19.051,0.897,0.0388,0.121,88.032
+"Saint-Saëns: Le carnaval des animaux, R 125: VI. Kangourous",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.00827,0.995,0.575,0.0481,-33.604,0.885,0.0772,0.151,111.112
+"Saint-Saëns: Le carnaval des animaux, R 125: XIV. Finale",Camille Saint-Saëns,"classical,french romanticism,late romantic era",0.305,0.939,0.535,0.562,-15.81,0.891,0.0421,0.121,100.349
+Oye Como Va,Santana,"blues rock,classic rock,mexican classic rock",0.542,0.312,0.727,0.932,-6.496,0.496,0.0412,0.0798,128.302
+"City Of Stars - From ""La La Land"" Soundtrack",Ryan Gosling,hollywood,0.117,0.906,0.454,0.428,-15.121,0,0.0354,0.0888,97.692
+Main Titles,Danny Elfman,"orchestral soundtrack,soundtrack",0.169,0.924,0.205,0.0658,-18.583,0.878,0.0342,0.415,102.781
+According to Plan,Danny Elfman,"orchestral soundtrack,soundtrack",0.42,0.908,0.501,0.458,-10.71,0,0.052,0.0968,89.589
+Victor's Piano Solo,Danny Elfman,"orchestral soundtrack,soundtrack",0.0262,0.983,0.41,0.237,-26.593,0.925,0.0384,0.123,142.138
+Into the Forest,Danny Elfman,"orchestral soundtrack,soundtrack",0.338,0.838,0.189,0.0585,-12.95,0.925,0.043,0.102,142.011
+Remains of the Day,Danny Elfman,"orchestral soundtrack,soundtrack",0.701,0.312,0.425,0.532,-7.937,0,0.279,0.149,75.167
+Casting a Spell,Danny Elfman,"orchestral soundtrack,soundtrack",0.212,0.746,0.18,0.0584,-19.002,0.91,0.0385,0.569,104.921
+Moon Dance,Danny Elfman,"orchestral soundtrack,soundtrack",0.168,0.963,0.31,0.0399,-17.413,0.643,0.0365,0.212,111.34
+Victor's Deception,Danny Elfman,"orchestral soundtrack,soundtrack",0.152,0.937,0.175,0.037,-18.318,0.858,0.0393,0.216,88.703
+Tears to Shed,Danny Elfman,"orchestral soundtrack,soundtrack",0.28,0.841,0.403,0.416,-15.442,2.35e-05,0.0638,0.148,91.51
+Victoria's Escape,Danny Elfman,"orchestral soundtrack,soundtrack",0.178,0.735,0.267,0.0385,-18.204,0.934,0.0393,0.106,116.979
+The Piano Duet,Danny Elfman,"orchestral soundtrack,soundtrack",0.0931,0.99,0.475,0.188,-20.771,0.951,0.0532,0.0899,134.217
+New Arrival,Danny Elfman,"orchestral soundtrack,soundtrack",0.75,0.166,0.712,0.695,-12.354,0.00461,0.134,0.129,113.796
+Victoria's Wedding,Danny Elfman,"orchestral soundtrack,soundtrack",0.186,0.534,0.173,0.0358,-18.113,0.752,0.0384,0.511,71.186
+The Wedding Song,Danny Elfman,"orchestral soundtrack,soundtrack",0.548,0.873,0.491,0.717,-7.916,2.87e-06,0.0584,0.308,145.085
+The Party Arrives,Danny Elfman,"orchestral soundtrack,soundtrack",0.362,0.78,0.201,0.0452,-14.173,0.747,0.0395,0.108,144.917
+Victor's Wedding,Danny Elfman,"orchestral soundtrack,soundtrack",0.137,0.725,0.064,0.0301,-18.798,0.917,0.0461,0.157,68.634
+Barkis's Bummer,Danny Elfman,"orchestral soundtrack,soundtrack",0.23,0.669,0.137,0.0372,-12.705,0.886,0.039,0.107,76.239
+The Finale,Danny Elfman,"orchestral soundtrack,soundtrack",0.194,0.844,0.168,0.0346,-15.591,0.833,0.0357,0.0937,82.085
+"End Credits, Pt. 1",Danny Elfman,"orchestral soundtrack,soundtrack",0.144,0.879,0.347,0.137,-19.698,0.927,0.0343,0.102,113.593
+"End Credits, Pt. 2",Danny Elfman,"orchestral soundtrack,soundtrack",0.477,0.3,0.428,0.399,-10.672,0.00555,0.127,0.114,79.05
+Ball & Socket Lounge Music #1 - Band Version,Bonejangles And His Bone Boys,,0.227,0.302,0.882,0.575,-15.674,0.225,0.039,0.053,127.877
+Remains of the Day - Combo Lounge Version,Bonejangles And His Bone Boys,,0.218,0.826,0.839,0.517,-16.317,0.631,0.0397,0.0983,134.992
+Ball & Socket Lounge Music #2,Bonejangles And His Bone Boys,,0.143,0.957,0.701,0.872,-18.478,0.847,0.0922,0.124,132.092
+Ball & Socket Lounge Music #1 - Combo Version,Bonejangles And His Bone Boys,,0.173,0.587,0.824,0.364,-16.224,0.00978,0.0484,0.0703,127.882
+Le P'tit Jardin,Manu Chao,"latin alternative,world",0.806,0.0811,0.806,0.791,-5.493,0,0.0461,0.0537,125.101
+Petite Blonde du Bld Brune,Manu Chao,"latin alternative,world",0.858,0.479,0.648,0.962,-4.344,0,0.0772,0.446,124.337
+La Valse à Sale Temps,Manu Chao,"latin alternative,world",0.805,0.0834,0.882,0.863,-5.907,0.000407,0.069,0.0612,117.974
+Les Milles Paillettes,Manu Chao,"latin alternative,world",0.656,0.404,0.725,0.944,-5.541,0,0.0518,0.363,96.983
+Il Faut Manger,Manu Chao,"latin alternative,world",0.785,0.102,0.61,0.925,-6.048,0,0.0464,0.488,120.001
+Helno Est Mort,Manu Chao,"latin alternative,world",0.862,0.0151,0.613,0.596,-4.257,0.00845,0.0415,0.234,119.985
+J'ai Besoin de La Lune,Manu Chao,"latin alternative,world",0.773,0.101,0.781,0.764,-8.542,0,0.045,0.0867,139.009
+L'automne Est Las,Manu Chao,"latin alternative,world",0.753,0.0236,0.47,0.856,-7.777,0,0.0894,0.161,204.222
+Si Loin de Toi,Manu Chao,"latin alternative,world",0.523,0.0624,0.607,0.636,-8.886,0,0.0302,0.304,102.098
+100.000 remords,Manu Chao,"latin alternative,world",0.927,0.34,0.697,0.555,-6.489,0.0341,0.0333,0.291,135.003
+"Trop Tôt, Trop Tard",Manu Chao,"latin alternative,world",0.862,0.137,0.661,0.819,-7.462,0,0.305,0.349,98.794
+Te Tromper,Manu Chao,"latin alternative,world",0.428,0.704,0.613,0.767,-7.434,0,0.0585,0.652,141.92
+Madame Banquise,Manu Chao,"latin alternative,world",0.659,0.0693,0.941,0.605,-8.338,0.00014,0.0447,0.103,118.03
+Sibérie Fleuve Amour,Manu Chao,"latin alternative,world",0.873,0.132,0.75,0.887,-7.026,0.00241,0.0456,0.0912,109.003
+Les Petites Planètes,Manu Chao,"latin alternative,world",0.748,0.46,0.729,0.851,-6.479,0,0.0861,0.0899,108.743
+J'ai Besoin de La Lune / Remix,Manu Chao,"latin alternative,world",0.559,0.203,0.735,0.51,-9.382,0.0418,0.0567,0.153,79.99
+Dans Mon Jardin,Manu Chao,"latin alternative,world",0.559,0.255,0.601,0.29,-7.205,0.00132,0.0279,0.165,86.134
+Fou de Toi,Manu Chao,"latin alternative,world",0.694,0.845,0.463,0.797,-7.558,0,0.0373,0.204,104.898
+Les Yeux Turquoises,Manu Chao,"latin alternative,world",0.597,0.791,0.675,0.35,-8.002,5.85e-06,0.0633,0.221,79.065
+Sibérie,Manu Chao,"latin alternative,world",0.653,0.255,0.71,0.712,-9.826,0.000784,0.0669,0.277,135.003
+Les Rues de L'Hiver,Manu Chao,"latin alternative,world",0.57,0.121,0.774,0.567,-7.949,0.000832,0.0772,0.156,80.006
+Te Souviens-Tu,Manu Chao,"latin alternative,world",0.379,0.834,0.712,0.427,-10.759,1.11e-06,0.0855,0.112,93.287
+Merci Bonsoir,Manu Chao,"latin alternative,world",0.641,0.87,0.61,0.99,-8.817,0.00422,0.0443,0.119,108.948
+Who Can It Be Now?,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.807,0.0499,0.804,0.96,-4.356,0.000233,0.037,0.0974,128.522
+Maria,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.843,0.102,0.657,0.883,-5.765,3.65e-06,0.0272,0.0961,125.785
+Down Under,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.796,0.0924,0.738,0.893,-4.863,0.0119,0.0255,0.0505,107.218
+Overkill,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.807,0.0821,0.639,0.536,-4.173,0,0.0284,0.0721,139.178
+Be Good Johnny,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.867,0.131,0.602,0.524,-4.012,0.0025,0.0692,0.119,150.301
+It's A Mistake,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.61,0.261,0.701,0.923,-4.802,9.63e-06,0.0263,0.0738,106.063
+No Sign Of Yesterday - Live,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.715,0.03,0.251,0.0908,-6.267,0.0898,0.0357,0.927,149.788
+Dr. Heckyll & Mr. Jive,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.81,0.247,0.424,0.614,-4.994,0,0.1,0.112,145.601
+High Wire,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.919,0.125,0.591,0.708,-2.975,4.08e-06,0.0744,0.0746,119.3
+Man With Two Hearts,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.911,0.00283,0.617,0.751,-5.357,0.000378,0.041,0.202,134.104
+Touching The Untouchables,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.754,0.0532,0.597,0.56,-4.616,0.000429,0.0303,0.211,72.689
+Blue For You,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.785,0.296,0.643,0.829,-3.494,0,0.0292,0.353,83.44
+Everything I Need,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.877,0.143,0.73,0.963,-3.694,0.0017,0.0273,0.112,129.605
+The Longest Night,Men At Work,"album rock,australian rock,classic rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock",0.433,0.311,0.657,0.122,-6.955,1.68e-05,0.0309,0.0907,123.945
+Bienvenue Chez Moi,Stromae,"belgian pop,g-house",0.775,0.12,0.586,0.234,-9.123,0,0.393,0.144,111.471
+Te Quiero,Stromae,"belgian pop,g-house",0.697,0.0968,0.723,0.792,-8.688,0,0.225,0.0803,123.136
+Peace Or Violence,Stromae,"belgian pop,g-house",0.435,0.104,0.493,0.418,-10.158,0,0.291,0.161,127.11
+Rail De Musique,Stromae,"belgian pop,g-house",0.805,0.0544,0.659,0.61,-8.267,0,0.167,0.0719,121.044
+Alors On Danse - Radio Edit,Stromae,"belgian pop,g-house",0.59,0.0994,0.79,0.714,-9.206,0.00203,0.0793,0.065,119.951
+Summertime,Stromae,"belgian pop,g-house",0.667,0.0638,0.579,0.467,-8.653,0.000618,0.0703,0.545,120.085
+Dodo,Stromae,"belgian pop,g-house",0.54,0.133,0.417,0.263,-10.327,0,0.0545,0.161,127.01
+Silence,Stromae,"belgian pop,g-house",0.543,0.0508,0.592,0.0366,-11.98,0.0343,0.0551,0.101,125.079
+Je Cours,Stromae,"belgian pop,g-house",0.614,0.376,0.83,0.822,-9.114,0.000166,0.209,0.113,121.016
+House'llelujah,Stromae,"belgian pop,g-house",0.569,0.0582,0.653,0.491,-7.917,0,0.0584,0.099,121.936
+Cheese,Stromae,"belgian pop,g-house",0.35,0.839,0.367,0.31,-8.645,0,0.0334,0.108,131.755
+Alors On Danse - 90's Remix,Stromae,"belgian pop,g-house",0.45,0.0723,0.854,0.71,-10.53,0.000906,0.162,0.0993,122.829
+Safari,J Balvin,"reggaeton,reggaeton colombiano,urbano latino",0.687,0.551,0.508,0.555,-4.361,3.41e-06,0.326,0.126,180.044
+Vente Pa' Ca (feat. Maluma),Ricky Martin,"latin pop,mexican pop,puerto rican pop",0.92,0.00431,0.663,0.533,-4.07,1.69e-05,0.226,0.101,99.935
+Una Limosna (with Javier Solís),Los Panchos,"bolero,bolero mexicano,ranchera",0.407,0.84,0.552,0.705,-7.787,1.2e-05,0.0438,0.449,118.834
+Piel Canela,Los Panchos,"bolero,bolero mexicano,ranchera",0.379,0.94,0.798,0.644,-10.354,0.000131,0.035,0.251,110.492
+Historia de un Amor,Eydie Gormé,adult standards,0.336,0.843,0.61,0.622,-11.797,0,0.0327,0.0677,100.735
+Sabor a Mí,Los Panchos,"bolero,bolero mexicano,ranchera",0.333,0.894,0.748,0.672,-15.455,0.000997,0.0363,0.135,106.361
+The View From The Afternoon,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.922,0.00487,0.387,0.417,-5.192,0,0.0674,0.187,146.478
+I Bet You Look Good On The Dancefloor,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.948,0.00225,0.535,0.778,-4.19,0,0.0356,0.376,103.183
+Fake Tales Of San Francisco,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.778,0.00998,0.454,0.704,-4.225,0,0.0449,0.0427,127.158
+Dancing Shoes,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.889,0.00328,0.522,0.852,-4.137,0,0.0461,0.345,144.499
+You Probably Couldn't See For The Lights But You Were Staring Straight At Me,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.972,0.00384,0.58,0.926,-4.274,0,0.0589,0.296,105.492
+Still Take You Home,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.946,0.000669,0.599,0.653,-4.192,0,0.0378,0.0973,108.934
+Riot Van,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.333,0.358,0.593,0.258,-14.342,0,0.046,0.245,103.537
+Red Light Indicates Doors Are Secured,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.846,0.00316,0.622,0.914,-4.831,0,0.0311,0.0989,110.683
+Mardy Bum,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.599,0.0288,0.634,0.312,-5.447,0,0.0365,0.197,112.215
+Perhaps Vampires Is A Bit Strong But…,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.914,0.000293,0.371,0.394,-4.917,8.75e-05,0.081,0.0852,134.982
+When The Sun Goes Down,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.875,0.0341,0.348,0.407,-4.758,0,0.199,0.117,169.152
+From The Ritz To The Rubble,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.882,0.00147,0.216,0.656,-5.176,0,0.0439,0.308,189.286
+A Certain Romance,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.881,0.000566,0.455,0.201,-5.587,6.06e-05,0.0401,0.11,137.949
+I Don't Love You,My Chemical Romance,"emo,pop punk",0.796,0.00837,0.289,0.33,-4.22,2.61e-05,0.0494,0.202,169.835
+Disenchanted - Live Demo,My Chemical Romance,"emo,pop punk",0.776,0.044,0.532,0.468,-6.702,1.11e-06,0.0444,0.398,99.803
+The End.,My Chemical Romance,"emo,pop punk",0.548,0.0827,0.292,0.207,-4.977,0,0.0363,0.414,175.053
+Dead!,My Chemical Romance,"emo,pop punk",0.973,0.0037,0.481,0.362,-1.945,0.000877,0.0542,0.325,99.331
+This Is How I Disappear,My Chemical Romance,"emo,pop punk",0.983,5.08e-05,0.242,0.301,-2.679,4.43e-05,0.106,0.303,163.366
+The Sharpest Lives,My Chemical Romance,"emo,pop punk",0.937,0.000111,0.513,0.543,-3.427,0.000102,0.0532,0.083,155.015
+Welcome to the Black Parade,My Chemical Romance,"emo,pop punk",0.905,0.000289,0.217,0.236,-4.103,0.00011,0.0752,0.222,96.95
+House of Wolves,My Chemical Romance,"emo,pop punk",0.977,0.000347,0.445,0.239,-2.674,0.0235,0.0995,0.126,105.825
+Cancer,My Chemical Romance,"emo,pop punk",0.515,0.358,0.457,0.222,-4.31,0,0.0261,0.278,74.984
+Mama,My Chemical Romance,"emo,pop punk",0.799,0.0136,0.236,0.303,-5.167,0,0.0939,0.0948,208.951
+Sleep,My Chemical Romance,"emo,pop punk",0.952,0.00138,0.188,0.152,-4.499,0.000856,0.201,0.381,155.973
+Teenagers,My Chemical Romance,"emo,pop punk",0.857,0.0506,0.463,0.856,-3.063,0,0.0632,0.184,111.647
+Disenchanted,My Chemical Romance,"emo,pop punk",0.692,0.00218,0.343,0.153,-3.926,0,0.0355,0.112,174.07
+Famous Last Words,My Chemical Romance,"emo,pop punk",0.883,0.000321,0.467,0.309,-3.679,0.000152,0.106,0.125,122.252
+Blood - Hidden Track,My Chemical Romance,"emo,pop punk",0.405,0.972,0.739,0.827,-10.524,0,0.107,0.0699,123.497
+The Five of Us Are Dying - Rough Mix,My Chemical Romance,"emo,pop punk",0.959,0.000487,0.28,0.219,-3.416,0.0023,0.102,0.185,94.913
+Kill All Your Friends - Live Demo,My Chemical Romance,"emo,pop punk",0.74,0.0429,0.61,0.617,-4.782,2.28e-06,0.0363,0.257,102.553
+Party at the End of the World - Live Demo,My Chemical Romance,"emo,pop punk",0.972,0.00501,0.234,0.504,-3.628,0.766,0.204,0.224,169.257
+Mama - Live Demo,My Chemical Romance,"emo,pop punk",0.797,0.0553,0.435,0.521,-5.322,0,0.0801,0.119,105.128
+My Way Home Is Through You - Live Demo,My Chemical Romance,"emo,pop punk",0.974,0.000325,0.446,0.553,-4.764,0.435,0.103,0.376,106.915
+Not That Kind of Girl - Live Demo,My Chemical Romance,"emo,pop punk",0.754,0.00191,0.389,0.579,-5.978,0.000206,0.0783,0.154,161.034
+House of Wolves - Version 1; Live Demo,My Chemical Romance,"emo,pop punk",0.94,0.00325,0.233,0.155,-5.408,0.0169,0.0788,0.137,158.517
+House of Wolves - Version 2; Live Demo,My Chemical Romance,"emo,pop punk",0.96,0.00125,0.507,0.486,-3.951,0.238,0.0661,0.109,106.248
+Emily - Rough Mix,My Chemical Romance,"emo,pop punk",0.772,0.00499,0.507,0.637,-4.395,0,0.0387,0.301,171.763
+All the Angels - Live Demo,My Chemical Romance,"emo,pop punk",0.382,0.705,0.554,0.277,-11.824,9.18e-05,0.0434,0.124,74.363
+Keep The Family Close,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.56,0.132,0.373,0.187,-7.615,0,0.0448,0.381,98.858
+9,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.699,0.00113,0.703,0.0393,-7.322,0.000779,0.044,0.246,99.991
+U With Me?,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.421,0.376,0.442,0.111,-11.455,7.23e-06,0.137,0.139,87.694
+Feel No Ways,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.673,0.032,0.581,0.209,-7.111,6.38e-06,0.162,0.116,193.668
+Hype,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.633,0.0259,0.785,0.244,-8.223,0,0.169,0.368,129.97
+Weston Road Flows,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.722,0.0733,0.62,0.365,-7.022,0,0.322,0.273,82.918
+Redemption,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.311,0.625,0.66,0.357,-8.681,1.29e-06,0.113,0.116,119.237
+With You,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.407,0.152,0.872,0.802,-10.036,0.000188,0.256,0.112,127.97
+Faithful,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.446,0.104,0.536,0.157,-10.489,1.01e-05,0.162,0.323,99.979
+Still Here,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.438,0.0212,0.834,0.207,-9.577,0,0.152,0.649,133.958
+Controlla,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.476,0.0773,0.607,0.347,-11.076,0,0.249,0.113,122.976
+One Dance,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.619,0.00784,0.791,0.371,-5.886,0.00423,0.0532,0.351,103.989
+Grammys,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.44,0.00175,0.711,0.121,-9.509,2.73e-06,0.471,0.0798,145.116
+Childs Play,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.482,0.0173,0.691,0.305,-11.14,7.1e-06,0.231,0.197,160.027
+Pop Style,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.456,0.215,0.724,0.0481,-10.009,2.41e-06,0.127,0.105,133.051
+Too Good,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.648,0.0573,0.804,0.392,-7.805,3.49e-05,0.117,0.102,117.983
+Summers Over Interlude,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.267,0.372,0.687,0.307,-8.818,0.00411,0.0297,0.0992,131.962
+Fire & Desire,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.259,0.0803,0.709,0.265,-14.341,0,0.0892,0.0855,79.839
+Views,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.871,0.07,0.446,0.0795,-5.837,0,0.367,0.243,78.119
+Hotline Bling,Drake,"canadian hip hop,canadian pop,hip hop,rap,toronto rap",0.62,0.00347,0.903,0.539,-8.094,0.000119,0.0587,0.0504,134.96
+Shaky Shaky - Remix,Daddy Yankee,"latin hip hop,reggaeton,urbano latino",0.797,0.112,0.809,0.826,-4.2,0,0.181,0.251,175.878
+Adiós,Pedro Vargas,"bolero,bolero mexicano,mariachi,ranchera",0.534,0.0453,0.372,0.365,-6.876,0.00324,0.0353,0.118,115.721
+El Hijo Desobediente,Antonio Aguilar,"mariachi,musica mexicana,ranchera",0.307,0.736,0.432,0.893,-9.386,0,0.0644,0.102,201.643
+El Jinete,Miguel Aceves Mejia,"bolero,mariachi,ranchera",0.23,0.979,0.495,0.51,-10.7,1.44e-05,0.0388,0.076,102.959
+Huapango Torero,Lola Beltrán,"mariachi,ranchera",0.172,0.831,0.384,0.395,-16.992,4.36e-05,0.0353,0.334,101.399
+México Lindo,Jorge Negrete,"bolero,mariachi,ranchera",0.145,0.895,0.485,0.602,-17.546,0,0.0623,0.0683,138.929
+Muy Despacito,Pedro Infante,"bolero,bolero mexicano,mariachi,ranchera",0.218,0.909,0.502,0.73,-14.711,0,0.0778,0.31,80.651
+Amorcito Corazón,Pedro Infante,"bolero,bolero mexicano,mariachi,ranchera",0.219,0.96,0.349,0.389,-14.496,0.00188,0.0374,0.243,105.118
+Anillo de Compromiso,Cuco Sánchez,"bolero,guitarra mexicana,mariachi,mexican rock-and-roll,ranchera",0.0811,0.966,0.51,0.309,-13.88,3.53e-06,0.0414,0.0785,118.804
+Anoche Estuve Llorando,Cuco Sánchez,"bolero,guitarra mexicana,mariachi,mexican rock-and-roll,ranchera",0.178,0.944,0.522,0.239,-10.85,0,0.038,0.0939,103.2
+Arrieros Somos,Cuco Sánchez,"bolero,guitarra mexicana,mariachi,mexican rock-and-roll,ranchera",0.058,0.961,0.418,0.234,-16.143,0,0.0395,0.131,142.92
+"Ay Jalisco, No Te Rajes",Jorge Negrete,"bolero,mariachi,ranchera",0.21,0.982,0.518,0.582,-10.988,0.0088,0.053,0.181,138.204
+Canción Mixteca,Lola Beltrán,"mariachi,ranchera",0.181,0.694,0.352,0.422,-13.427,2.46e-05,0.0327,0.438,143.244
+Cien Años,Pedro Infante,"bolero,bolero mexicano,mariachi,ranchera",0.126,0.805,0.606,0.557,-17.389,5.33e-06,0.0344,0.11,106.761
+Cucurrucucú Paloma,Lola Beltrán,"mariachi,ranchera",0.199,0.868,0.534,0.446,-9.977,0.00137,0.0387,0.154,105.176
+El Chivo,Antonio Aguilar,"mariachi,musica mexicana,ranchera",0.541,0.709,0.733,0.941,-9.481,0,0.0806,0.125,140.719
+El Rebelde,Miguel Aceves Mejia,"bolero,mariachi,ranchera",0.166,0.919,0.594,0.554,-8.725,0,0.0466,0.163,93.304
+El Rey,José Alfredo Jimenez,"mariachi,musica mexicana,ranchera",0.475,0.619,0.376,0.839,-4.926,0,0.0385,0.285,181.64
+En el Último Trago,José Alfredo Jimenez,"mariachi,musica mexicana,ranchera",0.416,0.208,0.516,0.747,-8.618,0,0.0468,0.0834,81.4
+En Mi Viejo San Juan,Javier Solís,"bolero,bolero mexicano,mariachi,ranchera",0.436,0.809,0.573,0.829,-7.217,0,0.0303,0.23,103.705
+Entre Copa y Copa,Miguel Aceves Mejia,"bolero,mariachi,ranchera",0.303,0.877,0.516,0.522,-8.866,0,0.043,0.177,96.555
+Estoy Perdido,Los Tres Ases,"bolero,bolero mexicano",0.151,0.813,0.632,0.459,-12.395,0,0.0403,0.322,96.841
+Fallaste Corazón,Pedro Infante,"bolero,bolero mexicano,mariachi,ranchera",0.298,0.955,0.292,0.524,-7.778,0.0314,0.0304,0.44,84.32
+Flores Negras,Pedro Vargas,"bolero,bolero mexicano,mariachi,ranchera",0.213,0.962,0.37,0.484,-11.564,0.000224,0.0459,0.129,75.47
+Gabino Barrera,Antonio Aguilar,"mariachi,musica mexicana,ranchera",0.314,0.907,0.436,0.814,-9.318,0,0.0528,0.128,93.199
+Gorrioncillo Pecho Amarillo,Miguel Aceves Mejia,"bolero,mariachi,ranchera",0.242,0.774,0.492,0.573,-8.629,0,0.0418,0.119,152.819
+Historia de un Amor,Los Panchos,"bolero,bolero mexicano,ranchera",0.481,0.712,0.715,0.694,-11.355,0,0.0747,0.182,106.79
+Juan Charrasqueado,Jorge Negrete,"bolero,mariachi,ranchera",0.668,0.835,0.492,0.608,-8.835,0.013,0.174,0.201,142.326
+Las Mañanitas,Pedro Infante,"bolero,bolero mexicano,mariachi,ranchera",0.355,0.962,0.21,0.508,-11.265,0.254,0.035,0.135,72.35
+Los Laureles,Lola Beltrán,"mariachi,ranchera",0.309,0.471,0.596,0.801,-12.65,0,0.0382,0.855,96.655
+Me Sacaron del Tenampa,Lola Beltrán,"mariachi,ranchera",0.297,0.711,0.613,0.922,-16.298,0,0.0695,0.059,120.382
+Media Vuelta,Javier Solís,"bolero,bolero mexicano,mariachi,ranchera",0.361,0.888,0.433,0.642,-7.638,0,0.0371,0.141,98.188
+Mi Despedida,Pedro Vargas,"bolero,bolero mexicano,mariachi,ranchera",0.263,0.681,0.419,0.789,-12.329,0,0.0525,0.246,176.147
+Mi Último Fracaso,Los Tres Ases,"bolero,bolero mexicano",0.328,0.936,0.459,0.363,-7.539,0.00377,0.0435,0.0996,179.719
+No Volveré,Antonio Aguilar,"mariachi,musica mexicana,ranchera",0.309,0.92,0.443,0.735,-11.492,1.14e-06,0.0499,0.468,108.401
+Nuestro Juramento,Julio Jaramillo,"bolero,folklore ecuatoriano,musica popular colombiana",0.377,0.751,0.771,0.709,-7.983,0.0722,0.0363,0.0915,121.025
+Ódiame,Julio Jaramillo,"bolero,folklore ecuatoriano,musica popular colombiana",0.236,0.632,0.587,0.57,-15.736,0,0.159,0.19,167.222
+Payaso,Javier Solís,"bolero,bolero mexicano,mariachi,ranchera",0.29,0.881,0.541,0.578,-13.045,0,0.0361,0.098,97.43
+Porqué Volviste a Mi,Pedro Vargas,"bolero,bolero mexicano,mariachi,ranchera",0.137,0.762,0.5,0.609,-9.506,0,0.0346,0.193,84.247
+Que Manera de Perder,Cuco Sánchez,"bolero,guitarra mexicana,mariachi,mexican rock-and-roll,ranchera",0.0725,0.961,0.516,0.291,-14.985,0,0.0537,0.0818,107.984
+Que Te Vaya Bonito,José Alfredo Jimenez,"mariachi,musica mexicana,ranchera",0.43,0.804,0.501,0.798,-7.908,5.15e-05,0.0494,0.068,83.843
+Renunciación,Javier Solís,"bolero,bolero mexicano,mariachi,ranchera",0.332,0.753,0.333,0.437,-9.672,0,0.0346,0.103,141.174
+Sabor a Mi,Los Panchos,"bolero,bolero mexicano,ranchera",0.529,0.603,0.584,0.665,-8.613,5.82e-06,0.0369,0.563,95.248
+Si Nos Dejan,José Alfredo Jimenez,"mariachi,musica mexicana,ranchera",0.288,0.899,0.58,0.625,-10.109,0.000824,0.0292,0.148,108.44
+Si Tú Me Dices Ven,Los Panchos,"bolero,bolero mexicano,ranchera",0.462,0.86,0.761,0.654,-7.657,0.000683,0.0487,0.138,103.968
+Sombras,Javier Solís,"bolero,bolero mexicano,mariachi,ranchera",0.504,0.801,0.299,0.71,-5.329,0,0.0383,0.106,203.837
+Sonaron Cuatro Balazos,Antonio Aguilar,"mariachi,musica mexicana,ranchera",0.304,0.772,0.603,0.664,-10.147,0,0.0305,0.183,98.298
+Te Solté la Rienda,José Alfredo Jimenez,"mariachi,musica mexicana,ranchera",0.422,0.308,0.475,0.778,-7.278,0,0.0406,0.0911,141.722
+Un Chorro de Voz,Miguel Aceves Mejia,"bolero,mariachi,ranchera",0.182,0.8,0.613,0.805,-10.235,0,0.0779,0.405,101.855
+"Volver, Volver",Pedro Vargas,"bolero,bolero mexicano,mariachi,ranchera",0.326,0.894,0.348,0.331,-9.001,0.000231,0.037,0.223,66.052
+Yo Soy Mexicano,Jorge Negrete,"bolero,mariachi,ranchera",0.217,0.589,0.437,0.705,-15.138,0.000489,0.0552,0.567,144.057
+Amor - Remastered,Eydie Gormé,adult standards,0.325,0.857,0.622,0.56,-12.895,0,0.0313,0.258,105.287
+Desesperadamente - Remastered,Eydie Gormé,adult standards,0.337,0.822,0.46,0.602,-13.376,0,0.0352,0.373,112.489
+Di que no es verdad - Remastered,Eydie Gormé,adult standards,0.31,0.802,0.513,0.437,-11.762,1.77e-06,0.0301,0.224,92.497
+Y... - Remastered,Eydie Gormé,adult standards,0.351,0.791,0.622,0.55,-12.144,0,0.0439,0.184,97.21
+Fuego bajo tu piel - Remastered,Eydie Gormé,adult standards,0.328,0.872,0.5,0.519,-11.805,0,0.0326,0.336,102.592
+Luna lunera - Remastered,Eydie Gormé,adult standards,0.401,0.847,0.686,0.96,-13.5,0,0.0402,0.173,130.871
+Flores negras - Remastered,Eydie Gormé,adult standards,0.262,0.876,0.585,0.562,-13.609,0,0.0344,0.0889,123.404
+Cuatro vidas - Remastered,Eydie Gormé,adult standards,0.34,0.844,0.555,0.611,-12.094,2.29e-06,0.0378,0.312,110.778
+Mala noche - Remastered,Eydie Gormé,adult standards,0.322,0.847,0.721,0.68,-11.605,0,0.0425,0.148,105.638
+La ultima noche - Remastered,Eydie Gormé,adult standards,0.388,0.745,0.731,0.65,-12.188,0,0.0629,0.137,123.635
+Media vuelta - Remastered,Eydie Gormé,adult standards,0.45,0.6,0.659,0.606,-11.06,0,0.05,0.354,98.974
+Piel canela - Remastered,Eydie Gormé,adult standards,0.412,0.761,0.783,0.827,-11.979,0,0.0367,0.103,118.879
+Basura,Los Panchos,"bolero,bolero mexicano,ranchera",0.608,0.837,0.456,0.752,-4.993,0,0.0708,0.122,202.078
+Caminemos,Los Panchos,"bolero,bolero mexicano,ranchera",0.453,0.742,0.552,0.445,-6.016,8.11e-06,0.0304,0.0727,100.458
+Caminito M,Los Panchos,"bolero,bolero mexicano,ranchera",0.477,0.899,0.512,0.456,-4.309,0,0.0305,0.697,109.7
+Caminito,Los Panchos,"bolero,bolero mexicano,ranchera",0.714,0.58,0.784,0.811,-4.759,0,0.0315,0.0832,101.234
+Cenizas,Los Panchos,"bolero,bolero mexicano,ranchera",0.652,0.866,0.446,0.698,-3.179,0.000246,0.0284,0.292,103.025
+Contigo Aprendi,Los Panchos,"bolero,bolero mexicano,ranchera",0.616,0.791,0.514,0.602,-3.982,0,0.0302,0.132,95.969
+El Reloj,Los Panchos,"bolero,bolero mexicano,ranchera",0.452,0.835,0.688,0.623,-8.273,5.16e-06,0.0285,0.0954,106.784
+Mi Ultimo Fracaso,Los Panchos,"bolero,bolero mexicano,ranchera",0.571,0.964,0.648,0.499,-6.181,0.000193,0.0508,0.213,98.435
+Enamorado,Los Panchos,"bolero,bolero mexicano,ranchera",0.512,0.784,0.702,0.719,-6.952,3.27e-05,0.0356,0.165,92.937
+La Hiedra,Los Panchos,"bolero,bolero mexicano,ranchera",0.454,0.778,0.686,0.624,-4.983,1.14e-05,0.0655,0.391,92.181
+La Historia de Mi Vida,Los Panchos,"bolero,bolero mexicano,ranchera",0.537,0.865,0.585,0.84,-6.194,0,0.0843,0.139,141.184
+Para Que Me Sirve el Alma,Los Panchos,"bolero,bolero mexicano,ranchera",0.484,0.845,0.472,0.703,-4.402,5.3e-06,0.03,0.734,102.709
+Pecador,Los Panchos,"bolero,bolero mexicano,ranchera",0.519,0.775,0.565,0.393,-5.749,0,0.0284,0.156,104.464
+Que Lastima,Los Panchos,"bolero,bolero mexicano,ranchera",0.575,0.745,0.804,0.834,-5.076,7.12e-06,0.049,0.38,108.695
+Quisiera,Los Panchos,"bolero,bolero mexicano,ranchera",0.833,0.767,0.692,0.917,-3.723,0,0.0397,0.115,144.822
+Rayito de Luna,Los Panchos,"bolero,bolero mexicano,ranchera",0.674,0.904,0.727,0.734,-5.134,0.000116,0.0286,0.228,115.165
+Rosas Rojas,Los Panchos,"bolero,bolero mexicano,ranchera",0.807,0.702,0.684,0.919,-2.156,0,0.0307,0.253,116.493
+Sabor a Ti,Los Panchos,"bolero,bolero mexicano,ranchera",0.447,0.9,0.77,0.708,-5.624,6.69e-06,0.0316,0.131,100.864
+Si No Estas Conmigo,Los Panchos,"bolero,bolero mexicano,ranchera",0.641,0.853,0.655,0.755,-5.075,0.0181,0.0279,0.143,110.162
+Si Tu Me Dices Ven,Los Panchos,"bolero,bolero mexicano,ranchera",0.492,0.851,0.753,0.613,-7.092,0.000648,0.0444,0.177,105.433
+Solo,Los Panchos,"bolero,bolero mexicano,ranchera",0.269,0.977,0.696,0.511,-9.719,0.00215,0.0294,0.116,111.236
+Tu Me Acostumbraste,Los Panchos,"bolero,bolero mexicano,ranchera",0.546,0.791,0.55,0.684,-6.012,0.00115,0.0293,0.0958,107.489
+Tu Recuerdo,Los Panchos,"bolero,bolero mexicano,ranchera",0.461,0.892,0.831,0.61,-9.1,4.06e-05,0.0318,0.165,106.919
+Vagabundo,Los Panchos,"bolero,bolero mexicano,ranchera",0.752,0.841,0.756,0.962,-4.721,4.79e-05,0.038,0.0807,83.092
+"Once Upon a Dream - From ""Maleficent"" / Pop Version",Lana Del Rey,"art pop,pop",0.268,0.668,0.148,0.145,-16.55,0.0151,0.036,0.113,178.038
+Once Upon a Dream - From “Maleficent”/Young Ruffian Remix,Lana Del Rey,"art pop,pop",0.483,0.108,0.423,0.242,-9.297,0.000198,0.0782,0.0953,120.051
+Malo,Bebe,"latin alternative,spanish pop",0.812,0.759,0.777,0.727,-6.18,6.88e-05,0.271,0.145,108.159
+Bad Romance,Lady Gaga,"art pop,dance pop,pop",0.919,0.00264,0.695,0.717,-3.769,4.1e-05,0.0381,0.062,119.002
+Yo Anuncio,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.576,0.163,0.528,0.652,-7.139,1.53e-05,0.031,0.296,123.896
+Pijamas,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.891,0.0944,0.627,0.852,-6.436,0.000431,0.0312,0.0936,137.999
+Escamas,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.873,0.285,0.683,0.629,-5.862,0.000138,0.0313,0.0848,122.125
+Cuello Rojo,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.75,0.0317,0.426,0.802,-6.526,7.19e-06,0.0515,0.265,178.126
+Como Eran Las Cosas,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.438,0.465,0.696,0.563,-9.077,3.14e-05,0.032,0.0888,94.991
+Microdancing,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.704,0.337,0.696,0.736,-6.32,7.53e-05,0.0395,0.0758,124.998
+Las Demás,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.545,0.287,0.578,0.224,-10.588,0.0441,0.03,0.101,127.834
+Estoy Rabioso,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.893,9.12e-05,0.28,0.707,-5.313,0.000566,0.0363,0.271,206.196
+Nosotros,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.299,0.889,0.248,0.0729,-10.621,5.14e-05,0.0285,0.152,84.46
+El ídolo,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.932,0.111,0.58,0.772,-5.297,0.00458,0.038,0.163,112.019
+Irresponsables,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.929,0.0629,0.58,0.884,-4.849,0.000223,0.0388,0.23,94.995
+Risa,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.71,0.406,0.586,0.384,-6.124,0.000326,0.0308,0.0874,128.362
+Estertor,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.692,0.435,0.425,0.494,-6.699,0.0124,0.0322,0.356,155.582
+Curtis,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.538,0.835,0.718,0.531,-9.656,0.0349,0.0362,0.136,117.974
+Y qué,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.866,0.0591,0.629,0.952,-5.491,0.0558,0.0355,0.109,137.011
+La Puntita,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.464,0.421,0.519,0.369,-9.488,0.00556,0.0253,0.113,163.183
+Pistero,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.786,0.258,0.656,0.784,-6.427,0.0779,0.0344,0.0799,110.007
+Suturno,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.792,0.179,0.716,0.773,-8.774,0.0125,0.0324,0.362,107.023
+Mareo,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.591,0.529,0.34,0.382,-7.431,0.000258,0.0387,0.205,169.119
+Sin mi diablo,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.928,0.0424,0.552,0.581,-6.613,0.0325,0.0431,0.117,122.704
+Fan de Scorpions,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.772,0.539,0.554,0.619,-7.366,0.537,0.0327,0.114,129.955
+Gratis,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.526,0.852,0.426,0.552,-12.184,0.00539,0.0403,0.135,170.01
+Once,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.854,0.0498,0.522,0.699,-5.274,0.000253,0.0431,0.265,136.087
+Putita,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.753,0.514,0.477,0.521,-6.112,0.00381,0.0343,0.17,178.013
+La Lanza,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.722,0.0722,0.698,0.748,-6.018,0.000109,0.0402,0.608,91.98
+Aduana de Palabras,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.726,0.219,0.738,0.541,-6.967,0.00251,0.0268,0.0965,123.985
+El Baile de Odín,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.859,0.000824,0.515,0.696,-5.531,0.0182,0.0324,0.332,141.999
+Run Run,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.69,0.00527,0.65,0.581,-5.56,0.0651,0.0289,0.321,130.0
+Los Burócratas del Amor,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.762,0.0736,0.602,0.513,-5.88,0.6,0.0296,0.0996,127.997
+Negrita,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.482,0.187,0.759,0.776,-9.119,0.0404,0.0572,0.11,79.996
+Uso,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.898,0.0153,0.489,0.831,-6.153,0.000535,0.064,0.154,184.979
+Humo,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.79,0.199,0.458,0.378,-8.335,0.000675,0.0367,0.248,169.94
+Casi,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.481,0.791,0.675,0.318,-9.852,2.04e-06,0.0298,0.105,99.168
+Uno Tres Dos,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.783,0.22,0.633,0.256,-5.711,1.56e-05,0.0274,0.15,119.983
+Paisano,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.744,0.00262,0.664,0.723,-5.585,0.128,0.0301,0.0824,107.488
+Celofán,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.356,0.811,0.681,0.131,-12.427,0,0.0359,0.171,120.053
+Utopia Overture,Cristobal Tapia De Veer,canadian soundtrack,0.457,0.53,0.688,0.578,-12.032,0.761,0.106,0.322,170.019
+The Network,Cristobal Tapia De Veer,canadian soundtrack,0.484,0.854,0.577,0.127,-11.931,0.705,0.075,0.357,179.964
+Dislocated Thumbs Part 1,Cristobal Tapia De Veer,canadian soundtrack,0.478,0.443,0.553,0.471,-9.811,0.885,0.261,0.0867,177.755
+Mr. Rabbit's Game,Cristobal Tapia De Veer,canadian soundtrack,0.749,0.335,0.667,0.958,-9.501,0.73,0.0423,0.535,110.683
+Conspiracy Part 1,Cristobal Tapia De Veer,canadian soundtrack,0.317,0.5,0.423,0.0864,-13.903,0.815,0.0553,0.0974,147.76
+Meditative Chaos,Cristobal Tapia De Veer,canadian soundtrack,0.0299,0.902,0.147,0.0345,-19.554,0.97,0.038,0.0974,84.078
+A New Brand of Drug,Cristobal Tapia De Veer,canadian soundtrack,0.276,0.979,0.649,0.0383,-15.293,0.926,0.0485,0.0907,120.025
+Samba De Wilson,Cristobal Tapia De Veer,canadian soundtrack,0.734,0.484,0.67,0.434,-10.531,0.823,0.081,0.0765,170.096
+Slivovitz,Cristobal Tapia De Veer,canadian soundtrack,0.45,0.829,0.504,0.576,-14.471,0.47,0.312,0.123,170.553
+Bekki on Pills Part 1,Cristobal Tapia De Veer,canadian soundtrack,0.424,0.904,0.602,0.0367,-11.912,0.0568,0.0679,0.0714,71.032
+Where Is Jessica Hyde? Part 1,Cristobal Tapia De Veer,canadian soundtrack,0.201,0.874,0.214,0.036,-16.559,0.844,0.0388,0.147,76.651
+Arby's Oratorio,Cristobal Tapia De Veer,canadian soundtrack,0.141,0.95,0.167,0.0362,-25.535,0.939,0.0422,0.068,111.897
+Jessica Gets Off,Cristobal Tapia De Veer,canadian soundtrack,0.373,0.885,0.272,0.0392,-12.624,0.923,0.0359,0.107,116.685
+Mr. Rabbit It Is,Cristobal Tapia De Veer,canadian soundtrack,0.401,0.842,0.709,0.691,-10.223,0.92,0.11,0.0981,162.186
+Lovechild,Cristobal Tapia De Veer,canadian soundtrack,0.294,0.912,0.911,0.811,-12.23,0.734,0.469,0.357,112.476
+Mind Vortex,Cristobal Tapia De Veer,canadian soundtrack,0.326,0.955,0.331,0.0326,-13.815,0.944,0.0333,0.104,66.963
+Twat,Cristobal Tapia De Veer,canadian soundtrack,0.0881,0.954,0.126,0.0371,-23.294,0.424,0.0462,0.143,70.178
+Bekki on Pills Part 2,Cristobal Tapia De Veer,canadian soundtrack,0.362,0.866,0.357,0.0598,-11.354,0.73,0.035,0.11,115.276
+Fertility Control,Cristobal Tapia De Veer,canadian soundtrack,0.238,0.452,0.33,0.0383,-19.823,0.0101,0.0364,0.115,64.522
+Janus Saves,Cristobal Tapia De Veer,canadian soundtrack,0.419,0.772,0.334,0.0838,-13.251,0.553,0.0477,0.168,111.024
+Evil Prevails,Cristobal Tapia De Veer,canadian soundtrack,0.484,0.718,0.432,0.287,-11.689,0.858,0.0511,0.0975,130.92
+Conspiracy Part 2,Cristobal Tapia De Veer,canadian soundtrack,0.383,0.795,0.428,0.0397,-11.919,0.858,0.0429,0.175,72.59
+Dislocated Thumbs Part 2,Cristobal Tapia De Veer,canadian soundtrack,0.231,0.946,0.825,0.47,-16.896,0.858,0.0801,0.168,99.952
+Utopia Descent,Cristobal Tapia De Veer,canadian soundtrack,0.284,0.666,0.306,0.107,-12.865,0.949,0.0626,0.113,83.588
+Where Is Jessica Hyde? Part 2,Cristobal Tapia De Veer,canadian soundtrack,0.12,0.921,0.217,0.0322,-19.112,0.764,0.0403,0.11,135.666
+Utopia's Death Cargo,Cristobal Tapia De Veer,canadian soundtrack,0.41,0.595,0.462,0.428,-13.389,0.949,0.0355,0.0781,82.969
+The Experiment,Cristobal Tapia De Veer,canadian soundtrack,0.269,0.855,0.112,0.0326,-15.191,0.829,0.0427,0.146,175.413
+Utopia Finale,Cristobal Tapia De Veer,canadian soundtrack,0.769,0.142,0.462,0.0928,-8.803,0.631,0.0856,0.178,171.927
+Canción para el Resto de los Días,Ricardo Pita,ecuadorian indie,0.624,0.671,0.676,0.664,-3.76,2.63e-06,0.0313,0.128,116.872
+Un fiore per coltello,L'Officina Della Camomilla,"italian indie pop,milan indie",0.732,0.372,0.499,0.573,-9.326,4.83e-06,0.0372,0.201,111.896
+Exploradora,Elsa y Elmar,"colombian indie,colombian pop,latin pop,r&b en espanol",0.392,0.352,0.443,0.136,-10.498,0.0886,0.0321,0.212,170.057
+Live This One,Pj Sin Suela,"reggae en espanol,urbano latino",0.62,0.449,0.676,0.698,-8.088,0,0.356,0.0978,174.049
+Luz,Charlie Rodd,"mexican indie,monterrey indie",0.945,0.0252,0.642,0.795,-5.718,1.66e-06,0.0477,0.107,126.987
+Can't Keep,Eddie Vedder,"acoustic rock,permanent wave,rock",0.569,0.927,0.566,0.488,-7.101,0.0597,0.0392,0.0818,108.87
+Sleeping By Myself,Eddie Vedder,"acoustic rock,permanent wave,rock",0.363,0.941,0.591,0.49,-8.993,0,0.0306,0.138,104.434
+Without You,Eddie Vedder,"acoustic rock,permanent wave,rock",0.391,0.969,0.704,0.248,-10.701,0.451,0.0478,0.107,116.951
+More Than You Know,Eddie Vedder,"acoustic rock,permanent wave,rock",0.322,0.988,0.596,0.382,-11.137,0.143,0.0389,0.118,112.501
+Goodbye,Eddie Vedder,"acoustic rock,permanent wave,rock",0.295,0.992,0.534,0.269,-11.696,0.533,0.0416,0.0917,101.71
+Broken Heart,Eddie Vedder,"acoustic rock,permanent wave,rock",0.43,0.991,0.482,0.377,-9.524,0.6,0.0351,0.128,132.904
+Satellite,Eddie Vedder,"acoustic rock,permanent wave,rock",0.38,0.914,0.523,0.227,-8.753,0.000109,0.0359,0.112,119.453
+Longing To Belong,Eddie Vedder,"acoustic rock,permanent wave,rock",0.32,0.97,0.463,0.289,-11.306,0.000114,0.0371,0.0979,115.081
+Hey Fahkah,Eddie Vedder,"acoustic rock,permanent wave,rock",0.299,0.961,0,0,-17.325,0.929,0,0.0817,0
+You're True,Eddie Vedder,"acoustic rock,permanent wave,rock",0.435,0.908,0.542,0.322,-8.308,0.000924,0.0393,0.0829,122.036
+Light Today,Eddie Vedder,"acoustic rock,permanent wave,rock",0.547,0.967,0.6,0.291,-11.165,0.538,0.0446,0.953,127.286
+Sleepless Nights,Eddie Vedder,"acoustic rock,permanent wave,rock",0.272,0.969,0.616,0.24,-8.115,0,0.0321,0.124,107.778
+Once In A While,Eddie Vedder,"acoustic rock,permanent wave,rock",0.341,0.98,0.561,0.568,-8.73,4.27e-06,0.0362,0.11,116.222
+Waving Palms,Eddie Vedder,"acoustic rock,permanent wave,rock",0.154,0.995,0.372,0.881,-18.589,0.901,0.0737,0.0694,171.256
+Tonight You Belong To Me,Eddie Vedder,"acoustic rock,permanent wave,rock",0.174,0.991,0.639,0.606,-10.888,0.00261,0.0495,0.102,138.153
+Dream A Little Dream,Eddie Vedder,"acoustic rock,permanent wave,rock",0.156,0.967,0.549,0.624,-19.883,1.59e-05,0.0776,0.26,95.25
+Prologue,Pedro Bromfman,latin soundtrack,0.504,0.148,0.4,0.136,-14.677,0.913,0.0443,0.335,80.183
+Tuyo,Rodrigo Amarante,nova mpb,0.422,0.474,0.72,0.546,-13.338,0.0847,0.069,0.155,112.219
+Colombian Army,Pedro Bromfman,latin soundtrack,0.124,0.509,0.599,0.0861,-21.072,0.878,0.0442,0.112,99.973
+No Amnesty,Pedro Bromfman,latin soundtrack,0.0151,0.581,0.12,0.0359,-27.635,0.881,0.048,0.131,87.987
+Cockroach and Pinochet,Pedro Bromfman,latin soundtrack,0.293,0.904,0.641,0.648,-19.051,0.914,0.0325,0.107,104.138
+Meet Gacha and Escobar,Pedro Bromfman,latin soundtrack,0.481,0.492,0.28,0.142,-14.417,0.531,0.0473,0.0806,96.012
+Easy Money,Pedro Bromfman,latin soundtrack,0.31,0.129,0.822,0.769,-14.611,0.929,0.167,0.103,89.982
+Agent Murphy,Pedro Bromfman,latin soundtrack,0.0746,0.0663,0.272,0.0389,-21.247,0.819,0.0392,0.317,78.047
+The Perfect Product,Pedro Bromfman,latin soundtrack,0.348,0.00121,0.703,0.0385,-15.187,0.442,0.466,0.106,80.297
+Cocaine Labs,Pedro Bromfman,latin soundtrack,0.0962,0.258,0.212,0.0379,-23.45,0.934,0.0396,0.109,138.169
+Colonel Carrillo,Pedro Bromfman,latin soundtrack,0.306,0.0608,0.672,0.808,-19.22,0.866,0.0289,0.38,160.064
+Pablo's Sword,Pedro Bromfman,latin soundtrack,0.135,0.604,0.16,0.0517,-19.337,0.901,0.0331,0.236,79.866
+Palace of Justice,Pedro Bromfman,latin soundtrack,0.319,0.0352,0.216,0.0499,-18.73,0.653,0.0374,0.0844,151.942
+Baby Girl,Pedro Bromfman,latin soundtrack,0.0849,0.33,0.348,0.115,-21.468,0.944,0.0451,0.101,74.93
+Urban Chase,Pedro Bromfman,latin soundtrack,0.699,0.158,0.444,0.26,-14.2,0.619,0.0551,0.117,108.021
+Flying Drugs,Pedro Bromfman,latin soundtrack,0.531,0.0869,0.664,0.53,-14.749,0.663,0.0654,0.148,160.122
+Murphy's First Kill,Pedro Bromfman,latin soundtrack,0.0906,0.617,0.194,0.0392,-23.502,0.905,0.0382,0.082,139.672
+Gacha's Troubles,Pedro Bromfman,latin soundtrack,0.264,0.442,0.23,0.0345,-21.057,0.912,0.0398,0.107,94.908
+Kidnapped,Pedro Bromfman,latin soundtrack,0.626,0.141,0.299,0.0317,-15.634,0.436,0.09,0.271,101.039
+The Spaniard,Pedro Bromfman,latin soundtrack,0.316,0.39,0.43,0.326,-16.194,0.436,0.0341,0.153,111.852
+President Gaviria,Pedro Bromfman,latin soundtrack,0.215,0.632,0.296,0.095,-19.564,0.873,0.0301,0.339,83.063
+Recruiting Soldiers,Pedro Bromfman,latin soundtrack,0.333,0.374,0.597,0.353,-16.069,0.178,0.0381,0.133,86.896
+The Tax,Pedro Bromfman,latin soundtrack,0.0487,0.639,0.187,0.0352,-25.901,0.933,0.0323,0.142,73.886
+Turbay and Gorilla,Pedro Bromfman,latin soundtrack,0.0592,0.224,0.233,0.0364,-20.771,0.889,0.0365,0.359,101.927
+Pablo Grieves,Pedro Bromfman,latin soundtrack,0.131,0.545,0.205,0.0374,-18.794,0.92,0.0386,0.232,105.442
+Cat Killers,Pedro Bromfman,latin soundtrack,0.103,0.000317,0.265,0.0318,-17.929,0.914,0.0458,0.119,92.941
+Mcpickle,Pedro Bromfman,latin soundtrack,0.182,0.55,0.194,0.0661,-20.045,0.789,0.0405,0.0998,76.277
+This Is Home,Pedro Bromfman,latin soundtrack,0.228,0.816,0.268,0.0358,-18.835,0.916,0.0343,0.103,129.586
+Close To Me,The Cure,"new wave,permanent wave,rock,uk post-punk",0.684,0.139,0.656,0.962,-6.404,0.0972,0.0609,0.348,184.904
+Mint Car,The Cure,"new wave,permanent wave,rock,uk post-punk",0.948,0.0697,0.601,0.75,-3.246,0,0.0606,0.388,143.794
+Wrong Number,The Cure,"new wave,permanent wave,rock,uk post-punk",0.965,0.0261,0.555,0.49,-3.843,0.00229,0.0435,0.154,120.084
+Boys Don't Cry,The Cure,"new wave,permanent wave,rock,uk post-punk",0.841,0.00511,0.463,0.652,-5.979,0,0.0641,0.111,169.491
+A Forest,The Cure,"new wave,permanent wave,rock,uk post-punk",0.65,0.444,0.668,0.862,-9.001,0.618,0.041,0.0963,81.198
+Let's Go To Bed,The Cure,"new wave,permanent wave,rock,uk post-punk",0.926,0.382,0.782,0.688,-3.816,0.14,0.0663,0.292,128.058
+The Lovecats,The Cure,"new wave,permanent wave,rock,uk post-punk",0.818,0.517,0.739,0.962,-4.754,0,0.0804,0.373,91.866
+The Caterpillar,The Cure,"new wave,permanent wave,rock,uk post-punk",0.817,0.506,0.737,0.791,-7.355,0.0223,0.0495,0.5,123.787
+Inbetween Days,The Cure,"new wave,permanent wave,rock,uk post-punk",0.914,0.044,0.536,0.74,-3.372,0.00972,0.0365,0.208,142.496
+Why Can't I Be You?,The Cure,"new wave,permanent wave,rock,uk post-punk",0.969,0.245,0.615,0.674,-3.124,4.96e-06,0.053,0.0678,107.628
+Just Like Heaven,The Cure,"new wave,permanent wave,rock,uk post-punk",0.971,0.0183,0.438,0.793,-3.441,6.96e-05,0.0466,0.211,151.088
+Lullaby,The Cure,"new wave,permanent wave,rock,uk post-punk",0.675,0.00791,0.72,0.557,-4.437,0.409,0.0471,0.0518,93.925
+Lovesong,The Cure,"new wave,permanent wave,rock,uk post-punk",0.868,0.364,0.588,0.736,-4.346,0.261,0.0287,0.157,139.966
+Pictures Of You,The Cure,"new wave,permanent wave,rock,uk post-punk",0.796,0.00141,0.46,0.558,-4.324,0.0284,0.0341,0.0991,172.414
+Never Enough,The Cure,"new wave,permanent wave,rock,uk post-punk",0.987,0.0635,0.507,0.507,-3.874,0.0135,0.121,0.336,100.466
+High,The Cure,"new wave,permanent wave,rock,uk post-punk",0.942,0.00907,0.563,0.767,-4.603,0.000269,0.0331,0.0708,113.901
+Friday I'm In Love,The Cure,"new wave,permanent wave,rock,uk post-punk",0.946,0.000945,0.549,0.477,-4.265,0.00207,0.0377,0.368,135.959
+Cut Here,The Cure,"new wave,permanent wave,rock,uk post-punk",0.902,0.0101,0.617,0.858,-3.775,0.0475,0.0411,0.295,135.004
+Just Say Yes,The Cure,"new wave,permanent wave,rock,uk post-punk",0.963,0.00026,0.618,0.578,-3.1,0.0203,0.0347,0.274,110.02
+Trois Gymnopédies: No. 1,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00825,0.995,0.539,0.42,-33.836,0.963,0.053,0.0749,129.066
+Trois Gymnopédies: No. 2,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00615,0.993,0.504,0.341,-31.489,0.933,0.0456,0.0989,129.58
+Trois Gymnopédies: No. 3,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.0026,0.994,0.502,0.414,-34.512,0.919,0.0404,0.0871,59.524
+Satie: Je te veux,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.0136,0.996,0.301,0.187,-35.017,0.865,0.0384,0.0736,102.266
+"Leit-motiv du ""Panthée""",Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00111,0.98,0.714,0,-35.868,0.75,0.327,0.0986,127.396
+3 Sarabandes : No. 1,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00238,0.995,0.543,0.333,-38.82,0.952,0.0872,0.115,70.268
+Prière,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.000864,0.996,0.436,0.492,-44.626,0.91,0.0709,0.0645,130.409
+Gnossiennes : No. 1 - Lent,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00741,0.996,0.509,0.124,-31.083,0.94,0.0683,0.083,128.449
+Gnossiennes : No. 2 - Avec étonnement,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00547,0.995,0.492,0.106,-32.408,0.915,0.0698,0.0993,105.023
+Gnossiennes : No. 3 - Lent,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.0119,0.995,0.433,0.177,-33.331,0.951,0.0926,0.0856,76.601
+Cinq nocturnes: IV. No. 4,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.0155,0.992,0.4,0.192,-27.11,0.931,0.0427,0.115,163.267
+Petite ouverture à danser,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00543,0.996,0.372,0.13,-30.039,0.949,0.0698,0.103,76.625
+Quatre préludes: I. Fête donnée par des chevaliers normands en l'honneur d'une jeune demoiselle,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00239,0.993,0.532,0.524,-41.196,0.955,0.38,0.0611,99.706
+Pièces froides : Danses de travers - I,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00908,0.995,0.279,0.191,-38.332,0.801,0.0389,0.0788,71.911
+Danses gothiques,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00139,0.994,0.567,0.184,-34.398,0.94,0.194,0.0791,93.16
+Nocturnes : 1. Doux et calme,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00676,0.995,0.378,0.124,-32.863,0.901,0.0588,0.0641,76.474
+Nocturnes : 2. Simplement,Erik Satie,"classical,early avant garde,early modern classical,impressionism,post-romantic era",0.00615,0.995,0.414,0.102,-30.992,0.937,0.0385,0.12,95.821
+"Samai Bayati (Taksim Oud, Samai Thaqil 10/8, Samai Darij 6/8)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.392,0.399,0.469,0.307,-15.044,0.282,0.0437,0.443,148.565
+"Samai Husseini (Samai Thaqil 10/8, Samai Darij 6/8)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.407,0.225,0.382,0.71,-13.414,0.000597,0.0358,0.304,111.981
+"Suite Rasd (Bashraf - Taqsim Oud - Mouwashah - Taqsim Nay - Samai Thaqil 10/8, Samai Darij 6/8)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.215,0.805,0.515,0.436,-14.583,0.757,0.0442,0.287,129.467
+"Samai Nahawand (Taqsim Qanun, Samai Thaqil 10/8, Samai Darij 6/8)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.228,0.693,0.433,0.315,-15.691,0.102,0.0382,0.281,106.906
+"Samai Mouhayar (Samai Thaqil 10/8, Samai Darij 6/8)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.437,0.096,0.39,0.531,-12.596,0.0218,0.0392,0.131,113.202
+"Suite Bayati (Taqsim Nay - Samai Thaqil 10/8, Samai Darij 6/8 - Taqsim Oud - Mouwashah)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.215,0.785,0.539,0.527,-14.694,0.722,0.0547,0.129,130.281
+"Samai Chat Araban (Taqsim Nay, Samai Thaqil 10/8, Samai Darij 6/8)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.324,0.57,0.367,0.275,-14.527,0.0521,0.0383,0.373,108.329
+"Longa & Samai Shahnaz (Longa 2/4, Samai Thaqil 10/8, Samai Darij 6/8)",Classical Arabic Orchestra of Aleppo,"arab folk,middle eastern traditional",0.477,0.158,0.408,0.552,-12.579,0.0205,0.0382,0.364,106.14
+The Computer Song,Don't Hug Me I'm Scared,weirdcore,0.486,0.525,0.63,0.476,-12.349,0,0.642,0.107,160.137
+Ultralight Beam,Kanye West,"chicago rap,rap",0.397,0.627,0.672,0.372,-8.804,0,0.381,0.54,105.71
+Pt. 2,Kanye West,"chicago rap,rap",0.729,0.536,0.672,0.272,-4.07,0,0.343,0.777,145.089
+Famous,Kanye West,"chicago rap,rap",0.754,0.0679,0.469,0.421,-3.664,0,0.13,0.106,174.068
+Highlights,Kanye West,"chicago rap,rap",0.629,0.00586,0.541,0.356,-6.269,0,0.198,0.288,102.053
+Freestyle 4,Kanye West,"chicago rap,rap",0.532,0.0446,0.474,0.462,-8.326,0,0.0888,0.0901,125.901
+30 Hours,Kanye West,"chicago rap,rap",0.809,0.0339,0.819,0.361,-6.724,0,0.292,0.1,95.091
+Fade,Kanye West,"chicago rap,rap",0.77,0.102,0.743,0.308,-5.738,0,0.0989,0.314,105.93
+Saint Pablo,Kanye West,"chicago rap,rap",0.771,0.286,0.661,0.433,-4.125,0,0.26,0.207,84.061
+Father Stretch My Hands Pt. 1,Kanye West,"chicago rap,rap",0.568,0.138,0.717,0.362,-4.404,0,0.0807,0.58,113.17
+Feedback,Kanye West,"chicago rap,rap",0.566,0.601,0.826,0.178,-6.039,0,0.503,0.104,100.134
+Low Lights,Kanye West,"chicago rap,rap",0.601,0.707,0.655,0.546,-4.786,0,0.115,0.123,97.827
+I Love Kanye,Kanye West,"chicago rap,rap",0.382,0.567,0.788,0.964,-7.794,0,0.618,0.233,85.142
+Waves,Kanye West,"chicago rap,rap",0.572,0.0402,0.545,0.0588,-4.499,6.54e-06,0.04,0.331,96.239
+FML,Kanye West,"chicago rap,rap",0.417,0.312,0.67,0.133,-7.123,0,0.0787,0.194,125.091
+Real Friends,Kanye West,"chicago rap,rap",0.748,0.263,0.462,0.132,-6.264,0.000482,0.465,0.138,170.862
+Wolves,Kanye West,"chicago rap,rap",0.397,0.194,0.557,0.127,-8.019,0.00186,0.045,0.133,77.946
+Frank's Track,Kanye West,"chicago rap,rap",0.162,0.973,0.59,0.782,-7.086,0,0.0887,0.104,172.639
+Siiiiiiiiilver Surffffeeeeer Intermission,Kanye West,"chicago rap,rap",0.427,0.982,0.725,0.89,-11.922,8.08e-05,0.913,0.11,74.703
+No More Parties In LA,Kanye West,"chicago rap,rap",0.922,0.23,0.471,0.685,-1.614,0,0.31,0.223,92.414
+Facts (Charlie Heat Version),Kanye West,"chicago rap,rap",0.658,0.0503,0.771,0.405,-3.78,0,0.165,0.17,142.094
+Who Needs Love (Like That),Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.898,0.127,0.782,0.972,-7.874,0.00264,0.03,0.0793,120.15
+Oh L'Amour,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.873,0.0559,0.603,0.75,-7.024,0.0314,0.0308,0.0576,121.274
+Sometimes,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.958,0.153,0.581,0.654,-5.637,0.00198,0.0655,0.331,108.283
+Victim of Love,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.856,0.273,0.756,0.721,-6.62,0.000223,0.0424,0.0667,109.592
+The Circus,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.765,0.0558,0.667,0.728,-7.13,0.000253,0.024,0.0594,94.688
+Ship of Fools,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.861,0.0125,0.556,0.768,-7.656,0.0299,0.0248,0.201,100.607
+Chains of Love,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.831,0.00255,0.728,0.559,-8.118,0.000121,0.0299,0.112,122.592
+A Little Respect,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.869,0.0501,0.602,0.724,-6.286,1.66e-06,0.0293,0.324,113.795
+Stop!,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.923,0.0687,0.648,0.676,-5.615,1.29e-06,0.0377,0.187,120.144
+Drama!,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.893,0.00172,0.574,0.388,-5.596,0.0016,0.0413,0.105,124.292
+Blue Savannah,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.67,0.045,0.6,0.504,-7.191,0.000398,0.0279,0.131,134.918
+Chorus,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.792,0.114,0.623,0.635,-8.893,0.0233,0.0291,0.083,129.983
+Love To Hate You,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.906,0.0295,0.635,0.829,-6.0,0.0023,0.0457,0.476,119.803
+Take A Chance On Me,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.901,0.00775,0.651,0.625,-7.444,1.04e-05,0.0361,0.0842,118.029
+Always,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.845,0.22,0.574,0.204,-6.673,1.93e-06,0.0276,0.225,103.028
+Fingers and Thumbs (Cold Summer's Day),Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.9,0.00947,0.594,0.501,-7.334,6.2e-05,0.0456,0.0919,125.017
+Breathe,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.642,0.00955,0.587,0.241,-8.74,0.0199,0.0276,0.103,106.006
+Be With You,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.742,0.0135,0.64,0.553,-6.909,0,0.0282,0.123,127.016
+Elevation,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.754,0.0017,0.541,0.544,-8.582,0,0.0359,0.127,120.989
+Sometimes - 2015 Mix,Erasure,"europop,new romantic,new wave,new wave pop,synthpop",0.858,0.00612,0.569,0.391,-7.891,0,0.104,0.296,108.137
+Winds of Change,Vance Joy,"folk-pop,pop",0.581,0.614,0.597,0.495,-6.611,0.000171,0.0281,0.116,106.944
+Mess Is Mine,Vance Joy,"folk-pop,pop",0.723,0.047,0.595,0.272,-8.256,0.0286,0.0349,0.0995,108.043
+Wasted Time,Vance Joy,"folk-pop,pop",0.603,0.408,0.602,0.454,-6.981,0.00188,0.0328,0.157,112.021
+Riptide,Vance Joy,"folk-pop,pop",0.731,0.431,0.484,0.51,-6.694,0,0.0379,0.151,101.654
+Who Am I,Vance Joy,"folk-pop,pop",0.694,0.561,0.622,0.605,-6.636,0.000379,0.0596,0.123,127.786
+From Afar,Vance Joy,"folk-pop,pop",0.412,0.489,0.327,0.173,-8.511,7.72e-06,0.029,0.308,86.419
+We All Die Trying to Get It Right,Vance Joy,"folk-pop,pop",0.58,0.252,0.333,0.0907,-8.511,0.00218,0.0295,0.0541,106.852
+Georgia,Vance Joy,"folk-pop,pop",0.66,0.312,0.388,0.401,-7.372,0.000307,0.0308,0.0943,143.554
+Red Eye,Vance Joy,"folk-pop,pop",0.542,0.0418,0.535,0.129,-7.436,0,0.0288,0.158,115.554
+First Time,Vance Joy,"folk-pop,pop",0.894,0.313,0.639,0.39,-7.184,4.3e-06,0.142,0.168,116.009
+All I Ever Wanted,Vance Joy,"folk-pop,pop",0.624,0.0312,0.518,0.241,-6.134,0.000171,0.0256,0.131,87.565
+Best That I Can,Vance Joy,"folk-pop,pop",0.393,0.487,0.434,0.127,-7.738,2.73e-05,0.0343,0.129,171.945
+My Kind of Man,Vance Joy,"folk-pop,pop",0.265,0.798,0.405,0.0549,-8.984,1.78e-06,0.0315,0.108,119.75
+Fire and the Flood,Vance Joy,"folk-pop,pop",0.827,0.0242,0.596,0.329,-4.402,0,0.0372,0.0958,115.034
+Straight into Your Arms - Bonus Track Version,Vance Joy,"folk-pop,pop",0.557,0.224,0.645,0.461,-5.883,0,0.0329,0.374,100.026
+In Your Face,Die Antwoord,"african rock,south african alternative,south african hip hop",0.727,0.0399,0.537,0.351,-5.046,0,0.251,0.284,97.161
+Wat Kyk Jy?,Die Antwoord,"african rock,south african alternative,south african hip hop",0.651,0.231,0.918,0.675,-6.413,0.000113,0.199,0.177,134.948
+$copie,Die Antwoord,"african rock,south african alternative,south african hip hop",0.444,0.286,0.961,0.711,-10.143,7.08e-06,0.34,0.0973,129.984
+Enter The Ninja,Die Antwoord,"african rock,south african alternative,south african hip hop",0.783,0.0688,0.687,0.413,-5.691,0,0.0844,0.112,152.02
+Evil Boy - F**k You In The Face Mix,Die Antwoord,"african rock,south african alternative,south african hip hop",0.888,0.0239,0.723,0.38,-3.771,1.23e-06,0.276,0.086,140.102
+Rich B***h,Die Antwoord,"african rock,south african alternative,south african hip hop",0.67,0.022,0.808,0.693,-5.908,1.3e-06,0.0707,0.0569,91.97
+Fish Paste,Die Antwoord,"african rock,south african alternative,south african hip hop",0.483,0.0914,0.884,0.612,-6.265,4.68e-06,0.433,0.278,95.143
+Beat Boy,Die Antwoord,"african rock,south african alternative,south african hip hop",0.72,0.0789,0.874,0.708,-10.685,0.00767,0.293,0.094,139.96
+She Makes Me A Killer,Die Antwoord,"african rock,south african alternative,south african hip hop",0.791,0.107,0.534,0.328,-5.733,0,0.325,0.268,122.467
+Doos Dronk,Die Antwoord,"african rock,south african alternative,south african hip hop",0.782,0.229,0.814,0.635,-4.65,0,0.199,0.447,109.962
+$O$,Die Antwoord,"african rock,south african alternative,south african hip hop",0.689,0.255,0.649,0.515,-10.511,0.928,0.0323,0.103,130.02
+Never Le Nkemise,Die Antwoord,"african rock,south african alternative,south african hip hop",0.768,0.0228,0.324,0.107,-5.565,0,0.121,0.13,148.748
+I Fink U Freeky,Die Antwoord,"african rock,south african alternative,south african hip hop",0.753,0.022,0.847,0.481,-6.499,1.57e-05,0.222,0.628,129.973
+Pielie - Skit,Die Antwoord,"african rock,south african alternative,south african hip hop",0.471,0.68,0,0,-19.416,0,0,0.206,0
+Hey Sexy,Die Antwoord,"african rock,south african alternative,south african hip hop",0.854,0.0548,0.504,0.537,-4.587,0,0.395,0.136,174.377
+Fatty Boom Boom,Die Antwoord,"african rock,south african alternative,south african hip hop",0.853,0.128,0.835,0.696,-4.945,2.31e-05,0.218,0.158,93.874
+Zefside Zol - Interlude,Die Antwoord,"african rock,south african alternative,south african hip hop",0.668,0.208,0.858,0.524,-8.381,0.0741,0.0656,0.353,101.009
+So What? - Interlude,Die Antwoord,"african rock,south african alternative,south african hip hop",0.718,0.245,0.771,0.784,-5.511,0,0.282,0.198,89.908
+Uncle Jimmy - Skit,Die Antwoord,"african rock,south african alternative,south african hip hop",0.442,0.593,0.718,0.505,-20.382,1.85e-05,0.929,0.19,73.171
+Baby's On Fire,Die Antwoord,"african rock,south african alternative,south african hip hop",0.852,0.0579,0.832,0.723,-4.35,0.00193,0.0927,0.157,130.002
+U Make A Ninja Wanna Fuck,Die Antwoord,"african rock,south african alternative,south african hip hop",0.667,0.0192,0.82,0.425,-8.064,0.00405,0.226,0.0834,146.051
+Fok Julie Naaiers,Die Antwoord,"african rock,south african alternative,south african hip hop",0.597,0.0847,0.636,0.613,-5.758,8.22e-06,0.469,0.224,80.915
+DJ Hi-Tek Rulez,Die Antwoord,"african rock,south african alternative,south african hip hop",0.809,0.101,0.841,0.215,-7.471,0,0.732,0.329,94.994
+Never Le Nkemise - With Yo-Landi Vi$$er Vocal,Die Antwoord,"african rock,south african alternative,south african hip hop",0.764,0.222,0.426,0.137,-6.562,0.00169,0.283,0.0819,74.002
+Dont Fuk Me,Die Antwoord,"african rock,south african alternative,south african hip hop",0.324,0.645,0.816,0.231,-17.24,0,0.821,0.108,99.908
+Ugly Boy,Die Antwoord,"african rock,south african alternative,south african hip hop",0.669,0.0147,0.822,0.602,-5.358,0,0.182,0.188,102.035
+Happy Go Sucky Fucky,Die Antwoord,"african rock,south african alternative,south african hip hop",0.826,0.0446,0.631,0.553,-7.8,0.000226,0.438,0.728,149.93
+Zars,Die Antwoord,"african rock,south african alternative,south african hip hop",0.604,0.395,0.578,0.358,-10.532,2.49e-05,0.509,0.193,168.757
+Raging Zef Boner,Die Antwoord,"african rock,south african alternative,south african hip hop",0.706,0.24,0.91,0.812,-6.227,0,0.336,0.213,93.972
+Pompie,Die Antwoord,"african rock,south african alternative,south african hip hop",0.409,0.888,0.674,0.378,-15.434,5.35e-06,0.942,0.636,95.468
+Cookie Thumper!,Die Antwoord,"african rock,south african alternative,south african hip hop",0.795,0.0891,0.784,0.504,-4.159,0,0.225,0.326,133.938
+Girl I Want 2 Eat U,Die Antwoord,"african rock,south african alternative,south african hip hop",0.845,0.0123,0.634,0.547,-4.284,0,0.292,0.126,187.978
+Pitbull Terrier,Die Antwoord,"african rock,south african alternative,south african hip hop",0.632,0.00394,0.707,0.369,-6.743,0.0244,0.0381,0.536,123.97
+Strunk,Die Antwoord,"african rock,south african alternative,south african hip hop",0.402,0.186,0.495,0.353,-8.616,1.66e-06,0.0382,0.19,165.901
+Do Not Fuk Wif Da Kid,Die Antwoord,"african rock,south african alternative,south african hip hop",0.703,0.804,0.493,0.244,-17.791,0.000144,0.657,0.511,101.758
+Rat Trap 666,Noir,,0.496,0.00268,0.427,0.0806,-5.407,1.31e-05,0.159,0.407,75.564
+I Dont Dwank,Die Antwoord,"african rock,south african alternative,south african hip hop",0.54,0.245,0.716,0.817,-5.903,0,0.774,0.425,124.137
+Sex,Die Antwoord,"african rock,south african alternative,south african hip hop",0.813,0.00494,0.674,0.232,-7.531,0.0815,0.0468,0.105,127.978
+Moon Love,Die Antwoord,"african rock,south african alternative,south african hip hop",0.335,0.133,0.269,0.215,-9.959,0.179,0.0549,0.0512,188.212
+Donker Mag,Die Antwoord,"african rock,south african alternative,south african hip hop",0.51,0.0362,0.211,0.134,-11.069,0.739,0.0562,0.139,99.279
+DANCE WIF DA DEVIL,Die Antwoord,"african rock,south african alternative,south african hip hop",0.542,0.8,0.588,0.145,-13.104,0,0.798,0.0933,84.7
+BUM BUM,Die Antwoord,"african rock,south african alternative,south african hip hop",0.464,0.234,0.637,0.561,-7.527,0,0.53,0.123,149.481
+GUCCI COOCHIE,Die Antwoord,"african rock,south african alternative,south african hip hop",0.796,0.00965,0.826,0.468,-7.583,2.15e-06,0.164,0.197,129.996
+WHERE'S MY FUKN CUP CAKE?,Die Antwoord,"african rock,south african alternative,south african hip hop",0.548,0.838,0.581,0.745,-7.453,1.45e-06,0.655,0.373,95.377
+DAZED & CONFUSED,Die Antwoord,"african rock,south african alternative,south african hip hop",0.679,0.0247,0.781,0.39,-7.191,0.00661,0.154,0.352,98.047
+SIEMBAMBA,Die Antwoord,"african rock,south african alternative,south african hip hop",0.351,0.924,0.436,0.14,-15.72,8.93e-05,0.124,0.594,88.314
+PITBULL TERRIER - God's Berzerker Trap Remix,Die Antwoord,"african rock,south african alternative,south african hip hop",0.939,0.0377,0.66,0.582,-5.943,0.269,0.145,0.231,123.955
+I FINK YOU FREEKY - God's Death Trap Remix,Die Antwoord,"african rock,south african alternative,south african hip hop",0.75,0.0819,0.676,0.935,-5.324,2.74e-05,0.175,0.08,139.943
+WE WANT CANDY,Die Antwoord,"african rock,south african alternative,south african hip hop",0.604,0.000521,0.672,0.284,-10.081,0.00334,0.259,0.323,126.024
+FOK JULLE NAAIERS - God's Wicked Jungle Remix,Die Antwoord,"african rock,south african alternative,south african hip hop",0.877,0.0147,0.682,0.528,-7.555,0.000776,0.36,0.609,160.15
+I DON'T CARE,Die Antwoord,"african rock,south african alternative,south african hip hop",0.81,0.00129,0.515,0.209,-8.109,0.152,0.24,0.628,152.993
+JAN PIEREWIET,Die Antwoord,"african rock,south african alternative,south african hip hop",0.449,0.889,0.451,0.482,-13.749,8.57e-05,0.339,0.283,87.239
+ENTER DA NINJA - The Black Goat Decapitator Remix,Die Antwoord,"african rock,south african alternative,south african hip hop",0.873,0.0852,0.577,0.195,-6.116,0.00055,0.434,0.348,151.886
+The Ballad of Mona Lisa,Panic! At The Disco,modern rock,0.893,0.000362,0.436,0.0794,-4.18,0,0.0556,0.103,124.113
+Let's Kill Tonight,Panic! At The Disco,modern rock,0.867,0.00428,0.455,0.29,-3.445,5.01e-05,0.151,0.0998,185.977
+Hurricane,Panic! At The Disco,modern rock,0.869,0.00393,0.515,0.336,-4.381,0,0.109,0.434,122.748
+Memories,Panic! At The Disco,modern rock,0.958,0.000473,0.489,0.427,-2.731,0,0.05,0.401,132.975
+Trade Mistakes,Panic! At The Disco,modern rock,0.803,0.000169,0.467,0.18,-3.282,6.8e-06,0.0467,0.123,129.995
+Ready to Go (Get Me Out of My Mind),Panic! At The Disco,modern rock,0.922,0.000463,0.57,0.32,-5.433,0.000188,0.0424,0.363,135.01
+Always,Panic! At The Disco,modern rock,0.499,0.665,0.408,0.554,-7.651,0,0.0323,0.11,88.968
+The Calendar,Panic! At The Disco,modern rock,0.701,0.00546,0.305,0.333,-5.67,1.06e-06,0.0494,0.182,75.588
+Sarah Smiles,Panic! At The Disco,modern rock,0.837,0.000324,0.332,0.551,-3.437,0,0.038,0.164,171.341
+Far Too Young to Die,Panic! At The Disco,modern rock,0.756,0.00217,0.676,0.543,-6.528,3.08e-05,0.0446,0.104,126.98
+The End of All Things,Panic! At The Disco,modern rock,0.233,0.827,0.21,0.095,-11.636,0.0039,0.0287,0.129,88.679
+Victorious,Panic! At The Disco,modern rock,0.865,0.00205,0.57,0.691,-4.518,0,0.0472,0.404,110.01
+Don't Threaten Me with a Good Time,Panic! At The Disco,modern rock,0.895,0.0154,0.559,0.59,-4.476,0,0.0832,0.175,183.825
+Hallelujah,Panic! At The Disco,modern rock,0.886,0.011,0.578,0.615,-4.348,0,0.0633,0.143,80.008
+Emperor's New Clothes,Panic! At The Disco,modern rock,0.904,0.00302,0.562,0.651,-4.947,0,0.0807,0.0433,94.481
+Death of a Bachelor,Panic! At The Disco,modern rock,0.538,0.0137,0.462,0.405,-5.527,0,0.059,0.429,139.256
+Crazy = Genius,Panic! At The Disco,modern rock,0.91,0.000247,0.455,0.447,-4.464,0,0.166,0.107,114.109
+LA Devotee,Panic! At The Disco,modern rock,0.848,0.00043,0.49,0.698,-5.05,8.49e-06,0.0645,0.0665,175.998
+Golden Days,Panic! At The Disco,modern rock,0.708,0.00329,0.556,0.206,-5.708,0,0.039,0.329,128.006
+House of Memories,Panic! At The Disco,modern rock,0.817,0.00272,0.506,0.506,-5.051,0,0.0335,0.0486,109.952
+Ode to Sleep,Twenty One Pilots,"modern rock,rock",0.76,0.00891,0.446,0.512,-3.608,0.000108,0.0453,0.232,150.033
+Migraine,Twenty One Pilots,"modern rock,rock",0.678,0.11,0.69,0.409,-6.52,0,0.154,0.246,173.995
+House of Gold,Twenty One Pilots,"modern rock,rock",0.693,0.445,0.68,0.851,-7.234,0,0.0435,0.208,114.948
+Car Radio,Twenty One Pilots,"modern rock,rock",0.519,0.098,0.766,0.612,-7.355,0,0.0366,0.0855,129.972
+Semi-Automatic,Twenty One Pilots,"modern rock,rock",0.716,0.0489,0.78,0.362,-4.551,5.92e-06,0.0439,0.0704,105.017
+Screen,Twenty One Pilots,"modern rock,rock",0.714,0.0963,0.718,0.84,-5.699,0,0.0622,0.141,149.949
+The Run and Go,Twenty One Pilots,"modern rock,rock",0.318,0.0437,0.798,0.425,-6.849,0,0.0431,0.158,92.49
+Fake You Out,Twenty One Pilots,"modern rock,rock",0.608,0.248,0.84,0.727,-6.176,1.25e-06,0.0458,0.0874,115.012
+Guns for Hands,Twenty One Pilots,"modern rock,rock",0.858,0.00694,0.684,0.518,-4.266,0.000167,0.0342,0.0828,129.963
+Trees,Twenty One Pilots,"modern rock,rock",0.833,0.00359,0.584,0.324,-5.9,3.44e-05,0.041,0.169,140.013
+Truce,Twenty One Pilots,"modern rock,rock",0.0231,0.994,0.537,0.342,-14.407,0.0471,0.0475,0.146,120.322
+Glowing Eyes - Bonus Track,Twenty One Pilots,"modern rock,rock",0.594,0.325,0.582,0.803,-7.254,0,0.0502,0.0952,169.949
+Kitchen Sink - Bonus Track,Twenty One Pilots,"modern rock,rock",0.594,0.459,0.652,0.511,-7.954,0.000442,0.0436,0.0938,120.018
+Lovely - Bonus Track,Twenty One Pilots,"modern rock,rock",0.765,0.142,0.68,0.527,-6.35,0,0.0355,0.0905,119.977
+Forest - Bonus Track,Twenty One Pilots,"modern rock,rock",0.66,0.386,0.694,0.559,-6.175,0,0.0463,0.0703,119.959
+Implicit Demand For Proof,Twenty One Pilots,"modern rock,rock",0.262,0.635,0.495,0.287,-10.572,0.00486,0.0292,0.104,159.986
+Fall Away,Twenty One Pilots,"modern rock,rock",0.766,0.238,0.816,0.696,-5.176,0.0127,0.0565,0.0893,120.011
+The Pantaloon,Twenty One Pilots,"modern rock,rock",0.636,0.158,0.733,0.591,-6.693,0,0.0299,0.32,99.996
+Addict With A Pen,Twenty One Pilots,"modern rock,rock",0.787,0.149,0.553,0.298,-7.827,3.25e-05,0.0931,0.102,139.841
+"Friend, Please",Twenty One Pilots,"modern rock,rock",0.517,0.391,0.228,0.204,-9.167,0,0.0401,0.29,109.83
+March To The Sea,Twenty One Pilots,"modern rock,rock",0.496,0.473,0.693,0.149,-10.146,1.14e-05,0.0444,0.0738,124.959
+Johnny Boy,Twenty One Pilots,"modern rock,rock",0.841,0.00525,0.561,0.356,-4.311,4.53e-05,0.0515,0.24,114.943
+Oh Ms Believer,Twenty One Pilots,"modern rock,rock",0.328,0.612,0.501,0.263,-8.329,0,0.0255,0.15,73.326
+Air Catcher,Twenty One Pilots,"modern rock,rock",0.436,0.0731,0.519,0.133,-8.064,0,0.0285,0.107,109.962
+Trapdoor,Twenty One Pilots,"modern rock,rock",0.625,0.149,0.55,0.317,-8.213,0,0.0399,0.161,149.927
+"A Car, A Torch, A Death",Twenty One Pilots,"modern rock,rock",0.732,0.147,0.618,0.444,-4.609,9.23e-06,0.0724,0.0925,140.086
+Taxi Cab,Twenty One Pilots,"modern rock,rock",0.572,0.166,0.567,0.205,-7.694,0,0.0318,0.103,138.062
+Before You Start Your Day,Twenty One Pilots,"modern rock,rock",0.135,0.976,0.363,0.195,-11.166,0.000265,0.0295,0.107,98.45
+Isle Of Flightless Birds,Twenty One Pilots,"modern rock,rock",0.421,0.103,0.753,0.134,-6.988,4.03e-05,0.0551,0.139,140.031
+The Judge,Twenty One Pilots,"modern rock,rock",0.797,0.177,0.423,0.592,-4.659,0,0.124,0.137,82.617
+Heavydirtysoul,Twenty One Pilots,"modern rock,rock",0.873,0.00397,0.613,0.392,-6.376,0.00111,0.0449,0.367,129.989
+Stressed Out,Twenty One Pilots,"modern rock,rock",0.637,0.0462,0.734,0.648,-5.677,2.29e-05,0.141,0.0602,169.977
+Ride,Twenty One Pilots,"modern rock,rock",0.713,0.00835,0.645,0.566,-5.355,0,0.0393,0.113,74.989
+Fairly Local,Twenty One Pilots,"modern rock,rock",0.723,0.0396,0.715,0.479,-5.993,8.57e-05,0.0569,0.084,114.985
+Tear in My Heart,Twenty One Pilots,"modern rock,rock",0.632,0.0189,0.655,0.447,-4.802,0,0.0489,0.0722,120.113
+Lane Boy,Twenty One Pilots,"modern rock,rock",0.811,0.0573,0.616,0.913,-4.804,1.57e-05,0.0626,0.0566,159.929
+Doubt,Twenty One Pilots,"modern rock,rock",0.645,0.121,0.719,0.69,-6.141,0.00316,0.0358,0.362,123.02
+Polarize,Twenty One Pilots,"modern rock,rock",0.666,0.122,0.597,0.626,-6.365,0.00302,0.0418,0.1,164.992
+We Don't Believe What's on TV,Twenty One Pilots,"modern rock,rock",0.936,0.23,0.547,0.642,-4.023,3.04e-06,0.102,0.172,120.003
+Message Man,Twenty One Pilots,"modern rock,rock",0.838,0.0897,0.715,0.497,-6.077,0,0.118,0.15,120.007
+Hometown,Twenty One Pilots,"modern rock,rock",0.753,0.0577,0.683,0.389,-5.564,0.00208,0.0317,0.357,120.03
+Not Today,Twenty One Pilots,"modern rock,rock",0.706,0.0605,0.77,0.527,-4.705,0.00182,0.0302,0.0985,115.011
+Goner,Twenty One Pilots,"modern rock,rock",0.437,0.194,0.565,0.217,-7.68,7.14e-06,0.0403,0.0656,96.132
+Heathens,Twenty One Pilots,"modern rock,rock",0.396,0.0841,0.732,0.548,-9.348,3.58e-05,0.0286,0.105,90.024
+Glass in the park,Alex Turner,"modern rock,rock,sheffield indie",0.19,0.903,0.553,0.299,-14.961,0.000227,0.0298,0.0993,100.002
+Hiding tonight,Alex Turner,"modern rock,rock,sheffield indie",0.122,0.915,0.543,0.282,-18.863,0,0.0337,0.373,99.835
+Piledriver waltz,Alex Turner,"modern rock,rock,sheffield indie",0.748,0.119,0.533,0.343,-7.861,0.612,0.0285,0.316,105.921
+It's hard to get around the wind,Alex Turner,"modern rock,rock,sheffield indie",0.244,0.87,0.436,0.359,-19.096,0.000371,0.0339,0.102,145.42
+Stuck on the puzzle,Alex Turner,"modern rock,rock,sheffield indie",0.682,0.0792,0.58,0.774,-8.523,0.0316,0.0332,0.161,77.53
+The King's Speech,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.186,0.977,0.33,0.125,-17.263,0.921,0.0344,0.109,117.603
+Girl With A Pearl Earring,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.278,0.896,0.306,0.169,-11.546,0.891,0.0332,0.099,87.489
+Love Etc,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.135,0.888,0.0863,0.0395,-15.012,0.892,0.0421,0.114,83.592
+Le plus bel âge,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.246,0.963,0.316,0.226,-16.077,0.881,0.033,0.107,95.519
+Un héro très discret,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.406,0.747,0.447,0.35,-10.335,0.933,0.0438,0.115,99.092
+The Ghost Writer,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.329,0.795,0.688,0.595,-13.229,0.773,0.038,0.132,99.004
+The Tree Of Life,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.116,0.875,0.147,0.135,-18.071,0.902,0.0387,0.109,61.756
+Un prophète,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.136,0.774,0.261,0.038,-14.351,0.762,0.0314,0.117,92.155
+Extremely Loud and Incredibly Close,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.196,0.949,0.409,0.179,-15.353,0.906,0.0345,0.117,106.767
+"Lust, Caution",Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.174,0.875,0.125,0.102,-16.18,0.857,0.0376,0.105,69.288
+Chéri,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.194,0.884,0.338,0.148,-13.165,0.719,0.0362,0.0948,124.596
+Sur mes lèvres,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.214,0.786,0.189,0.0362,-12.803,0.779,0.0373,0.0625,87.116
+Coco avant Chanel,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.206,0.933,0.163,0.0738,-12.083,0.929,0.0435,0.077,176.294
+Si Somos Americanos,Rolando Alarcon,nueva cancion,0.773,0.426,0.731,0.71,-4.317,0.000144,0.0323,0.22,141.871
+Doña Javiera Carrera,Rolando Alarcon,nueva cancion,0.714,0.839,0.574,0.861,-3.955,0,0.0637,0.218,111.227
+Mi Abuela Bailo Sirilla,Rolando Alarcon,nueva cancion,0.729,0.802,0.797,0.572,-6.0,0,0.0347,0.173,122.356
+Mocito Que Vas Remando,Rolando Alarcon,nueva cancion,0.473,0.751,0.731,0.308,-5.964,0,0.0435,0.0999,143.445
+Copla de los Numeros,Rolando Alarcon,nueva cancion,0.678,0.8,0.792,0.892,-6.292,0,0.0325,0.154,114.38
+En el Portal,Rolando Alarcon,nueva cancion,0.603,0.777,0.548,0.864,-6.313,0,0.0336,0.15,102.543
+Quien Fuera Como el Gallo,Rolando Alarcon,nueva cancion,0.835,0.666,0.8,0.868,-4.114,0,0.0505,0.0892,120.902
+Mocosita,Rolando Alarcon,nueva cancion,0.442,0.895,0.713,0.8,-8.026,1.74e-05,0.0324,0.0881,129.483
+El Aguila y la Paloma,Rolando Alarcon,nueva cancion,0.83,0.799,0.621,0.473,-3.503,0,0.0822,0.151,76.27
+En las Salitreras,Rolando Alarcon,nueva cancion,0.469,0.908,0.729,0.601,-5.506,0.0017,0.0328,0.238,132.12
+La Celada,Rolando Alarcon,nueva cancion,0.801,0.661,0.824,0.766,-4.067,2.43e-06,0.188,0.102,144.736
+El Llanto de la Sirena,Rolando Alarcon,nueva cancion,0.297,0.876,0.651,0.313,-6.787,0,0.0484,0.141,123.687
+Cancion Guajiro,Rolando Alarcon,nueva cancion,0.623,0.581,0.856,0.875,-5.332,1.36e-06,0.0366,0.216,122.195
+En un Pequeño Mundo,Rolando Alarcon,nueva cancion,0.228,0.906,0.623,0.201,-9.21,2.14e-06,0.0531,0.11,109.189
+Cancion de Cuna Negra,Rolando Alarcon,nueva cancion,0.179,0.916,0.709,0.517,-9.463,1.12e-06,0.0314,0.107,106.169
+Cancion de la Noche,Rolando Alarcon,nueva cancion,0.325,0.848,0.745,0.63,-6.37,0,0.028,0.093,107.316
+En el Patio de la Escuela,Rolando Alarcon,nueva cancion,0.714,0.489,0.812,0.937,-4.027,0,0.0698,0.0372,115.171
+Yo Defiendo Mi Tierra,Rolando Alarcon,nueva cancion,0.59,0.59,0.599,0.366,-3.562,1.79e-05,0.0496,0.0831,140.377
+El Arbol de la Noche,Rolando Alarcon,nueva cancion,0.375,0.873,0.561,0.213,-5.991,0,0.0481,0.102,90.998
+The Prince Of Egypt (When You Believe) - The Prince Of Egypt/Soundtrack Version,Mariah Carey,"dance pop,urban contemporary",0.319,0.512,0.347,0.0958,-11.445,0,0.0337,0.103,125.216
+Deliver Us - The Prince Of Egypt/Soundtrack Version,Ofra Haza,"classic israeli pop,israeli singer-songwriter,mizrahi,world",0.185,0.725,0.236,0.106,-16.672,0.00612,0.0393,0.135,74.331
+The Reprimand - The Prince Of Egypt/Soundtrack Version,Various Artists,,0.128,0.694,0.192,0.054,-22.925,0.353,0.0394,0.0811,95.167
+Following Tzipporah - The Prince Of Egypt/Soundtrack Version,Various Artists,,0.0595,0.893,0.328,0.216,-30.495,0.975,0.0365,0.118,115.859
+All I Ever Wanted (with Queen's Reprise) - The Prince Of Egypt/Soundtrack Version,Amick Byram,,0.242,0.692,0.272,0.146,-16.21,0.000809,0.0362,0.437,92.368
+Goodbye Brother - The Prince Of Egypt/Soundtrack Version,Ofra Haza,"classic israeli pop,israeli singer-songwriter,mizrahi,world",0.14,0.612,0.0773,0.043,-22.043,0.833,0.0428,0.162,80.532
+Through Heaven's Eyes - The Prince Of Egypt/Soundtrack Version,Brian Stokes Mitchell,"broadway,show tunes",0.442,0.714,0.344,0.494,-15.056,1.32e-06,0.0716,0.57,102.424
+The Burning Bush - The Prince Of Egypt/Soundtrack Version,Various Artists,,0.0517,0.848,0.0616,0.0363,-24.074,0.896,0.0438,0.11,63.291
+Playing With The Big Boys - The Prince Of Egypt/Soundtrack Version,Steve Martin,"bluegrass,clean comedy,comedy,comic,progressive bluegrass",0.346,0.635,0.428,0.176,-16.517,0,0.0927,0.243,125.155
+Cry - The Prince Of Egypt/Soundtrack Version,Ofra Haza,"classic israeli pop,israeli singer-songwriter,mizrahi,world",0.0185,0.829,0.17,0.0368,-30.724,0.913,0.0461,0.14,124.511
+Rally - The Prince Of Egypt/Soundtrack Version,Various Artists,,0.0368,0.899,0.227,0.0389,-33.427,0.984,0.041,0.337,68.055
+The Plagues - The Prince Of Egypt/Soundtrack Version,Ralph Fiennes,hollywood,0.422,0.732,0.457,0.221,-14.048,0,0.0466,0.0954,115.476
+Death Of The First Born - The Prince Of Egypt/Soundtrack Version,Various Artists,,0.0261,0.784,0.0817,0.0965,-33.279,0.9,0.0417,0.111,171.733
+When You Believe - The Prince Of Egypt/Soundtrack Version,Michelle Pfeiffer,hollywood,0.131,0.872,0.155,0.19,-18.329,0,0.045,0.18,79.886
+Red Sea - The Prince Of Egypt/Soundtrack Version,Various Artists,,0.193,0.747,0.0781,0.0398,-19.991,0.858,0.04,0.123,77.826
+Through Heaven's Eyes - The Prince Of Egypt/Soundtrack Version,K-Ci & JoJo,"contemporary r&b,dance pop,hip pop,r&b,urban contemporary",0.46,0.00839,0.514,0.222,-12.264,0,0.0409,0.175,140.161
+River Lullaby - The Prince Of Egypt/Soundtrack Version,Amy Grant,"adult standards,christian music",0.212,0.583,0.534,0.141,-16.47,0,0.0317,0.0634,113.06
+Humanity - The Prince Of Egypt/Soundtrack Version,Various Artists,,0.532,0.0112,0.534,0.42,-10.685,0,0.036,0.0802,74.471
+I Will Get There - A Cappella,Boyz II Men,"boy band,contemporary r&b,new jack swing,r&b,urban contemporary",0.272,0.823,0.546,0.506,-13.686,0,0.0282,0.0918,109.896
+Baracunátana,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.897,0.138,0.679,0.295,-6.129,0,0.294,0.743,91.505
+El Estuche,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.859,0.0809,0.699,0.93,-5.999,0,0.088,0.367,99.509
+El Álbum,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.819,0.512,0.679,0.76,-6.172,1.31e-06,0.056,0.328,96.007
+Rompecabezas,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.829,0.223,0.625,0.48,-7.17,0.000851,0.295,0.883,154.098
+Soy la Semilla Nativa,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.831,0.425,0.668,0.341,-6.074,4.7e-05,0.0462,0.669,107.947
+Yo,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.686,0.124,0.732,0.678,-8.52,1.06e-05,0.071,0.761,90.061
+Re,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.75,0.478,0.749,0.715,-8.857,9.72e-06,0.11,0.966,122.983
+Maligno (feat. León Larregui),Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.589,0.503,0.465,0.498,-7.386,2.92e-05,0.0747,0.71,93.341
+Bolero Falaz,Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.779,0.049,0.633,0.388,-6.659,0.000219,0.0386,0.94,111.975
+Luz Azul (feat. Macaco),Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.879,0.37,0.599,0.723,-6.741,5.78e-05,0.0909,0.758,145.02
+Florecita Rockera (feat. Goyo & Catalina García Barahona),Aterciopelados,"colombian rock,latin alternative,latin pop,latin rock,pop rock,rock en espanol",0.75,0.141,0.602,0.539,-6.646,3.83e-06,0.0908,0.84,154.963
+Hasta la Raíz,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.643,0.201,0.585,0.592,-8.392,0.000306,0.0395,0.144,152.98
+Mi Lugar Favorito,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.709,0.198,0.658,0.823,-7.965,0.0048,0.0365,0.174,159.01
+Antes de Huir,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.422,0.725,0.596,0.642,-9.457,1.5e-06,0.0307,0.111,179.965
+Ya No Te Puedo Querer,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.483,0.306,0.685,0.497,-8.55,0.00833,0.0291,0.105,124.933
+Para Qué Sufrir,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.24,0.928,0.684,0.262,-13.391,2.86e-05,0.0372,0.105,117.005
+Nunca Es Suficiente,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.61,0.511,0.699,0.846,-9.308,2.31e-06,0.0541,0.127,178.112
+Palomas Blancas,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.442,0.287,0.454,0.219,-8.377,0.021,0.0291,0.151,138.803
+Te Quiero Ver,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.565,0.588,0.781,0.917,-8.087,0.00572,0.0332,0.112,133.982
+Vámonos Negrito,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.578,0.694,0.559,0.538,-9.155,0,0.0364,0.143,99.957
+Lo Que Construimos,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.287,0.769,0.667,0.545,-9.718,3.61e-06,0.0334,0.106,127.981
+Estoy Lista,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.364,0.549,0.403,0.149,-8.544,0.000589,0.0269,0.165,77.757
+No Más Llorar,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.426,0.671,0.616,0.255,-12.022,0.0609,0.0259,0.103,99.975
+Partir de Mí,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.298,0.839,0.542,0.285,-9.545,1.43e-06,0.0272,0.113,149.775
+Duele,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.223,0.936,0.561,0.153,-13.406,0.000239,0.0322,0.107,121.916
+Me Voy de Casa,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.563,0.571,0.47,0.586,-8.838,0.00804,0.036,0.109,105.5
+Lo Que Construimos - Versión Reggae,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.492,0.464,0.7,0.695,-7.782,0.000155,0.0346,0.0878,127.949
+Hasta la Raíz - Canova's Root Version,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.805,0.206,0.637,0.531,-4.087,0,0.0399,0.2,152.964
+Para Qué Sufrir,Natalia Lafourcade,"latin alternative,mexican pop,rock en espanol,veracruz indie",0.259,0.929,0.676,0.258,-12.257,4.74e-05,0.0356,0.106,116.966
+si se calla el cantor,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.273,0.768,0.53,0.4,-11.95,0,0.0468,0.379,127.667
+duerme negrito,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.302,0.896,0.762,0.472,-13.253,0.149,0.0391,0.104,121.433
+Alfonsina y el mar,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.0772,0.968,0.496,0.285,-18.203,3.86e-06,0.0448,0.165,134.669
+Jangadero,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.303,0.677,0.375,0.663,-12.757,0,0.035,0.495,178.853
+la zafrera,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.334,0.804,0.593,0.617,-12.996,2.24e-05,0.034,0.179,95.458
+los hombres del río,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.286,0.768,0.398,0.579,-13.376,0,0.038,0.239,165.377
+selva sola,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.292,0.497,0.331,0.559,-13.636,0,0.0377,0.206,177.991
+sólo le pido a Dios,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.767,0.0249,0.46,0.48,-8.891,1.41e-05,0.0435,0.946,78.665
+chacarera del 55,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.336,0.919,0.546,0.72,-16.325,0.000142,0.0821,0.0831,175.228
+la nocturna,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.166,0.757,0.366,0.368,-13.611,0,0.0289,0.129,93.364
+sin saber porqué,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.196,0.733,0.478,0.501,-14.433,0,0.0281,0.245,96.737
+el río y tú,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.172,0.737,0.336,0.37,-14.713,5.14e-06,0.0335,0.287,94.502
+canción para mi América,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.379,0.944,0.678,0.523,-7.277,1.03e-05,0.0401,0.0912,120.516
+zamba para no morir,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.0622,0.965,0.62,0.371,-13.834,0,0.0357,0.139,74.38
+gracias a la vida,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.103,0.993,0.541,0.38,-18.602,0.132,0.0428,0.1,113.172
+la de los humildes,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.265,0.873,0.577,0.513,-15.538,1.04e-05,0.0351,0.0962,94.387
+recuerdos del Paraguay,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.181,0.789,0.322,0.483,-14.342,0,0.0397,0.313,199.419
+tropero padre,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.422,0.871,0.651,0.505,-12.364,1.4e-05,0.0273,0.192,98.019
+zambra de la distancia,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.336,0.913,0.604,0.521,-12.224,8.69e-05,0.0373,0.0792,94.091
+el indio muerto,Mercedes Sosa,"cantautor,folclore tucumano,folklore argentino,nueva cancion,rock en espanol,rock nacional,trova",0.316,0.877,0.57,0.737,-13.624,2.44e-05,0.0289,0.0591,108.414
+Asi Se Habla,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.962,0.0499,0.604,0.833,-3.409,1.27e-06,0.0959,0.165,157.025
+Carismático,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.918,0.0559,0.683,0.763,-4.861,2.12e-06,0.034,0.12,137.031
+Yegua,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.91,0.24,0.667,0.82,-5.182,0,0.0278,0.512,137.056
+Un Flash,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.762,0.344,0.617,0.853,-5.548,0,0.0263,0.338,131.963
+Pobre Duende,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.443,0.821,0.526,0.437,-7.413,0,0.0377,0.146,153.947
+Solita,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.965,0.0905,0.526,0.753,-3.754,2.64e-06,0.0389,0.0733,100.063
+Puesto,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.739,0.376,0.591,0.643,-6.433,0.00595,0.0236,0.123,102.992
+Falsario,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.904,0.0243,0.73,0.954,-6.791,0.000511,0.0477,0.0803,135.027
+Capricho,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.668,0.421,0.692,0.601,-7.078,5.07e-06,0.0293,0.179,111.051
+El Colmo,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.659,0.014,0.699,0.744,-6.091,0.000111,0.0265,0.0992,124.053
+Ciegos Por El Diezmo,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.838,0.0517,0.315,0.19,-5.782,0.000674,0.0617,0.117,180.046
+Examenes,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.482,0.741,0.582,0.172,-8.838,2.42e-05,0.0274,0.0966,103.821
+Muñeco,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.912,0.0466,0.681,0.965,-4.913,0.000395,0.0275,0.137,131.957
+Luces,Babasónicos,"argentine rock,electronica argentina,latin alternative,latin rock,pop electronico,rock en espanol",0.987,0.0105,0.329,0.56,-3.464,0.00118,0.0857,0.0825,172.932
+Be Above It,Tame Impala,"australian psych,neo-psychedelic",0.974,0.422,0.746,0.418,-6.057,0.238,0.0944,0.112,118.983
+Endors Toi,Tame Impala,"australian psych,neo-psychedelic",0.925,0.0347,0.199,0.304,-3.266,0.56,0.106,0.364,128.173
+Apocalypse Dreams,Tame Impala,"australian psych,neo-psychedelic",0.933,0.229,0.495,0.27,-2.287,0.135,0.0507,0.0837,127.984
+Mind Mischief,Tame Impala,"australian psych,neo-psychedelic",0.938,0.0728,0.26,0.865,-3.17,0.0028,0.0531,0.369,161.349
+Music To Walk Home By,Tame Impala,"australian psych,neo-psychedelic",0.89,0.00526,0.393,0.459,-4.348,0.128,0.0612,0.0576,101.06
+Why Won't They Talk To Me?,Tame Impala,"australian psych,neo-psychedelic",0.876,0.563,0.512,0.191,-5.189,0.022,0.0487,0.0898,129.936
+Feels Like We Only Go Backwards,Tame Impala,"australian psych,neo-psychedelic",0.897,0.0276,0.291,0.555,-2.32,0.65,0.0542,0.116,150.185
+Keep On Lying,Tame Impala,"australian psych,neo-psychedelic",0.808,0.0729,0.481,0.682,-4.913,0.0149,0.0359,0.317,123.995
+Elephant,Tame Impala,"australian psych,neo-psychedelic",0.555,0.541,0.594,0.52,-6.689,0.151,0.0377,0.286,123.069
+She Just Won't Believe Me,Tame Impala,"australian psych,neo-psychedelic",0.299,0.24,0.21,0.126,-7.458,0.028,0.0377,0.25,133.435
+Nothing That Has Happened So Far Has Been Anything We Could Control,Tame Impala,"australian psych,neo-psychedelic",0.861,0.046,0.328,0.378,-3.554,0.533,0.0433,0.0882,100.052
+Sun's Coming Up,Tame Impala,"australian psych,neo-psychedelic",0.81,0.956,0.287,0.301,-7.022,0.11,0.101,0.623,124.19
+True To Your Heart,98º,"boy band,dance pop,pop rock",0.922,0.125,0.635,0.612,-9.703,0,0.157,0.103,106.085
+Haircut,Jerry Goldsmith,"classic soundtrack,orchestral soundtrack,scorecore,soundtrack",0.894,0.0262,0.416,0.404,-8.838,0.896,0.0404,0.107,158.384
+Attack At The Wall,Jerry Goldsmith,"classic soundtrack,orchestral soundtrack,scorecore,soundtrack",0.332,0.684,0.356,0.127,-13.201,0.796,0.0387,0.0979,120.407
+Mulan's Decision,Jerry Goldsmith,"classic soundtrack,orchestral soundtrack,scorecore,soundtrack",0.428,0.345,0.25,0.0658,-12.543,0.83,0.0425,0.188,83.977
+The Hun's Attack,Jerry Goldsmith,"classic soundtrack,orchestral soundtrack,scorecore,soundtrack",0.423,0.767,0.279,0.111,-10.476,0.874,0.0343,0.0934,131.119
+Reflection,Vanessa-Mae,"bow pop,pop violin,violin",0.416,0.0895,0.173,0.0788,-11.216,0.336,0.0352,0.18,89.691
+Honor To Us All,Lea Salonga,"hollywood,movie tunes,show tunes,tagalog worship",0.444,0.277,0.463,0.655,-11.288,0,0.0467,0.0948,168.051
+Reflection,Lea Salonga,"hollywood,movie tunes,show tunes,tagalog worship",0.388,0.612,0.185,0.0797,-11.208,0.00156,0.0359,0.316,88.624
+I'll Make a Man Out of You,Donny Osmond,"adult standards,bubblegum pop,classic uk pop",0.532,0.0375,0.637,0.536,-10.311,0.000171,0.0322,0.0664,113.857
+A Girl Worth Fighting For,Lea Salonga,"hollywood,movie tunes,show tunes,tagalog worship",0.542,0.347,0.394,0.842,-10.469,0,0.0526,0.112,88.584
+Suite From Mulan,Jerry Goldsmith,"classic soundtrack,orchestral soundtrack,scorecore,soundtrack",0.211,0.638,0.142,0.0794,-13.486,0.911,0.0336,0.336,91.301
+Blossoms,Jerry Goldsmith,"classic soundtrack,orchestral soundtrack,scorecore,soundtrack",0.158,0.543,0.199,0.0504,-16.144,0.208,0.0354,0.0495,104.038
+The Burned-Out Village,Jerry Goldsmith,"classic soundtrack,orchestral soundtrack,scorecore,soundtrack",0.203,0.25,0.0982,0.0383,-17.447,0.941,0.0409,0.216,83.363
+Reflection,Christina Aguilera,"dance pop,pop,post-teen pop",0.471,0.161,0.492,0.194,-7.945,0,0.0252,0.136,95.824
+Estoy Aquí,Shakira,"colombian pop,dance pop,latin pop",0.871,0.022,0.731,0.71,-5.079,0,0.0403,0.0717,116.944
+Antologia,Shakira,"colombian pop,dance pop,latin pop",0.465,0.489,0.844,0.556,-8.444,5.56e-06,0.0295,0.095,97.964
+Un Poco de Amor,Shakira,"colombian pop,dance pop,latin pop",0.83,0.0688,0.819,0.957,-6.75,5.02e-06,0.0388,0.0503,101.48
+Donde Estas Corazon,Shakira,"colombian pop,dance pop,latin pop",0.869,0.0686,0.745,0.591,-5.953,0,0.0753,0.118,109.078
+Que Me Quedes Tú,Shakira,"colombian pop,dance pop,latin pop",0.505,0.27,0.759,0.386,-8.356,5.11e-05,0.0271,0.286,113.031
+"Ciega, Sordomuda",Shakira,"colombian pop,dance pop,latin pop",0.89,0.0416,0.746,0.917,-5.126,2.6e-06,0.0346,0.0903,119.982
+Si Te Vas,Shakira,"colombian pop,dance pop,latin pop",0.914,0.0499,0.675,0.826,-4.513,0,0.0408,0.252,107.832
+No Creo - En Vivo,Shakira,"colombian pop,dance pop,latin pop",0.806,0.159,0.605,0.795,-6.565,1.22e-05,0.105,0.991,136.368
+Inevitable,Shakira,"colombian pop,dance pop,latin pop",0.478,0.244,0.646,0.341,-7.516,7.33e-05,0.0561,0.127,92.133
+Ojos Así,Shakira,"colombian pop,dance pop,latin pop",0.957,0.143,0.715,0.685,-4.672,0,0.0464,0.127,126.999
+"Suerte (Whenever, Wherever)",Shakira,"colombian pop,dance pop,latin pop",0.837,0.178,0.766,0.889,-4.75,0,0.0357,0.216,108.976
+"Te Aviso, Te Anuncio (Tango)",Shakira,"colombian pop,dance pop,latin pop",0.896,0.0183,0.604,0.636,-5.385,1.66e-05,0.0497,0.0313,179.34
+Tú - En Vivo Without Intro,Shakira,"colombian pop,dance pop,latin pop",0.548,0.797,0.356,0.265,-7.215,3.93e-06,0.0458,0.729,131.786
+Dónde Están Los Ladrones - En Vivo,Shakira,"colombian pop,dance pop,latin pop",0.921,0.156,0.581,0.597,-4.566,0.00687,0.035,0.94,124.599
+Moscas en la Casa,Shakira,"colombian pop,dance pop,latin pop",0.317,0.717,0.8,0.49,-11.883,1.54e-05,0.0294,0.112,104.931
+Let It Happen,Tame Impala,"australian psych,neo-psychedelic",0.874,0.00476,0.602,0.612,-5.906,0.0192,0.0428,0.108,125.017
+Nangs,Tame Impala,"australian psych,neo-psychedelic",0.518,0.211,0.523,0.461,-9.63,0.856,0.25,0.126,167.582
+The Moment,Tame Impala,"australian psych,neo-psychedelic",0.825,0.000257,0.327,0.463,-6.045,0.0891,0.0649,0.0965,119.138
+Yes I'm Changing,Tame Impala,"australian psych,neo-psychedelic",0.607,0.0935,0.376,0.389,-6.966,0.000412,0.0311,0.0747,179.935
+Eventually,Tame Impala,"australian psych,neo-psychedelic",0.616,0.012,0.415,0.142,-6.217,0.000669,0.0323,0.0981,77.969
+Gossip,Tame Impala,"australian psych,neo-psychedelic",0.198,0.972,0.552,0.381,-18.155,0.956,0.0348,0.104,119.439
+The Less I Know The Better,Tame Impala,"australian psych,neo-psychedelic",0.755,0.0138,0.64,0.744,-4.077,0.0208,0.0287,0.12,116.883
+Past Life,Tame Impala,"australian psych,neo-psychedelic",0.774,0.245,0.376,0.301,-7.15,0.00535,0.0577,0.171,145.868
+Disciples,Tame Impala,"australian psych,neo-psychedelic",0.876,0.0677,0.671,0.798,-5.499,0.604,0.0344,0.404,126.995
+'Cause I'm A Man,Tame Impala,"australian psych,neo-psychedelic",0.695,0.103,0.537,0.626,-5.013,0.00315,0.0371,0.134,144.674
+Reality In Motion,Tame Impala,"australian psych,neo-psychedelic",0.908,0.161,0.531,0.5,-4.981,0.000647,0.0576,0.401,115.058
+Love/Paranoia,Tame Impala,"australian psych,neo-psychedelic",0.698,0.00636,0.495,0.367,-5.512,0,0.034,0.229,110.985
+"New Person, Same Old Mistakes",Tame Impala,"australian psych,neo-psychedelic",0.821,0.254,0.471,0.523,-6.747,0.00306,0.049,0.0517,151.707
+Ginza,J Balvin,"reggaeton,reggaeton colombiano,urbano latino",0.809,0.235,0.784,0.845,-6.458,0.00122,0.0824,0.0772,102.048
+Eye to Eye,Varsity,"chicago indie,indie rock",0.804,0.00342,0.324,0.453,-5.327,0.0554,0.0385,0.0938,147.839
+Kelly,Varsity,"chicago indie,indie rock",0.477,0.258,0.45,0.233,-9.869,0.0533,0.0302,0.132,124.872
+Chloe Kelly,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.963,0.000408,0.49,0.76,-9.216,0.000595,0.037,0.0615,98.15
+Bummer Friend,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.968,8.1e-05,0.248,0.503,-8.806,2.19e-05,0.0446,0.105,187.186
+Heathers,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.88,0.000285,0.364,0.772,-9.291,0,0.049,0.106,176.13
+Ponyboy,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.899,0.000392,0.45,0.71,-10.512,1.15e-06,0.0585,0.0404,169.407
+In My Head Till I'm Dead,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.974,6.39e-05,0.288,0.834,-9.451,0.00991,0.0518,0.0466,190.975
+The Smell Saved My Life,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.941,0.000191,0.415,0.511,-9.793,0.00218,0.0598,0.0892,189.193
+Goth Babe,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.889,0.000109,0.414,0.512,-9.578,4.25e-06,0.0567,0.0705,100.243
+Freaks,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.944,4.16e-05,0.346,0.403,-9.874,0.565,0.0485,0.0546,179.63
+Dreamin' Wild,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.972,0.000417,0.284,0.675,-9.406,0.0162,0.0547,0.0625,190.328
+Fire Walk With Me,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.907,0.000231,0.424,0.634,-10.837,0.000249,0.0332,0.0834,161.074
+Reality Bytes,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.871,0.0136,0.341,0.159,-10.368,0.000361,0.0917,0.0847,193.269
+Beach Whatever,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.667,3.81e-05,0.392,0.676,-11.231,0.782,0.0653,0.104,167.376
+I'm Not Making out With You,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.792,0.00833,0.353,0.269,-10.239,0.000134,0.0515,0.197,190.042
+Haunt Me,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.716,2.82e-05,0.52,0.652,-11.491,0.000489,0.0318,0.0703,91.668
+Skullder,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.789,0.012,0.363,0.383,-11.413,0.0359,0.065,0.112,195.913
+Forever Dumb,Surf Curse,"dreamo,indie pop,indie surf,surf punk,vegas indie",0.736,0.0223,0.303,0.444,-12.691,0.0328,0.0728,0.107,170.826
+"Long, Long Time Ago",Javier Navarrete,"latin soundtrack,soundtrack",0.0998,0.972,0.2,0.113,-15.901,0.88,0.0369,0.136,71.02
+The Labyrinth,Javier Navarrete,"latin soundtrack,soundtrack",0.103,0.896,0.0836,0.0591,-19.359,0.874,0.0386,0.101,49.881
+"Rose, Dragon",Javier Navarrete,"latin soundtrack,soundtrack",0.076,0.958,0.0853,0.0329,-19.102,0.464,0.0456,0.101,84.594
+The Fairy & The Labyrinth,Javier Navarrete,"latin soundtrack,soundtrack",0.238,0.911,0.0794,0.113,-13.462,0.889,0.04,0.123,69.505
+Three Trails,Javier Navarrete,"latin soundtrack,soundtrack",0.177,0.849,0.166,0.0399,-12.831,0.894,0.0348,0.353,72.175
+The Moribund Tree & The Toad,Javier Navarrete,"latin soundtrack,soundtrack",0.195,0.902,0.127,0.04,-15.927,0.462,0.0387,0.0952,91.046
+Guerrilleros,Javier Navarrete,"latin soundtrack,soundtrack",0.287,0.806,0.125,0.0398,-14.362,0.887,0.0353,0.105,93.191
+A Book Of Blood,Javier Navarrete,"latin soundtrack,soundtrack",0.2,0.668,0.152,0.0377,-16.164,0.501,0.0361,0.0814,78.154
+Mercedes Lullaby,Javier Navarrete,"latin soundtrack,soundtrack",0.068,0.96,0.142,0.0772,-21.982,0.578,0.0454,0.0696,67.693
+The Refuge,Javier Navarrete,"latin soundtrack,soundtrack",0.182,0.89,0.0899,0.0508,-19.038,0.924,0.0388,0.0932,86.093
+Not Human,Javier Navarrete,"latin soundtrack,soundtrack",0.308,0.721,0.182,0.0704,-12.448,0.827,0.0333,0.0995,134.951
+The River,Javier Navarrete,"latin soundtrack,soundtrack",0.109,0.943,0.173,0.0817,-20.989,0.0998,0.0346,0.0724,85.378
+A Tale,Javier Navarrete,"latin soundtrack,soundtrack",0.0342,0.924,0.479,0.187,-19.311,0.984,0.0291,0.0706,69.981
+Deep Forest,Javier Navarrete,"latin soundtrack,soundtrack",0.15,0.784,0.0849,0.0412,-13.836,0.884,0.0324,0.221,78.949
+Vals of the Maldrake,Javier Navarrete,"latin soundtrack,soundtrack",0.214,0.766,0.122,0.058,-14.417,0.965,0.0331,0.148,90.279
+The Funeral,Javier Navarrete,"latin soundtrack,soundtrack",0.171,0.812,0.221,0.0585,-14.5,0.802,0.0343,0.132,98.775
+Mercedes,Javier Navarrete,"latin soundtrack,soundtrack",0.248,0.898,0.193,0.035,-15.724,0.928,0.0415,0.121,77.899
+Pan & The Full Moon,Javier Navarrete,"latin soundtrack,soundtrack",0.412,0.734,0.172,0.0476,-13.295,0.951,0.0423,0.122,122.073
+Ofelia,Javier Navarrete,"latin soundtrack,soundtrack",0.211,0.892,0.185,0.0385,-12.501,0.787,0.0341,0.0882,79.553
+A Princess,Javier Navarrete,"latin soundtrack,soundtrack",0.184,0.963,0.108,0.0362,-15.38,0.564,0.037,0.272,82.352
+Pan's Labyrinth Lullaby,Javier Navarrete,"latin soundtrack,soundtrack",0.0856,0.89,0.32,0.0815,-20.375,0.0255,0.0413,0.0912,47.382
+Just a short time after (reconstruction pt. 1),The Landau Orchestra,,0.456,0.579,0.73,0.2,-10.34,0.792,0.0325,0.101,129.964
+Just a short time after (reconstruction pt. 2),The Landau Orchestra,,0.524,0.545,0.333,0.0564,-10.58,0.849,0.0315,0.36,84.883
+Trouble On My Mind,Pusha T,"alternative hip hop,hip hop,pop rap,rap,southern hip hop,trap,underground hip hop,virginia hip hop",0.812,0.235,0.652,0.685,-6.377,5.77e-06,0.358,0.366,172.156
+Bitch Betta Have My Money,AMG,west coast rap,0.798,0.000691,0.811,0.961,-4.657,0,0.194,0.0534,104.019
+Tipsy - Club Mix,J-Kwon,"dirty south rap,pop rap,southern hip hop",0.755,0.0609,0.924,0.582,-6.02,0,0.322,0.0925,93.003
+Candy (feat. Pitbull),Far East Movement,"asian american hip hop,dance pop,edm,pop rap",0.715,0.0518,0.757,0.233,-4.873,0,0.053,0.147,122.985
+Ray Ban Vision,A-Trak,"canadian electronic,electro house,electronic trap,turntablism",0.822,0.0251,0.745,0.743,-5.971,0,0.0671,0.103,162.102
+Le Disko - Boys Noize Fire Mix,Shiny Toy Guns,"alternative dance,electronic rock,electropop,indietronica,new rave",0.408,0.0351,0.719,0.393,-7.964,0.0397,0.382,0.683,123.097
+Nasty,Nas,"conscious hip hop,east coast hip hop,gangster rap,hardcore hip hop,hip hop,queens hip hop,rap",0.729,0.037,0.645,0.757,-12.948,0,0.408,0.106,104.267
+Pursuit of Happiness - Steve Aoki Remix,Kid Cudi,"hip hop,ohio hip hop,rap",0.556,0.0163,0.723,0.608,-11.394,0.0026,0.0709,0.0505,128.027
+Heads Will Roll - A-Trak Remix,Yeah Yeah Yeahs,"alternative dance,alternative rock,dance-punk,garage rock,indie rock,modern rock,new rave,rock",0.612,0.013,0.761,0.836,-4.372,0.364,0.115,0.0754,131.988
+Pretty Girls - Benny Benassi Remix,Wale,"gangster rap,hip hop,pop rap,r&b,rap,southern hip hop,trap,urban contemporary",0.873,0.114,0.606,0.644,-1.675,0,0.181,0.109,177.974
+The Next Episode,Dr. Dre,"g funk,gangster rap,hip hop,rap,west coast rap",0.898,0.0304,0.911,0.339,-2.608,0,0.221,0.0494,95.319
+Fight Music,D12,"detroit hip hop,gangster rap,hip hop,pop rap,rap",0.678,0.061,0.711,0.808,-9.486,0,0.317,0.324,89.701
+Wild Boy - Ricky Luna Remix,Machine Gun Kelly,"ohio hip hop,pop,pop rap",0.639,0.0288,0.689,0.378,-8.152,7.36e-06,0.127,0.256,132.947
+No Man's Land,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.923,0.00905,0.494,0.617,-5.04,0.00125,0.0406,0.0618,135.822
+The Great Wall of China,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.767,0.0855,0.663,0.655,-4.971,1e-06,0.0468,0.291,107.091
+A Minor Variation,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.794,0.0497,0.695,0.689,-5.401,2.37e-06,0.0344,0.169,100.187
+All About Soul,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.86,0.0386,0.555,0.468,-5.965,0,0.038,0.325,108.594
+"Lullabye (Goodnight, My Angel)",Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.157,0.948,0.442,0.22,-13.791,0,0.0324,0.224,76.48
+The River of Dreams,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.749,0.205,0.631,0.437,-8.15,5.21e-06,0.0576,0.0667,89.646
+Two Thousand Years,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.37,0.394,0.332,0.366,-10.081,0,0.033,0.143,174.642
+Famous Last Words,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.818,0.0282,0.665,0.885,-7.982,0,0.0288,0.0728,128.855
+Blonde Over Blue,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.658,0.0374,0.557,0.475,-5.452,1.4e-06,0.0285,0.0769,131.689
+Shades of Grey,Billy Joel,"classic rock,mellow gold,piano rock,rock,singer-songwriter,soft rock",0.866,0.2,0.592,0.729,-4.86,0,0.0416,0.152,129.31
+Do I Wanna Know?,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.532,0.186,0.548,0.405,-7.596,0.000263,0.0323,0.217,85.03
+R U Mine?,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.758,0.00616,0.288,0.619,-5.692,0,0.0371,0.303,97.094
+One For The Road,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.668,0.212,0.415,0.842,-6.849,0.0615,0.036,0.27,180.048
+Arabella,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.558,0.0202,0.579,0.506,-6.986,1.26e-06,0.0895,0.212,179.949
+I Want It All,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.81,0.000637,0.499,0.288,-5.579,0.0748,0.0347,0.0625,131.052
+No. 1 Party Anthem,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.698,0.33,0.505,0.599,-5.563,0.0887,0.0297,0.0966,115.013
+Mad Sounds,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.462,0.279,0.532,0.485,-10.71,0.196,0.03,0.101,80.001
+Fireside,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.953,0.0234,0.538,0.74,-5.611,0.00126,0.056,0.113,100.033
+Why'd You Only Call Me When You're High?,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.631,0.0483,0.691,0.8,-6.478,1.13e-05,0.0368,0.104,92.004
+Snap Out Of It,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.638,0.249,0.728,0.872,-6.455,0,0.0336,0.116,130.014
+Knee Socks,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.542,0.123,0.665,0.587,-8.323,0.00291,0.033,0.342,97.975
+I Wanna Be Yours,Arctic Monkeys,"garage rock,modern rock,permanent wave,rock,sheffield indie",0.417,0.136,0.464,0.479,-9.345,0.022,0.0256,0.0974,67.528
+I Know It's Over,Jeff Buckley,"melancholia,permanent wave,singer-songwriter",0.246,0.823,0.309,0.183,-11.754,4.37e-06,0.0338,0.0784,63.898
+Pour danser la bourrée,Gerard Delord,,0.973,0.324,0.592,0.932,-1.993,3.15e-05,0.117,0.0324,80.891
+J'écoute l'accordéon (Valse),Damien Poyard,accordeon,0.942,0.632,0.477,0.861,-1.725,0.000545,0.0639,0.117,94.442
+Marches enchaînées: Valencia,Christian Durosier,,0.654,0.725,0.776,0.901,-5.242,0.658,0.0366,0.119,117.918
+Je reviens chez nous,Orchestre Mont-Blanc,accordeon,0.813,0.331,0.599,0.633,-3.329,0,0.0289,0.123,117.249
+La valse des tyroliens (Valse),Arnaud Guimard,,0.867,0.276,0.624,0.706,-4.041,0.0487,0.0391,0.237,98.28
+Mon coeur pour toi,Dominique Marigny,,0.332,0.752,0.726,0.65,-5.648,0.0279,0.0374,0.148,114.865
+C'est beau la vie,Danyel Dorgère,accordeon,0.746,0.664,0.577,0.458,-3.303,0,0.0279,0.136,110.06
+Fleurs des montagnes (Valse),Jo Sony,"accordeon,musique alsacienne",0.818,0.293,0.513,0.962,-2.482,0.0116,0.0533,0.0276,202.382
+L'italie en Auvergne (Tarentelle),Pierre Péribois,accordeon,0.824,0.0882,0.66,0.84,-3.047,0.737,0.0631,0.318,126.184
+Rendez-vous à cuba (Samba),Sébastien Farge,,0.949,0.0122,0.627,0.889,-4.984,0.66,0.0414,0.486,110.092
+Swing valse,Eric Bouvelle,"accordeon,jazz accordion",0.907,0.495,0.587,0.864,-1.917,0.931,0.194,0.049,200.187
+Sous les toits de Paris,Kid Caramel,,0.238,0.864,0.384,0.358,-10.751,0.262,0.0399,0.0516,138.058
+Un petit cabanon (Version chantée),Marcello,,0.946,0.652,0.566,0.943,-2.073,0,0.0515,0.0939,168.194
+Ma mère chantait toujours,Jean Harduin,accordeon,0.508,0.66,0.284,0.545,-5.157,0.798,0.0365,0.0512,72.175
+Du bleu dans les yeux (Boléro),Jean-Marc Torchy,accordeon,0.704,0.338,0.45,0.616,-2.627,2.29e-05,0.0318,0.109,109.146
+Rumba Maria,Franck Sallé,accordeon,0.881,0.4,0.363,0.433,-1.985,1.63e-05,0.0436,0.0932,119.661
+J'ai quitté ma Corrèze (Valse),L'enfant de Chaumeil,,0.578,0.148,0.581,0.746,-3.6,0,0.0287,0.145,104.756
+La petite église,Jean Raphael,,0.358,0.895,0.197,0.182,-5.954,1.89e-05,0.0346,0.259,81.475
+Dans la vie faut s'amuser (Tarentelle),René Grolier,"accordeon,polka",0.852,0.532,0.677,0.936,-3.18,1.46e-05,0.0446,0.316,124.035
+Lady and Sunday (Marche),Albert Hennebel,accordeon,0.782,0.428,0.576,0.833,-1.76,0.642,0.0298,0.334,132.028
+Ludovica,Les Cigognes D'Alsace,musique alsacienne,0.485,0.988,0.392,0.706,-8.919,0.733,0.0547,0.461,152.009
+Guinguette des Chavannes,Cyrille Renaut,musique alsacienne,0.612,0.585,0.616,0.886,-8.394,0.768,0.033,0.286,99.019
+Graine de valse,André Blot,accordeon,0.914,0.624,0.694,0.932,-2.506,0.821,0.0558,0.197,95.802
+Morena De Mi Copla,Jo Courtin,"accordeon,accordion",0.788,0.551,0.454,0.764,-2.348,0.893,0.0346,0.309,127.247
+Mes mains,André Verchuren,"accordeon,accordion,bal-musette",0.551,0.0418,0.595,0.831,-4.848,0.0193,0.03,0.0438,130.017
+Medley cha cha: Senorita Chachacha / Y'a pas mieux qu'un cha cha pour danser,Pierre-Alain Krummenacher,,0.741,0.342,0.764,0.968,-4.308,0.0613,0.0308,0.241,138.01
+Chachamo (Cha-Cha),Christian Gauchy,accordeon,0.942,0.724,0.9,0.975,-1.045,0.92,0.0468,0.0279,138.062
+El Torro de Parrucoudo (Paso),Jackie Carhan,accordeon,0.527,0.431,0.777,0.848,-7.069,0.584,0.0352,0.0736,120.443
+Les fleurs de nos alpages (Fox-trot),Bernard Marly,"accordeon,accordion",0.725,0.104,0.643,0.855,-3.135,0.19,0.0352,0.233,94.151
+El Paso Gitano (Paso),Christian Peschel,accordeon,0.879,0.369,0.558,0.519,-4.235,0.853,0.0376,0.269,120.445
+Cafe Del Amor,Marga Sol,"chill lounge,deep chill",0.686,0.119,0.738,0.505,-7.323,0.845,0.0326,0.21,120.023
+Can Not Forget You,Roberto Sol,chill lounge,0.434,0.226,0.483,0.525,-9.049,0.00322,0.0399,0.095,88.756
+If You Want Me,Michael Crueger,,0.62,0.161,0.636,0.545,-11.703,0.22,0.0406,0.0958,90.0
+Love Hurts,Cafe Ibiza,lounge house,0.417,0.248,0.643,0.158,-15.448,0.907,0.0444,0.26,95.392
+Snapshot,Castlebed,,0.536,0.29,0.635,0.773,-9.503,0.875,0.0295,0.0844,96.012
+Si vous voulez,Chris Le Blanc,chill lounge,0.666,0.00447,0.78,0.773,-6.499,0.411,0.0264,0.128,103.03
+La vie en rouge,Chantal Miccat,,0.761,0.0408,0.629,0.738,-9.554,0.668,0.0378,0.421,111.996
+Just Breathe,Huppertz,,0.535,0.223,0.497,0.378,-8.058,0.816,0.0276,0.243,83.994
+Growing Without Words,Gushi & Raffunk,,0.378,0.361,0.693,0.59,-15.294,0.887,0.0743,0.0701,160.01
+Por Ti,Naoki Kenji,"chill lounge,japanese electronic",0.674,0.422,0.647,0.342,-10.114,0.534,0.0491,0.0768,90.996
+Baby Blues,Trillian Miles,,0.295,0.583,0.437,0.149,-16.523,0.818,0.0304,0.147,144.038
+Soulbreak,Ingo Herrmann,"chill lounge,deep chill",0.785,0.019,0.8,0.874,-16.397,0.849,0.0574,0.0949,109.988
+Hope,Gushi & Raffunk,,0.476,0.0182,0.671,0.167,-13.251,0.774,0.0308,0.195,120.011
+The Way You Look,Peter Pearson,chill lounge,0.309,0.403,0.711,0.102,-15.906,0.823,0.0425,0.0929,129.972
+The Right Time,Newton,ruta destroy,0.411,0.782,0.499,0.13,-8.632,0.0606,0.0299,0.38,70.009
+Lazy Jazz,Johannes Huppertz,deep chill,0.419,0.776,0.446,0.176,-10.338,0.937,0.0408,0.523,73.905
+Kids on Beach,Living Room,"lo-fi beats,lo-fi jazzhop",0.627,0.445,0.563,0.388,-11.333,0.751,0.0504,0.155,170.045
+Turi Turi Ye,The Red Lounge,sunset lounge,0.6,0.215,0.687,0.571,-11.033,0.815,0.0671,0.0969,200.025
+Deo,Magic Mike,sunset lounge,0.611,0.178,0.616,0.367,-13.75,0.906,0.0527,0.58,95.966
+Welcome to the Nox,Dan Haany,sunset lounge,0.722,0.46,0.658,0.69,-7.338,0.881,0.0302,0.148,98.781
+Piano Pianoforte,The Loungers,,0.439,0.119,0.576,0.277,-10.293,0.121,0.344,0.108,216.349
+Sole Luna Stelle,Allred,,0.549,0.0203,0.803,0.371,-11.482,0.894,0.0669,0.225,108.078
+Sun,Lounge Emperor,,0.348,0.444,0.876,0.52,-12.359,0.587,0.095,0.269,104.896
+Silver One,The Contact Project,,0.624,0.665,0.773,0.768,-12.765,0.881,0.0658,0.0958,100.931
+My Love for You,Natalie Harper,,0.622,0.000871,0.799,0.302,-10.066,0.645,0.0573,0.123,107.99
+143 (Kelly's song) 2011,Jake Shimabukuro,ukulele,0.361,0.81,0.37,0.479,-12.271,0.87,0.0321,0.113,66.409
+Bohemian Rhapsody,Jake Shimabukuro,ukulele,0.0912,0.979,0.511,0.273,-16.354,0.868,0.0688,0.0745,148.415
+Bring Your Adz,Jake Shimabukuro,ukulele,0.707,0.459,0.607,0.57,-9.637,0.833,0.0313,0.14,150.061
+Boy Meets Girl,Jake Shimabukuro,ukulele,0.386,0.708,0.814,0.915,-12.884,0.839,0.114,0.0984,112.115
+Go For Broke,Jake Shimabukuro,ukulele,0.164,0.623,0.595,0.146,-15.612,0.935,0.0401,0.0558,118.847
+Trapped 2010,Jake Shimabukuro,ukulele,0.494,0.846,0.56,0.329,-13.485,0.765,0.0471,0.0971,112.734
+Variation On A Dance 2010,Jake Shimabukuro,ukulele,0.591,0.286,0.535,0.553,-14.106,0.927,0.078,0.0803,195.032
+Pianoforte 2010,Jake Shimabukuro,ukulele,0.101,0.977,0.716,0.537,-22.44,0.884,0.0762,0.104,112.908
+Five Dallars Unleaded 2010,Jake Shimabukuro,ukulele,0.395,0.714,0.775,0.707,-11.636,0.939,0.0364,0.0778,104.486
+Ukulele Bros.,Jake Shimabukuro,ukulele,0.775,0.605,0.637,0.752,-11.365,0.838,0.0348,0.139,91.034
+Hallelujah,Jake Shimabukuro,ukulele,0.0614,0.929,0.49,0.136,-19.436,0.904,0.0538,0.105,170.089
+Bohemian Rhapsody - Live Version,Jake Shimabukuro,ukulele,0.132,0.97,0.495,0.18,-18.154,0.832,0.0533,0.434,157.01
+Contrabando de Amor,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.88,0.109,0.662,0.937,-6.104,1.36e-05,0.0356,0.386,154.893
+Siempre Me Hablaste de Ella,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.832,0.0189,0.527,0.885,-4.872,1.71e-05,0.0295,0.197,167.114
+"Vamos Ya! - ""Move On Up""",Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.9,0.017,0.717,0.985,-5.661,0.251,0.0314,0.066,151.911
+CJ,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.596,0.235,0.825,0.736,-7.97,0.000483,0.0391,0.267,112.9
+El Sonido Joven de América,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.911,0.00595,0.664,0.976,-4.517,0.0131,0.0344,0.0864,155.935
+Lanzallamas,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.7,0.0847,0.801,0.965,-5.745,0.00117,0.0409,0.0826,108.111
+Tanto Como un Dios,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.878,0.182,0.626,0.741,-5.675,0.00525,0.0315,0.113,136.983
+Surfer Calavera,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.844,0.0516,0.446,0.894,-5.206,0.000186,0.039,0.187,146.361
+Siete Jinetes,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.854,0.263,0.626,0.834,-5.453,7.27e-06,0.0427,0.106,170.258
+Soledad,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.791,0.00292,0.625,0.85,-6.188,0.00052,0.0438,0.184,143.203
+Más Solo Que la Noche Anterior,Los Fabulosos Cadillacs,"argentine rock,latin alternative,latin rock,rock en espanol,ska,ska argentino",0.881,0.29,0.782,0.93,-5.366,0.000346,0.0279,0.144,109.994
+The Infanta,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.861,0.0168,0.484,0.275,-5.872,0.00283,0.0517,0.186,134.932
+We Both Go Down Together,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.798,0.194,0.583,0.566,-6.189,0,0.032,0.172,119.195
+"Eli, The Barrow Boy",The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.312,0.773,0.571,0.232,-8.236,0,0.0271,0.112,137.529
+The Sporting Life,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.811,0.114,0.653,0.873,-6.609,0.00132,0.0635,0.109,106.194
+16 Military Wives,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.777,0.0549,0.508,0.598,-5.593,6.6e-06,0.0354,0.137,92.236
+The Mariner's Revenge Song,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.581,0.25,0.391,0.459,-5.481,0,0.0901,0.0861,83.587
+Of Angels and Angles,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.0505,0.898,0.655,0.249,-15.278,0,0.0434,0.0987,93.583
+The Bagman's Gambit,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.319,0.247,0.372,0.14,-9.335,0.000392,0.0261,0.114,87.765
+From My Own True Love (Lost At Sea),The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.218,0.588,0.515,0.176,-9.72,1.84e-05,0.0321,0.108,84.851
+The Engine Driver,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.717,0.334,0.425,0.522,-6.498,0,0.0274,0.29,96.694
+On the Bus Mall,The Decemberists,"alternative rock,anti-folk,baroque pop,canadian indie,chamber pop,indie folk,indie pop,indie rock,modern folk rock,modern rock,pop rock,stomp and holler",0.535,0.174,0.476,0.374,-8.579,1.24e-05,0.026,0.308,95.165
+Mil Horas,Los Abuelos De La Nada,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,rock nacional,ska argentino",0.386,0.306,0.697,0.554,-11.746,0,0.0798,0.0682,99.796
+Candy,Paolo Nutini,"british soul,neo mellow,scottish singer-songwriter",0.601,0.373,0.612,0.368,-7.809,0,0.0421,0.156,125.164
+Fronteo,Plan B,"reggaeton,urbano latino",0.854,0.145,0.871,0.421,-4.856,0.000264,0.0901,0.135,88.006
+Choca,Plan B,"reggaeton,urbano latino",0.835,0.225,0.858,0.466,-4.852,5.76e-06,0.122,0.0613,88.0
+Pa'l Piso (feat. Yandel),Plan B,"reggaeton,urbano latino",0.931,0.0294,0.665,0.644,-5.306,0,0.0691,0.321,169.996
+Fanática Sensual,Plan B,"reggaeton,urbano latino",0.853,0.0937,0.793,0.906,-3.655,0,0.0477,0.085,164.022
+El Matadero (feat. Alexis & Fido),Plan B,"reggaeton,urbano latino",0.892,0.152,0.746,0.853,-3.688,0,0.0803,0.142,179.995
+No Quiero Que Te Vayas,Plan B,"reggaeton,urbano latino",0.693,0.272,0.692,0.342,-5.087,0,0.054,0.3,95.026
+Mi Vecinita,Plan B,"reggaeton,urbano latino",0.82,0.102,0.755,0.867,-4.408,0,0.0528,0.577,93.995
+Juegas Con Mi Mente (feat. J Alvarez),Plan B,"reggaeton,urbano latino",0.841,0.0269,0.705,0.908,-4.229,0.00126,0.0861,0.194,175.977
+Dónde los Consigo? (feat. Yailemm y Clandestino),Plan B,"reggaeton,urbano latino",0.851,0.0832,0.67,0.654,-4.37,0,0.114,0.132,172.008
+Soy y Seré,Plan B,"reggaeton,urbano latino",0.81,0.188,0.801,0.475,-4.52,0,0.094,0.879,95.028
+Coquetea,Plan B,"reggaeton,urbano latino",0.835,0.0709,0.863,0.617,-4.627,0,0.0453,0.355,93.999
+Zapatito Roto (feat. Tego),Plan B,"reggaeton,urbano latino",0.706,0.259,0.918,0.712,-8.31,0,0.0838,0.587,95.004
+Dame una Noche (feat. Zion & Lennox),Plan B,"reggaeton,urbano latino",0.794,0.0485,0.709,0.792,-5.09,0,0.347,0.0758,185.877
+Candy,Plan B,"reggaeton,urbano latino",0.864,0.252,0.897,0.542,-3.735,0,0.147,0.517,95.981
+Sátiro (feat. Amaro),Plan B,"reggaeton,urbano latino",0.839,0.0356,0.788,0.769,-4.396,0,0.0944,0.143,175.955
+Love and Sex,Plan B,"reggaeton,urbano latino",0.713,0.0234,0.816,0.298,-6.836,5.87e-06,0.0675,0.0576,88.002
+Colgando en tus manos (con Marta Sánchez),Carlos Baute,"latin pop,spanish pop",0.65,0.532,0.834,0.877,-4.276,0,0.0372,0.128,120.008
+Prelude and The Sound Of Music,Irwin Kostal,,0.223,0.814,0.256,0.147,-14.997,0,0.0401,0.366,140.621
+Overture and Preludium (Dixit Dominus),Irwin Kostal,,0.213,0.827,0.258,0.151,-14.082,0.788,0.0317,0.33,67.607
+Morning Hymn and Alleluia,Annalee,,0.102,0.989,0.237,0.0637,-19.53,0.000924,0.0444,0.132,136.955
+Maria,Evadne Baker,,0.241,0.892,0.566,0.617,-12.801,0,0.135,0.246,108.3
+I Have Confidence,Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.266,0.797,0.536,0.432,-12.461,0,0.0698,0.548,72.57
+Sixteen Going On Seventeen,Charmian Carr,"hollywood,movie tunes",0.174,0.88,0.495,0.265,-13.89,0,0.0381,0.0956,125.729
+My Favorite Things,Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.264,0.844,0.525,0.648,-11.84,0,0.0923,0.183,76.29
+Do-Re-Mi,Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.23,0.831,0.508,0.504,-11.401,0,0.0583,0.269,132.151
+The Sound of Music,Charmian Carr,"hollywood,movie tunes",0.0726,0.954,0.253,0.158,-19.837,7.33e-05,0.0369,0.102,87.438
+The Lonely Goatherd,Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.259,0.82,0.662,0.563,-11.34,0,0.0534,0.315,100.297
+Edelweiss,Bill Lee,,0.117,0.859,0.297,0.345,-20.203,0.00633,0.0348,0.124,98.654
+Laendler,Irwin Kostal,,0.125,0.669,0.497,0.603,-12.306,0.502,0.0356,0.568,134.441
+"So Long, Farewell",Charmian Carr,"hollywood,movie tunes",0.165,0.818,0.44,0.37,-15.351,8.22e-05,0.0535,0.129,81.995
+Entr'acte,Irwin Kostal,,0.325,0.809,0.334,0.33,-10.833,0.972,0.0305,0.275,91.8
+Climb Ev'ry Mountain,Peggy Wood,,0.298,0.845,0.162,0.19,-12.417,0,0.0386,0.22,83.309
+My Favorite Things (Reprise),Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.0999,0.964,0.486,0.477,-14.67,0,0.0536,0.285,106.822
+Something Good,Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.0781,0.949,0.229,0.171,-21.91,0.00135,0.0398,0.115,81.981
+Processional And Maria (The Wedding),Evadne Baker,,0.269,0.381,0.382,0.234,-9.213,0.0041,0.0282,0.227,100.574
+Sixteen Going On Seventeen (reprise),Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.098,0.793,0.388,0.13,-20.017,2.45e-06,0.0365,0.159,89.934
+Do-Re-Mi (reprise),Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.565,0.926,0.332,0.89,-13.57,0,0.393,0.753,144.896
+Edelweiss (reprise),Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.136,0.927,0.317,0.253,-14.964,3.2e-05,0.0404,0.085,75.647
+"So Long, Farewell (Reprise)",Julie Andrews,"adult standards,hollywood,movie tunes,show tunes",0.258,0.839,0.542,0.63,-15.006,1.48e-06,0.145,0.965,130.39
+Climb Ev'ry Mountain (reprise),Chorus & Orchestra,,0.262,0.893,0.114,0.351,-11.782,0.0142,0.0309,0.33,75.452
+End Titles,Irwin Kostal,,0.399,0.775,0.141,0.552,-8.474,0.908,0.0319,0.243,163.871
+Robert Wise Interview,Robert Wise,,0.13,0.842,0.613,0.838,-22.798,0,0.877,0.261,88.715
+Richard Rodgers Interview,Richard Rodgers,"broadway,vintage broadway",0.186,0.665,0.69,0.569,-23.419,0,0.928,0.211,111.693
+Charmian Carr Interview,Charmian Carr,"hollywood,movie tunes",0.0843,0.635,0.694,0.528,-21.213,0,0.706,0.262,94.905
+Moving In,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.531,0.903,0.644,0.969,-13.641,0.706,0.0538,0.144,153.862
+Mr. Fox In The Fields Medley,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.259,0.501,0.463,0.443,-15.795,0.834,0.0433,0.135,131.277
+Trains,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.328,0.452,0.776,0.346,-16.653,0.259,0.04,0.255,119.999
+Side Car Escape,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.474,0.424,0.551,0.472,-16.307,0.929,0.0472,0.14,171.903
+Shoot Out,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.308,0.539,0.744,0.0633,-13.525,0.000785,0.0652,0.0964,126.017
+Kristofferson,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.293,0.962,0.873,0.573,-19.652,0.628,0.0663,0.109,124.046
+Plan B,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.496,0.106,0.49,0.447,-16.322,0.944,0.0473,0.0938,151.862
+Trains 2,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.245,0.936,0.772,0.85,-16.184,0.781,0.0411,0.319,119.994
+Looking For Cider,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.273,0.706,0.877,0.0389,-17.305,0.863,0.118,0.0541,123.988
+Death Of Rat,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.0854,0.97,0.498,0.0355,-17.477,0.0103,0.034,0.087,80.037
+Whack-Bat Majorette Ensemble,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.54,0.411,0.458,0.467,-14.672,0.00587,0.0513,0.149,146.399
+Canis Lupus,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.133,0.968,0.271,0.0385,-18.059,0.819,0.0355,0.0698,75.309
+Trains 3,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.312,0.187,0.595,0.208,-17.652,0.828,0.0316,0.305,119.999
+Rat Fight,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.303,0.167,0.842,0.213,-16.471,0.745,0.0579,0.148,117.971
+Dig!,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.491,0.338,0.802,0.108,-14.488,0.95,0.0535,0.169,119.986
+Mr. Fox's Promenade,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.364,0.928,0.707,0.801,-17.761,0.85,0.0524,0.312,132.028
+Three Farmers,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.251,0.23,0.625,0.0682,-15.875,0.72,0.0554,0.137,112.013
+Kristofferson 2,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.316,0.966,0.856,0.564,-18.685,0.769,0.0525,0.111,124.028
+"Boggis, Bunce And Bean (Reprise)",Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.346,0.68,0.71,0.275,-14.451,0.00701,0.0441,0.0919,125.083
+Trains 4,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.274,0.592,0.636,0.509,-17.265,0.574,0.0356,0.189,119.986
+Mr. Fox And Mrs. Fox,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.45,0.919,0.722,0.921,-15.689,0.757,0.0566,0.319,132.001
+Canis Lupus 2,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.115,0.964,0.292,0.0371,-18.674,0.86,0.035,0.071,73.938
+Finale,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.458,0.355,0.686,0.497,-13.164,0.00894,0.0465,0.236,144.123
+Choir Boys Farewell (To The Puppets),Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.371,0.913,0.614,0.777,-17.811,0.00319,0.0568,0.385,119.941
+American Empirical Pictures,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.0903,0.654,0,0,-18.773,0.937,0,0.103,0
+The Ballad Of Davy Crockett,The Wellingtons,,0.195,0.765,0.708,0.806,-12.483,1.32e-06,0.106,0.38,69.593
+Mr. Fox In The Fields,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.379,0.96,0.726,0.842,-19.99,0.866,0.0533,0.306,131.955
+Heroes And Villians - Remastered,The Beach Boys,"adult standards,baroque pop,classic rock,psychedelic rock,rock,sunshine pop",0.544,0.479,0.434,0.251,-8.419,6.76e-06,0.0336,0.191,117.132
+Fooba Wooba John,Burl Ives,"adult standards,american folk revival,lounge",0.377,0.565,0.523,0.967,-9.659,0,0.0469,0.049,205.306
+"Boggis, Bunce And Bean",Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.333,0.339,0.752,0.631,-15.708,0.958,0.0318,0.11,111.998
+Jimmy Squirrel And Co.,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.513,0.954,0.663,0.648,-17.464,0.867,0.072,0.108,153.899
+Love,Nancy Adams,movie tunes,0.335,0.774,0.315,0.539,-14.15,9.39e-05,0.0375,0.101,81.145
+Buckeye Jim,Burl Ives,"adult standards,american folk revival,lounge",0.119,0.881,0.751,0.711,-15.243,1.59e-06,0.0522,0.112,88.67
+High-Speed French Train,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.239,0.661,0.754,0.243,-19.019,0.0714,0.0535,0.242,119.977
+Whack-Bat Majorette,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.514,0.575,0.657,0.65,-12.252,0.492,0.0396,0.233,143.973
+The Grey Goose,Burl Ives,"adult standards,american folk revival,lounge",0.262,0.829,0.89,0.906,-11.18,0,0.053,0.459,135.03
+Beans Secret Cider Cellar,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.506,0.382,0.865,0.335,-11.839,0.946,0.0429,0.0923,117.968
+Une Petite Ile,Georges Delerue,"classic soundtrack,french soundtrack,soundtrack",0.0549,0.937,0.324,0.0687,-17.811,0.687,0.0311,0.103,92.977
+Street Fighting Man,The Rolling Stones,"british invasion,classic rock,rock",0.741,0.0133,0.563,0.719,-9.875,0.0108,0.0318,0.213,128.156
+Fantastic Mr. Fox AKA Petey’s Song,Jarvis Cocker,"british alternative rock,britpop,sheffield indie,solo wave",0.387,0.654,0.688,0.846,-11.527,0.000107,0.0434,0.0979,115.407
+Night And Day,Art Tatum,"bebop,big band,jazz,jazz piano,stride,swing,vintage jazz,vocal jazz",0.311,0.98,0.448,0.686,-15.869,0.861,0.052,0.182,142.001
+Kristofferson's Theme,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.214,0.979,0.907,0.407,-21.971,0.74,0.0652,0.119,124.01
+Just Another Dead Rat In A Garbage Pail (Behind A Chinese Restaurant),Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.207,0.664,0.508,0.0343,-15.123,0.0179,0.0576,0.0862,118.091
+Le Grand Choral,Georges Delerue,"classic soundtrack,french soundtrack,soundtrack",0.43,0.942,0.314,0.421,-8.253,0.848,0.0302,0.361,92.238
+Great Harrowsford Square,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.244,0.572,0.619,0.0386,-13.081,0.0175,0.0925,0.0579,125.996
+Stunt Expo 2004,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.484,0.691,0.501,0.0707,-11.2,0.23,0.0617,0.176,125.045
+Canis Lupus,Alexandre Desplat,"french soundtrack,orchestral soundtrack,soundtrack",0.142,0.97,0.33,0.0357,-20.764,0.97,0.0403,0.0718,76.715
+Ol' Man River - Digitally Remastered & Remixed 01,The Beach Boys,"adult standards,baroque pop,classic rock,psychedelic rock,rock,sunshine pop",0.068,0.758,0.232,0.271,-17.624,0,0.0294,0.154,86.27
+Let Her Dance,The Bobby Fuller Four,"bubblegum pop,classic garage rock,merseybeat,rock-and-roll",0.983,0.0497,0.556,0.766,-3.293,0.01,0.0405,0.145,141.143
+Nada Personal - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.935,0.42,0.758,0.422,-5.284,0.133,0.0517,0.114,124.372
+Sobredosis de T.V. - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.796,0.0196,0.761,0.891,-4.926,0.259,0.0342,0.0572,124.71
+Trátame Suavemente - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.789,0.0401,0.738,0.539,-4.009,0.0647,0.0283,0.632,122.85
+Juegos De Seducción - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.877,0.111,0.608,0.567,-5.306,0.0214,0.0474,0.102,100.94
+Cuando Pase El Temblor - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.598,0.0329,0.653,0.711,-9.179,0.00196,0.037,0.0736,94.099
+Signos - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.649,0.407,0.63,0.482,-8.745,0.0269,0.0339,0.111,125.011
+Persiana Americana - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.916,0.0123,0.602,0.549,-5.418,0.00134,0.0399,0.133,101.212
+Prófugos - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.87,0.0032,0.549,0.364,-5.339,0.0426,0.0384,0.288,127.215
+Pic Nic En El 4° B - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.864,0.0159,0.67,0.915,-5.847,0.433,0.0283,0.128,123.82
+En La Ciudad De La Furia - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.795,0.0806,0.612,0.713,-6.266,0.867,0.0278,0.096,126.515
+De Música Ligera - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.749,0.000645,0.537,0.735,-6.336,0.527,0.0284,0.197,124.224
+Un Millón De Años Luz - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.802,0.017,0.52,0.499,-5.763,0.00262,0.0265,0.334,95.328
+En Remolinos - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.817,8.13e-05,0.351,0.0885,-7.117,0.826,0.0433,0.105,95.942
+Primavera 0 - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.707,0.0019,0.382,0.158,-6.025,0.0348,0.0426,0.0981,134.015
+Zona De Promesas - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.374,0.0195,0.232,0.0744,-8.083,0.681,0.0297,0.157,75.793
+Ella Usó Mi Cabeza Como Un Revólver - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.713,0.00377,0.38,0.368,-7.239,0.0162,0.0259,0.11,165.532
+Zoom - Remasterizado 2007,Soda Stereo,"argentine rock,latin alternative,latin rock,post-punk argentina,rock en espanol,ska argentino",0.853,0.0664,0.677,0.961,-5.847,0.14,0.0301,0.0477,93.934
+Devuélveme a mi chica - 2015 Remaster,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.922,0.0129,0.574,0.43,-4.394,0.00446,0.103,0.138,172.692
+Visite nuestro bar - 2015 Remaster,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.949,0.0864,0.651,0.964,-4.384,0.126,0.0737,0.255,77.669
+Indiana - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.965,0.00339,0.531,0.839,-4.008,0.00242,0.0551,0.2,166.978
+Un par de palabras - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.702,0.304,0.45,0.475,-4.637,0.00764,0.0273,0.0993,168.759
+Marta tiene un marcapasos - 2015 Remaster,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.942,0.00221,0.602,0.636,-3.404,0.00417,0.0464,0.11,102.192
+El ataque de las chicas cocodrilo - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.854,0.0321,0.712,0.728,-5.144,0.000952,0.0427,0.0715,119.562
+Una mujer de bandera - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.729,0.0463,0.702,0.776,-5.094,0.00437,0.0373,0.0754,138.088
+Temblando - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.332,0.809,0.388,0.22,-6.619,1.56e-05,0.0335,0.142,174.976
+Suéltate el pelo - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.945,0.271,0.454,0.913,-3.71,0.00408,0.0542,0.318,170.046
+Te necesito - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.467,0.785,0.61,0.126,-7.064,0.00463,0.0265,0.248,85.117
+Esta es tu vida - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.918,0.0524,0.402,0.227,-3.427,0.0182,0.0468,0.343,100.186
+Rita - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.951,0.208,0.617,0.965,-3.514,0.000392,0.0378,0.152,143.112
+Un minuto nada más - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.822,0.0925,0.564,0.96,-4.959,0.000414,0.0305,0.237,124.502
+Lo noto - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.655,0.00944,0.715,0.433,-5.737,0.000177,0.0344,0.0861,111.0
+Te vi - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.819,0.0406,0.563,0.731,-4.356,0.00222,0.031,0.184,111.986
+Por qué no ser amigos (feat. Dani Martín) - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.943,7.29e-05,0.288,0.531,-3.311,4.47e-05,0.0553,0.37,169.965
+Qué soy yo para ti - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.721,0.000984,0.454,0.242,-3.368,1.21e-05,0.0298,0.308,92.079
+Me siento bien - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.869,0.159,0.681,0.685,-4.346,0.000136,0.0301,0.0969,111.998
+Separados (feat. Bebe) - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.685,0.0795,0.251,0.253,-5.09,0.000427,0.0313,0.0873,82.846
+Depende de ti,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.82,0.115,0.597,0.749,-2.047,0.000276,0.0313,0.333,113.937
+Un millón de años más - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.912,0.00408,0.518,0.493,-2.153,0.000368,0.034,0.113,129.876
+Voy a pasármelo bien - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.792,0.228,0.668,0.61,-7.879,0.0499,0.0427,0.166,145.035
+Tú me gustas - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.758,0.0313,0.619,0.81,-8.051,0.00721,0.0367,0.115,146.018
+Aprender a caer - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.343,0.735,0.67,0.164,-11.658,0.152,0.0353,0.11,136.877
+Te vi - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.381,0.454,0.744,0.626,-11.749,0.235,0.0269,0.0625,105.024
+No puedo apartar mis manos de ti - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.819,0.0014,0.47,0.554,-3.245,0.000108,0.047,0.0481,140.03
+El último tren,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.694,0.116,0.612,0.388,-7.871,0.15,0.0382,0.245,145.893
+Vivir dentro,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.286,0.869,0.499,0.401,-12.085,0.00479,0.0476,0.164,140.57
+No grites mi nombre,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.806,0.389,0.512,0.355,-6.152,0.554,0.0365,0.0914,136.965
+Ella es (a veces) una mujer para mi - Maqueta inédita,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.59,0.051,0.679,0.298,-7.334,1.49e-06,0.0298,0.123,132.052
+Lo mejor que puedo hacer,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.586,0.246,0.713,0.426,-7.098,6.59e-05,0.0305,0.0596,104.962
+Si tu te vas,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.863,0.00216,0.602,0.681,-5.825,1.1e-05,0.0291,0.136,140.949
+Solo soy yo,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.634,0.0835,0.748,0.898,-7.25,9.06e-05,0.0394,0.137,131.036
+Vuelvo a estar de pie,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.657,0.112,0.604,0.764,-8.315,0.00369,0.0284,0.215,137.984
+Venezia - 2015 Remaster,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.9,0.32,0.566,0.568,-3.277,0.00292,0.119,0.0466,168.54
+Te quiero - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.748,0.00449,0.658,0.628,-4.286,0.00133,0.0404,0.0924,112.333
+Si no te tengo a ti - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.536,0.619,0.796,0.284,-8.437,0.128,0.0391,0.111,128.039
+Voy a pasármelo bien - 2015 Remaster,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.866,0.0186,0.633,0.851,-3.762,4.41e-05,0.0428,0.0448,147.963
+Chico tienes que cuidarte - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.855,0.0822,0.678,0.882,-4.518,3.52e-06,0.0333,0.043,104.075
+La primavera - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.661,0.328,0.582,0.599,-6.617,3.33e-05,0.0264,0.0626,133.977
+No te escaparás - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.908,0.00428,0.526,0.729,-4.092,0.255,0.0472,0.109,148.07
+Hombre real - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.903,0.0012,0.523,0.796,-4.814,0.0674,0.0486,0.0963,148.006
+Por una vez - 2015 Remaster,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.898,0.0183,0.557,0.709,-3.716,0,0.0475,0.0933,106.114
+Esperando un milagro - Remaster 2015,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.449,0.697,0.507,0.242,-6.402,0.00066,0.029,0.102,73.893
+Tomasa me persigue,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.856,0.0116,0.572,0.764,-8.734,0.0185,0.0557,0.0961,177.792
+El otro lado - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.679,0.025,0.728,0.528,-7.173,0.008,0.0347,0.0548,97.959
+Esto es el mar - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.872,0.196,0.598,0.641,-6.438,0.000161,0.0285,0.0608,141.994
+No te escaparás - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.647,0.0347,0.693,0.86,-8.571,0.00236,0.036,0.367,144.074
+Nunca más - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.791,0.342,0.691,0.587,-8.041,1.53e-05,0.0317,0.107,152.01
+Multiplicados por 9 - Maqueta,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.356,0.55,0.698,0.489,-11.915,0,0.0323,0.117,129.843
+Tú,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.464,0.0951,0.719,0.386,-11.867,4.12e-06,0.0274,0.267,115.036
+Para no pensar en ti,Hombres G,"latin alternative,latin pop,latin rock,mexican pop,rock en espanol,spanish rock",0.823,0.0542,0.691,0.677,-6.763,3.36e-06,0.0315,0.237,135.961
+My Last Landlady,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.441,0.746,0.69,0.419,-12.327,0,0.953,0.965,79.351
+The Rhyme Maidens,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.558,0.918,0.624,0.515,-10.804,0,0.949,0.691,168.175
+Feminine Endings,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.562,0.878,0.624,0.443,-10.388,0,0.954,0.892,80.511
+The Winter Gardens,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.513,0.855,0.724,0.722,-13.946,3.9e-06,0.953,0.704,86.256
+The View from the Cheap Seats,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.621,0.93,0.629,0.516,-9.76,0,0.948,0.711,84.283
+I Will Write in Words of Fire,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.474,0.891,0.727,0.35,-11.088,0,0.918,0.943,100.962
+The Man Who Forgot Ray Bradbury,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.541,0.909,0.62,0.364,-10.519,2.45e-06,0.956,0.898,174.45
+Making a Chair,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.623,0.912,0.716,0.547,-9.35,6.91e-06,0.908,0.826,119.601
+100 Words,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.531,0.905,0.712,0.757,-11.471,2.21e-06,0.949,0.832,99.157
+Margaret Cho Introduces the Show (feat. Margaret Cho),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.579,0.718,0.618,0.4,-8.867,0,0.917,0.963,83.793
+Makin' whoopee,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.442,0.912,0.631,0.381,-6.182,0,0.105,0.143,85.813
+(Introduction to the Problem with Saints),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.557,0.882,0.688,0.415,-10.775,0,0.902,0.197,103.629
+The Problem With Saints (feat. 8 in 8),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.618,0.802,0.603,0.764,-4.059,8.47e-05,0.0595,0.656,59.544
+Ask Neil and Amanda,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.582,0.839,0.553,0.548,-10.247,0,0.93,0.49,70.292
+(Introduction to Broken Heart Stew),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.55,0.777,0.614,0.35,-12.264,0,0.876,0.959,122.231
+Broken Heart Stew (By Amanda),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.321,0.921,0.456,0.257,-13.28,0.00016,0.177,0.664,93.317
+Poem for Amanda (By Neil),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.583,0.868,0.606,0.514,-11.73,0,0.934,0.975,91.15
+Electric Blanket (A Duet) [feat. Jason Webley],Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.504,0.821,0.45,0.562,-10.538,4.87e-06,0.28,0.975,68.06
+Psycho,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.185,0.947,0.566,0.361,-15.83,4.38e-06,0.134,0.732,166.56
+(Introduction to I Google You),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.473,0.894,0.519,0.535,-14.758,8.58e-06,0.916,0.186,143.531
+I Google You,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.168,0.965,0.51,0.136,-11.462,6.39e-05,0.0577,0.678,90.329
+Dear Old House,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.176,0.93,0.598,0.297,-8.893,0,0.0394,0.697,120.725
+"(Introduction to Gaga, Palmer, Madonna; a Polemic)",Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.376,0.659,0.615,0.64,-11.126,0,0.919,0.586,77.9
+"Gaga, Palmer, Madonna; a Polemic",Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.449,0.808,0.65,0.745,-6.381,0,0.162,0.64,112.675
+(Introduction to Judy Blume),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.226,0.785,0.747,0.433,-20.448,0,0.922,0.333,102.022
+Judy Blume,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.264,0.821,0.438,0.14,-7.55,2.01e-05,0.0319,0.712,132.976
+I Don't Care Much (feat. Lance Horne),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.0808,0.965,0.313,0.135,-17.104,0.000647,0.0388,0.968,73.492
+"(Introduction to Do You Swear to Tell the Truth, the Whole Truth & Nothing but the Truth so Help Your Black Ass)",Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.315,0.789,0.621,0.352,-11.87,0,0.93,0.371,171.976
+"Do You Swear to Tell the Truth, the Whole Truth & Nothing but the Truth so Help Your Black Ass",Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.43,0.834,0.549,0.669,-6.141,0,0.0805,0.949,103.75
+(Introduction to I Will Follow You into the Dark),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.252,0.776,0.764,0.412,-15.578,0,0.944,0.162,59.495
+"Look Mummy, No Hands",Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.0463,0.959,0.476,0.132,-18.966,0.000529,0.0476,0.669,132.671
+Ukulele Anthem,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.489,0.809,0.594,0.751,-5.762,0,0.0712,0.606,120.544
+The Day the Saucers Came,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.55,0.9,0.697,0.56,-10.541,0,0.898,0.831,134.196
+In Relig Odhrain,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.539,0.841,0.673,0.634,-10.914,0,0.94,0.935,88.613
+Jump (For Jeremy Geidt),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.482,0.858,0.576,0.334,-7.272,2.42e-05,0.534,0.841,131.198
+Poem for Neil (By Amanda),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.515,0.954,0.61,0.219,-13.199,2.55e-05,0.923,0.736,117.277
+"I Want You, but I Don't Need You",Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.201,0.978,0.419,0.128,-10.158,0.000159,0.0595,0.972,182.888
+(Introduction to Dear Old House),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.372,0.774,0.69,0.671,-11.303,0,0.933,0.937,94.658
+Map of Tasmania,Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.578,0.844,0.614,0.814,-6.465,0,0.333,0.857,102.841
+I Will Follow You into the Dark (For Ashlie Gough),Amanda Palmer,"anti-folk,dark cabaret,piano rock,steampunk",0.101,0.961,0.472,0.251,-13.632,0,0.0537,0.696,174.797
+Mellon Collie And The Infinite Sadness - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.0332,0.957,0.274,0.139,-22.448,0.771,0.0341,0.115,96.934
+"Tonight, Tonight - Remastered 2012",The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.67,6.28e-05,0.277,0.217,-9.381,0.751,0.0376,0.237,148.342
+Jellybelly - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.835,2.2e-06,0.209,0.506,-8.158,0.873,0.0569,0.191,117.003
+Zero - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.728,3.49e-05,0.438,0.701,-7.105,0.57,0.0458,0.0509,128.04
+Here Is No Why - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.654,7.74e-05,0.319,0.602,-7.063,0.895,0.0334,0.136,79.598
+Bullet With Butterfly Wings - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.72,5.59e-05,0.404,0.475,-9.18,0.836,0.0623,0.0466,121.864
+To Forgive - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.314,0.0208,0.579,0.0512,-12.589,0.761,0.0267,0.111,126.746
+An Ode To No One - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.855,0.000143,0.362,0.215,-8.806,0.83,0.0743,0.137,124.359
+Love - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.659,0.000171,0.514,0.257,-10.074,0.824,0.0272,0.11,95.173
+Cupid De Locke - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.677,0.000229,0.4,0.393,-10.971,0.396,0.0336,0.119,183.614
+Galapogos - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.409,0.016,0.362,0.0448,-14.268,0.742,0.0314,0.354,120.56
+Muzzle - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.686,7.37e-06,0.278,0.334,-8.731,0.822,0.034,0.0939,91.852
+Porcelina Of The Vast Oceans - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.442,0.000764,0.268,0.0501,-11.232,0.765,0.0316,0.0722,111.226
+Take Me Down - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.176,0.756,0.443,0.0717,-18.46,0.845,0.0337,0.111,65.907
+Where Boys Fear To Tread - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.76,0.000278,0.478,0.451,-8.875,0.774,0.0525,0.331,113.206
+Bodies - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.918,5.01e-06,0.401,0.378,-8.204,0.881,0.0694,0.365,108.305
+Thirty-Three - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.333,0.000968,0.607,0.0802,-12.717,0.4,0.0324,0.151,126.619
+In The Arms Of Sleep - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.522,0.247,0.244,0.149,-12.076,0.146,0.0385,0.369,183.207
+1979 - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.787,0.0163,0.767,0.964,-9.897,0.583,0.0331,0.0513,126.879
+Tales Of A Scorched Earth - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.801,0.0147,0.231,0.368,-11.485,0.874,0.0695,0.605,127.486
+Thru The Eyes Of Ruby - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.483,9.75e-05,0.26,0.144,-9.977,0.862,0.031,0.0829,140.713
+Stumbleine - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.151,0.844,0.623,0.271,-18.534,0.762,0.0386,0.146,122.208
+X.Y.U. - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.739,0.000127,0.32,0.24,-8.375,0.749,0.0502,0.21,114.053
+We Only Come Out At Night - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.405,0.706,0.636,0.377,-11.819,0.36,0.0259,0.0717,106.768
+Beautiful - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.533,0.000814,0.447,0.387,-10.916,0.504,0.0309,0.0943,157.321
+Lily (My One And Only) - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.252,0.0198,0.648,0.451,-13.716,0.346,0.0267,0.088,98.714
+By Starlight - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.352,0.00919,0.382,0.108,-11.76,0.85,0.025,0.249,104.536
+Farewell And Goodnight - Remastered 2012,The Smashing Pumpkins,"alternative metal,alternative rock,grunge,permanent wave,pop rock,rock,spacegrunge",0.295,0.811,0.648,0.175,-15.026,0.0164,0.0292,0.0806,140.062
+Best Friend,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.854,0.0246,0.64,0.906,-6.004,2.83e-05,0.0278,0.125,145.919
+Me And The Moon,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.961,0.000401,0.499,0.83,-4.943,0.00425,0.0359,0.178,169.985
+Lets Go Surfing,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.806,0.214,0.579,0.789,-5.7,0.000535,0.0323,0.0917,174.057
+Book Of Stories,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.786,0.785,0.519,0.914,-5.924,0.00026,0.0386,0.12,164.061
+Skippin' Town,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.934,0.418,0.496,0.652,-3.094,7.05e-05,0.063,0.324,167.965
+Forever And Ever Amen,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.94,0.0683,0.524,0.639,-4.636,3.34e-05,0.0414,0.692,150.036
+Down By The Water,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.422,0.708,0.496,0.299,-7.999,0,0.0235,0.136,80.007
+It Will All End In Tears,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.89,0.439,0.486,0.419,-4.23,0,0.0653,0.122,156.021
+We Tried,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.893,0.383,0.529,0.734,-4.814,0.000408,0.05,0.164,150.016
+I Need Fun In My Life,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.828,0.426,0.593,0.373,-8.722,0.666,0.0367,0.116,159.933
+I'll Never Drop My Sword,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.819,0.255,0.621,0.923,-6.689,0.00185,0.0294,0.131,154.016
+The Future,The Drums,"brooklyn indie,indie rock,indie surf,modern rock",0.881,0.191,0.49,0.79,-5.516,2.42e-05,0.0301,0.11,160.061
+Broad-Shouldered Beasts,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.356,0.303,0.384,0.094,-8.101,0.0443,0.0324,0.139,143.883
+Hot Gates,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.393,0.402,0.469,0.0739,-11.188,0.277,0.0323,0.0775,135.833
+Tompkins Square Park,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.794,0.0142,0.472,0.446,-6.488,0.026,0.0519,0.112,161.295
+Believe,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.669,0.0273,0.359,0.366,-5.854,0.0197,0.0435,0.231,113.61
+The Wolf,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.824,0.000584,0.418,0.326,-5.289,0.657,0.0467,0.212,152.932
+Wilder Mind,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.725,0.14,0.446,0.6,-8.791,0.305,0.0428,0.122,78.905
+Just Smoke,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.82,0.0335,0.545,0.362,-6.348,0.761,0.0623,0.0968,156.055
+Monster,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.444,0.363,0.539,0.14,-10.365,0.227,0.0334,0.102,144.007
+Snake Eyes,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.699,0.0141,0.365,0.233,-7.618,0.246,0.0523,0.0915,179.957
+Cold Arms,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.144,0.815,0.431,0.0491,-12.07,1.1e-06,0.039,0.124,137.683
+Ditmas,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.786,0.00478,0.524,0.572,-5.832,0.00301,0.0458,0.0862,144.089
+Only Love,Mumford & Sons,"modern folk rock,stomp and holler,uk americana",0.279,0.0414,0.292,0.133,-9.687,0.00182,0.0311,0.101,159.971

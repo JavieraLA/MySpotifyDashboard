@@ -1,0 +1,169 @@
+import spotipy
+from spotipy.oauth2 import SpotifyOAuth
+import csv
+import time
+import lyricsgenius
+import csv
+import pandas as pd
+import json
+import time
+import os
+
+# spotify API data
+with open("data/client_info.txt") as f:
+    client_id = f.readline().strip()
+    client_secret = f.readline().strip()
+    redirect_uri = f.readline().strip()
+    username = f.readline().strip()
+
+# Genius API data
+genius_client_id = "o4WvEb1gBx7J_pT2u1Of4h_R1a9MgiXMgB0-F_duCuSWUHFDAAroiJvM5o4OH7QA"
+genius_client_secret = "mJ11_tVaVUx99zfz4iBKEx3PEL2-oHbApLZ-PmxcIX1rNe_62GsuES5ZasGmYNcHipXMVn8C1xlMaH_M2qXYgQ"
+genius_client_access_token = "E4hChPcy7CgiJOwQfHyUsVwanhTBGeq5EtN8Tykb1-QHh_CcIPxySP3dbZ5EpKeW"
+
+scope = ["user-library-read", 'user-read-recently-played', "user-read-playback-state"]
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id, client_secret=client_secret,
+                                                 redirect_uri=redirect_uri, scope=scope), requests_timeout=10, retries=10)
+
+genius = lyricsgenius.Genius(genius_client_access_token,
+                             skip_non_songs=True)
+
+def get_recent_tracks():
+    
+    # get the user's recent tracks
+    recent_tracks = sp.current_user_recently_played(limit=50)
+    tracks = recent_tracks["items"]
+    
+    track_info = []
+    for track in tracks:
+        track_name = track["track"]["name"]
+        artist_name = track["track"]["artists"][0]["name"]
+        artist_genres = sp.artist(track["track"]["artists"][0]["id"])["genres"]
+        features = sp.audio_features(track["track"]["id"])[0]
+        energy = features["energy"]
+        acousticness = features["acousticness"]
+        danceability = features["danceability"]
+        valence = features["valence"]
+        loudness = features["loudness"]
+        instrumentalness = features["instrumentalness"]
+        speechiness = features["speechiness"]
+        liveness = features["liveness"]
+        tempo = features["tempo"]
+        lyrics = search_lyrics(track_name, artist_name)
+        track_info.append({"Track Name": track_name, "Artist": artist_name, "Genres": ','.join(artist_genres), 
+                           "Energy": energy, "Acousticness": acousticness, "Danceability": danceability, 
+                           "Valence": valence, "Loudness": loudness, "Instrumentalness": instrumentalness, 
+                           "Speechiness": speechiness, "Liveness": liveness, "Tempo": tempo, "Lyrics": lyrics})
+        
+    return track_info
+
+
+def get_favorites():
+    # Get all saved tracks
+    saved_tracks = []
+    offset = 0
+    limit = 50
+    while True:
+        try:
+            results = sp.current_user_saved_tracks(offset=offset, limit=limit)
+        except ReadTimeout: 
+            results = sp.current_user_saved_tracks(offset=offset, limit=limit)
+            
+        saved_tracks.extend(results["items"])
+        offset += limit
+        time.sleep(2)
+        if len(results["items"]) < limit:
+            break
+
+    # get the user's favorite tracks
+    track_info = []
+    for track in saved_tracks:
+        track_name = track["track"]["name"]
+        artist_name = track["track"]["artists"][0]["name"]
+        artist_genres = sp.artist(track["track"]["artists"][0]["id"])["genres"]
+        features = sp.audio_features(track["track"]["id"])[0]
+        energy = features["energy"]
+        acousticness = features["acousticness"]
+        danceability = features["danceability"]
+        valence = features["valence"]
+        loudness = features["loudness"]
+        instrumentalness = features["instrumentalness"]
+        speechiness = features["speechiness"]
+        liveness = features["liveness"]
+        tempo = features["tempo"]
+        lyrics = search_lyrics(track_name, artist_name)
+        track_info.append({"Track Name": track_name, "Artist": artist_name, "Genres": ','.join(artist_genres), 
+                           "Energy": energy, "Acousticness": acousticness, "Danceability": danceability, 
+                           "Valence": valence, "Loudness": loudness, "Instrumentalness": instrumentalness, 
+                           "Speechiness": speechiness, "Liveness": liveness, "Tempo": tempo, "Lyrics": lyrics})
+        
+    return track_info
+
+def list_to_csv(list_of_dicts, file_name):
+    keys = list_of_dicts[0].keys()
+    path = 'data/' + file_name + '.csv'
+    with open(path, 'w', newline='') as output_file:
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(list_of_dicts)
+
+def search_lyrics(track_name, artist_name):
+    song = genius.search_song(track_name, artist_name)
+    if song is not None:
+        return song.lyrics
+
+
+#list_to_csv(get_recent_tracks(), "recent_tracks")
+list_to_csv(get_favorites(), "saved_tracks")
+#print(get_favorites())
+
+
+###########################
+##### LYRICS ##############
+###########################
+
+
+
+
+# client_id = "o4WvEb1gBx7J_pT2u1Of4h_R1a9MgiXMgB0-F_duCuSWUHFDAAroiJvM5o4OH7QA"
+# client_secret = "mJ11_tVaVUx99zfz4iBKEx3PEL2-oHbApLZ-PmxcIX1rNe_62GsuES5ZasGmYNcHipXMVn8C1xlMaH_M2qXYgQ"
+# client_access_token = "E4hChPcy7CgiJOwQfHyUsVwanhTBGeq5EtN8Tykb1-QHh_CcIPxySP3dbZ5EpKeW"
+
+# genius = lyricsgenius.Genius(client_access_token,
+#                              skip_non_songs=True)
+
+
+
+# data = pd.read_csv("data/recent_tracks.csv")
+
+# query_number = 0
+# time1 = time.time()
+# artists = []
+# titles = []
+# lyrics = []
+# for index, row in data.iterrows():
+#     query_number += 1
+#     #Empty lists for artist, title, album and lyrics information
+#     print('\nQuery number:', query_number)
+#     #Search for max_songs = n and sort them by popularity
+#     song = genius.search_song(row['Track Name'], row['Artist'])
+#     song_number = 0
+#     #Append all information for each song in the previously created lists
+#     if song is not None:
+#         song_number += 1
+#         print('\nSong number:', song_number)
+#         print('\nNow adding: Artist')
+#         artists.append(song.artist)
+#         print('Now adding: Title')
+#         titles.append(song.title)
+#         print('Now adding: Lyrics')
+#         lyrics.append(song.lyrics)
+#     time2 = time.time()
+#     print('\nQuery', query_number, 'finished in', round(time2-time1,2), 'seconds.')
+
+
+# tracklist = pd.DataFrame({'artist':artists, 'title':titles, 'lyrics':lyrics})   
+# time3 = time.time()   
+# print('\nFinal tracklist of', query_number, 'artists finished in', round(time3-time1,2), 'seconds.')
+# #Save the final tracklist to csv format
+# tracklist.to_csv('mini_lyrics_corpus1.csv', encoding = 'utf-8', index=False)
