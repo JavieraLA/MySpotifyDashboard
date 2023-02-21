@@ -1,4 +1,0 @@
-8fea6e24930c4aebbca86a6c887b61e9
-c7df85ba9d2145f18a761b291537b111
-http://localhost:8888/callback
-jleemhuis2
