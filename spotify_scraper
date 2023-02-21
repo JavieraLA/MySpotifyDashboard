@@ -10,16 +10,17 @@ import time
 import os
 
 # spotify API data
-with open("data/client_info.txt") as f:
+with open("data/spotify_client.txt") as f:
     client_id = f.readline().strip()
     client_secret = f.readline().strip()
     redirect_uri = f.readline().strip()
     username = f.readline().strip()
 
 # Genius API data
-genius_client_id = "o4WvEb1gBx7J_pT2u1Of4h_R1a9MgiXMgB0-F_duCuSWUHFDAAroiJvM5o4OH7QA"
-genius_client_secret = "mJ11_tVaVUx99zfz4iBKEx3PEL2-oHbApLZ-PmxcIX1rNe_62GsuES5ZasGmYNcHipXMVn8C1xlMaH_M2qXYgQ"
-genius_client_access_token = "E4hChPcy7CgiJOwQfHyUsVwanhTBGeq5EtN8Tykb1-QHh_CcIPxySP3dbZ5EpKeW"
+with open("data/spotify_client.txt") as g:
+    genius_client_id = g.readline().strip()
+    genius_client_secret = g.readline().strip()
+    genius_client_access_token = g.readline().strip()
 
 scope = ["user-library-read", 'user-read-recently-played', "user-read-playback-state"]
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id, client_secret=client_secret,
@@ -68,7 +69,7 @@ def get_favorites():
             results = sp.current_user_saved_tracks(offset=offset, limit=limit)
         except ReadTimeout: 
             results = sp.current_user_saved_tracks(offset=offset, limit=limit)
-            
+
         saved_tracks.extend(results["items"])
         offset += limit
         time.sleep(2)
@@ -115,55 +116,3 @@ def search_lyrics(track_name, artist_name):
 
 #list_to_csv(get_recent_tracks(), "recent_tracks")
 list_to_csv(get_favorites(), "saved_tracks")
-#print(get_favorites())
-
-
-###########################
-##### LYRICS ##############
-###########################
-
-
-
-
-# client_id = "o4WvEb1gBx7J_pT2u1Of4h_R1a9MgiXMgB0-F_duCuSWUHFDAAroiJvM5o4OH7QA"
-# client_secret = "mJ11_tVaVUx99zfz4iBKEx3PEL2-oHbApLZ-PmxcIX1rNe_62GsuES5ZasGmYNcHipXMVn8C1xlMaH_M2qXYgQ"
-# client_access_token = "E4hChPcy7CgiJOwQfHyUsVwanhTBGeq5EtN8Tykb1-QHh_CcIPxySP3dbZ5EpKeW"
-
-# genius = lyricsgenius.Genius(client_access_token,
-#                              skip_non_songs=True)
-
-
-
-# data = pd.read_csv("data/recent_tracks.csv")
-
-# query_number = 0
-# time1 = time.time()
-# artists = []
-# titles = []
-# lyrics = []
-# for index, row in data.iterrows():
-#     query_number += 1
-#     #Empty lists for artist, title, album and lyrics information
-#     print('\nQuery number:', query_number)
-#     #Search for max_songs = n and sort them by popularity
-#     song = genius.search_song(row['Track Name'], row['Artist'])
-#     song_number = 0
-#     #Append all information for each song in the previously created lists
-#     if song is not None:
-#         song_number += 1
-#         print('\nSong number:', song_number)
-#         print('\nNow adding: Artist')
-#         artists.append(song.artist)
-#         print('Now adding: Title')
-#         titles.append(song.title)
-#         print('Now adding: Lyrics')
-#         lyrics.append(song.lyrics)
-#     time2 = time.time()
-#     print('\nQuery', query_number, 'finished in', round(time2-time1,2), 'seconds.')
-
-
-# tracklist = pd.DataFrame({'artist':artists, 'title':titles, 'lyrics':lyrics})   
-# time3 = time.time()   
-# print('\nFinal tracklist of', query_number, 'artists finished in', round(time3-time1,2), 'seconds.')
-# #Save the final tracklist to csv format
-# tracklist.to_csv('mini_lyrics_corpus1.csv', encoding = 'utf-8', index=False)
